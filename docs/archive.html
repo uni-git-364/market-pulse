@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>アーカイブ｜ドル円・ゴールド・BTC ニュースまとめ</title>
+<style>
+  * { box-sizing: border-box; }
+  :root {
+    --bg: #f5f5f7; --card-bg: #ffffff; --text: #1a1a1a; --muted: #6b7280;
+    --accent: #0b5bd3; --border: #e5e7eb; --bar-bg: rgba(245,245,247,0.92);
+    --chip-bg: #eef2f7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115; --card-bg: #181b21; --text: #e8eaed; --muted: #9aa0aa;
+      --accent: #6ea8fe; --border: #262b33; --bar-bg: rgba(15,17,21,0.92);
+      --chip-bg: #232934;
+    }
+  }
+  body {
+    margin: 0; line-height: 1.7; color: var(--text); background: var(--bg);
+    font-family: system-ui, -apple-system, "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  .wrap { max-width: 680px; margin: 0 auto; padding: 0 14px 32px; }
+  header { padding: 18px 2px 6px; }
+  header h1 { font-size: 1.15rem; margin: 0 0 4px; }
+  .sub { margin: 0; font-size: 0.85rem; }
+  .sub a { color: var(--accent); text-decoration: none; font-weight: 600; }
+
+  /* 検索・フィルタ（上部に固定） */
+  .controls {
+    position: sticky; top: 0; z-index: 10;
+    background: var(--bar-bg); backdrop-filter: blur(8px);
+    padding: 10px 0 8px; margin: 8px 0 4px; border-bottom: 1px solid var(--border);
+  }
+  #search {
+    width: 100%; padding: 10px 12px; font-size: 0.95rem;
+    color: var(--text); background: var(--card-bg);
+    border: 1px solid var(--border); border-radius: 10px;
+  }
+  .filters { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+  .filter {
+    flex: 1 1 auto; padding: 8px 10px; font-size: 0.85rem; font-weight: 600;
+    color: var(--muted); background: var(--card-bg);
+    border: 1px solid var(--border); border-radius: 999px; cursor: pointer;
+  }
+  .filter.active { color: #fff; background: var(--accent); border-color: var(--accent); }
+
+  .status { color: var(--muted); font-size: 0.85rem; padding: 8px 2px; }
+  .status code { background: var(--chip-bg); padding: 1px 5px; border-radius: 5px; }
+
+  .dategroup {
+    font-size: 0.82rem; font-weight: 700; color: var(--muted);
+    margin: 18px 2px 6px; padding-bottom: 4px; border-bottom: 1px solid var(--border);
+  }
+  .card {
+    background: var(--card-bg); border: 1px solid var(--border);
+    border-radius: 12px; padding: 12px 14px; margin: 8px 0;
+  }
+  .headline { color: var(--accent); text-decoration: none; font-weight: 600; display: block; }
+  .headline:active { opacity: 0.7; }
+  .meta {
+    display: flex; justify-content: space-between; align-items: center;
+    gap: 10px; color: var(--muted); font-size: 0.76rem; margin-top: 7px;
+  }
+  .meta .source { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .insts { flex-shrink: 0; display: flex; gap: 4px; }
+  .badge {
+    background: var(--chip-bg); color: var(--muted);
+    border-radius: 6px; padding: 1px 7px; font-size: 0.72rem; font-weight: 600;
+  }
+  .morewrap { text-align: center; margin: 18px 0; }
+  .more {
+    padding: 10px 24px; font-size: 0.9rem; font-weight: 600;
+    color: var(--accent); background: var(--card-bg);
+    border: 1px solid var(--accent); border-radius: 999px; cursor: pointer;
+  }
+  footer { color: var(--muted); font-size: 0.76rem; text-align: center; padding: 26px 10px 0; line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>📁 ニュースアーカイブ</h1>
+    <p class="sub"><a href="index.html">← トップ（最新ニュース）へ</a></p>
+  </header>
+
+  <div class="controls">
+    <input id="search" type="search" placeholder="キーワードで絞り込み（見出し・出典）" autocomplete="off">
+    <div class="filters" id="filters"></div>
+  </div>
+
+  <p id="status" class="status">読み込み中…</p>
+  <div id="list"></div>
+  <div class="morewrap"><button id="more" class="more" hidden>もっと見る</button></div>
+
+  <footer>本サイトは情報提供を目的としたものであり、投資助言ではありません。投資判断はご自身の責任で行ってください。</footer>
+</div>
+
+<script>
+"use strict";
+const PAGE_SIZE = 50;                          // 一度に表示する件数（軽量化）
+const INSTRUMENTS = ["ドル円", "ゴールド", "BTC"];
+
+let all = [];       // 重複統合後の全レコード（新しい順）
+let filtered = [];  // 現在の絞り込み結果
+let shown = 0;      // 表示済み件数
+let curInst = "";   // 選択中の銘柄（"" = すべて）
+let curQuery = "";  // 検索キーワード（小文字）
+
+const $list = document.getElementById("list");
+const $status = document.getElementById("status");
+const $more = document.getElementById("more");
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, c => (
+    { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]
+  ));
+}
+
+// タイトル正規化（重複統合の判定キー）：空白・記号を除去して比較
+function normTitle(t) {
+  return (t || "").toLowerCase()
+    .replace(/\s+/g, "")
+    .replace(/[【】\[\]（）()「」『』、。，．,.!！?？:：;；・\-―ー—…|｜]/g, "");
+}
+
+// 同一見出しを1件に統合（出典・銘柄はまとめて保持）。records は新しい順前提。
+function dedup(records) {
+  const map = new Map();
+  for (const r of records) {
+    const key = normTitle(r.title) || ("u:" + (r.link || ""));
+    if (map.has(key)) {
+      const m = map.get(key);
+      m.instruments.add(r.instrument);
+      m.sources.add(r.source);
+    } else {
+      const when = r.published || r.first_seen || "";
+      map.set(key, {
+        title: r.title, link: r.link, source: r.source,
+        date: when.slice(0, 10), datetime: when,
+        instruments: new Set([r.instrument]),
+        sources: new Set([r.source]),
+      });
+    }
+  }
+  return [...map.values()].sort((a, b) => (b.datetime || "").localeCompare(a.datetime || ""));
+}
+
+function formatDate(d) {
+  if (!d) return "日付不明";
+  const [y, m, day] = d.split("-").map(Number);
+  const wd = ["日", "月", "火", "水", "木", "金", "土"][new Date(y, m - 1, day).getDay()];
+  return `${y}年${m}月${day}日（${wd}）`;
+}
+
+function buildFilters() {
+  const $f = document.getElementById("filters");
+  const make = (label, inst) => {
+    const b = document.createElement("button");
+    b.className = "filter" + (inst === curInst ? " active" : "");
+    b.textContent = label;
+    b.addEventListener("click", () => {
+      curInst = inst;
+      [...$f.children].forEach(c => c.classList.remove("active"));
+      b.classList.add("active");
+      applyFilters();
+    });
+    return b;
+  };
+  $f.appendChild(make("すべて", ""));
+  INSTRUMENTS.forEach(i => $f.appendChild(make(i, i)));
+}
+
+function applyFilters() {
+  filtered = all.filter(r => {
+    if (curInst && !r.instruments.has(curInst)) return false;
+    if (curQuery) {
+      const hay = (r.title + " " + [...r.sources].join(" ")).toLowerCase();
+      if (!hay.includes(curQuery)) return false;
+    }
+    return true;
+  });
+  shown = 0;
+  $list.innerHTML = "";
+  $list.dataset.lastDate = "";
+  renderMore();
+  updateStatus();
+}
+
+function renderMore() {
+  const slice = filtered.slice(shown, shown + PAGE_SIZE);
+  let lastDate = $list.dataset.lastDate || "";
+  for (const r of slice) {
+    if (r.date !== lastDate) {
+      const h = document.createElement("div");
+      h.className = "dategroup";
+      h.textContent = formatDate(r.date);
+      $list.appendChild(h);
+      lastDate = r.date;
+    }
+    $list.appendChild(rowEl(r));
+  }
+  $list.dataset.lastDate = lastDate;
+  shown += slice.length;
+  $more.hidden = shown >= filtered.length;
+}
+
+function rowEl(r) {
+  const card = document.createElement("div");
+  card.className = "card";
+  const a = document.createElement("a");
+  a.className = "headline";
+  a.href = r.link; a.target = "_blank"; a.rel = "noopener noreferrer";
+  a.textContent = r.title || "(無題)";
+  const extra = r.sources.size > 1 ? ` ほか${r.sources.size - 1}媒体` : "";
+  const badges = [...r.instruments].map(i => `<span class="badge">${escapeHtml(i)}</span>`).join("");
+  const meta = document.createElement("div");
+  meta.className = "meta";
+  meta.innerHTML =
+    `<span class="source">${escapeHtml(r.source)}${extra}</span>` +
+    `<span class="insts">${badges}</span>`;
+  card.appendChild(a);
+  card.appendChild(meta);
+  return card;
+}
+
+function updateStatus() {
+  const total = filtered.length;
+  if (total === 0) {
+    $status.textContent = "該当する記事がありません。";
+  } else {
+    $status.textContent = `${total} 件（重複統合後）`;
+  }
+}
+
+document.getElementById("search").addEventListener("input", e => {
+  curQuery = e.target.value.trim().toLowerCase();
+  applyFilters();
+});
+$more.addEventListener("click", renderMore);
+
+buildFilters();
+fetch("data/archive.json", { cache: "no-store" })
+  .then(res => { if (!res.ok) throw new Error("HTTP " + res.status); return res.json(); })
+  .then(data => {
+    all = dedup(data);
+    applyFilters();
+  })
+  .catch(() => {
+    $status.innerHTML =
+      "アーカイブを読み込めませんでした。<br>" +
+      "ファイルを直接ダブルクリックで開くとブラウザの制限で読み込めません。" +
+      "公開URL（GitHub Pages）で開くか、ローカルでは <code>docs</code> フォルダで " +
+      "<code>python -m http.server</code> を実行し <code>http://localhost:8000/archive.html</code> を開いてください。";
+    $more.hidden = true;
+  });
+</script>
+</body>
+</html>

@@ -7,9 +7,10 @@ on:
     - cron: "0 */3 * * *"
   workflow_dispatch: {}
 
-# 標準の GITHUB_TOKEN にリポジトリへの書き込み権限を与える（push のため）
+# 標準の GITHUB_TOKEN への権限（push と、失敗時の Issue 作成のため）
 permissions:
   contents: write
+  issues: write
 
 # 実行が重ならないようにする（前の実行が終わるまで待つ）
 concurrency:
@@ -39,11 +40,27 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html docs/data
+          git add docs
           if git diff --cached --quiet; then
             echo "変更なし。コミットはスキップします。"
           else
             git commit -m "Auto update news ($(date -u '+%Y-%m-%d %H:%M UTC'))"
             git push
             echo "更新（index.html / アーカイブ）をプッシュしました。"
+          fi
+
+      - name: 取得失敗を Issue で通知
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create fetch-failure --color B60205 --description "ニュース取得の失敗" --force || true
+          open_count=$(gh issue list --label fetch-failure --state open --json number --jq 'length')
+          if [ "$open_count" = "0" ]; then
+            gh issue create \
+              --title "ニュース取得に失敗しました ($(date -u '+%Y-%m-%d %H:%M UTC'))" \
+              --label fetch-failure \
+              --body "自動更新ワークフローでニュース取得に失敗しました。詳しくは実行ログを確認してください: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          else
+            echo "未解決の fetch-failure Issue が既にあるため、新規作成はスキップします。"
           fi

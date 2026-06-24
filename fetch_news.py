@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import html
 import json
+import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from string import Template
@@ -156,6 +157,8 @@ CSS = """
     header { padding: 18px 2px 6px; }
     header h1 { font-size: 1.15rem; margin: 0 0 4px; }
     .updated { color: var(--muted); font-size: 0.8rem; margin: 0; }
+    .nav { margin: 8px 0 0; }
+    .nav a { color: var(--accent); text-decoration: none; font-size: 0.85rem; font-weight: 600; }
 
     /* タブ：CSSのみで切替（ラジオボタン方式・JS不使用） */
     .tab-radio { display: none; }
@@ -219,6 +222,7 @@ $css
 <header>
 <h1>ドル円・ゴールド・BTC ニュースまとめ</h1>
 <p class="updated">最終更新：$updated（JST）</p>
+<p class="nav"><a href="archive.html">📁 過去のニュース（アーカイブ）</a></p>
 </header>
 <div class="tabs">
 $radios<nav class="tablist">
@@ -348,14 +352,26 @@ def main() -> None:
 
     # アーカイブ用に多めに取得（表示は各銘柄 MAX_ITEMS 件）
     data: dict[str, list[dict]] = {}
+    fetched = 0
     for name, query in QUERIES.items():
         items = fetch_items(query, ARCHIVE_FETCH)
         data[name] = items
+        fetched += len(items)
         print(f"{name}: {len(items)} 件取得")
 
+    # すべての銘柄で0件 = ネットワーク障害などの可能性。
+    # 既存の index.html / アーカイブを壊さないよう、何も書かずに失敗終了する
+    # （失敗は GitHub Actions 側で Issue 通知する）。
+    if fetched == 0:
+        print(
+            "エラー: すべての銘柄でニュースを取得できませんでした。既存ファイルは変更しません。",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     # 履歴に追記（最新から消えた記事もここに残る＝アーカイブ）
-    added, total = update_archive(data, now)
-    print(f"アーカイブ: +{added} 件（累計 {total} 件）")
+    added, archived = update_archive(data, now)
+    print(f"アーカイブ: +{added} 件（累計 {archived} 件）")
 
     # 表紙は各銘柄の上位 MAX_ITEMS 件のみ
     front = {name: items[:MAX_ITEMS] for name, items in data.items()}
