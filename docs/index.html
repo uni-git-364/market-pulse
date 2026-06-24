@@ -1,179 +1,157 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ドル円・ゴールド・BTC ニュースまとめ</title>
-  <style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ドル円・ゴールド・BTC ニュースまとめ</title>
+<style>
+
     * { box-sizing: border-box; }
+    :root {
+      --bg: #f5f5f7;
+      --card-bg: #ffffff;
+      --text: #1a1a1a;
+      --muted: #6b7280;
+      --accent: #0b5bd3;
+      --border: #e5e7eb;
+      --tabbar-bg: rgba(245,245,247,0.92);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f1115;
+        --card-bg: #181b21;
+        --text: #e8eaed;
+        --muted: #9aa0aa;
+        --accent: #6ea8fe;
+        --border: #262b33;
+        --tabbar-bg: rgba(15,17,21,0.92);
+      }
+    }
     body {
       margin: 0;
       font-family: system-ui, -apple-system, "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
       line-height: 1.7;
-      color: #1a1a1a;
-      background: #f5f5f7;
+      color: var(--text);
+      background: var(--bg);
+      -webkit-text-size-adjust: 100%;
     }
-    .wrap { max-width: 720px; margin: 0 auto; padding: 16px; }
-    header h1 { font-size: 1.25rem; margin: 8px 0 4px; }
-    .updated { color: #666; font-size: 0.85rem; margin: 0 0 16px; }
-    .instrument { background: #fff; border-radius: 12px; padding: 12px 16px; margin-bottom: 16px; }
-    .instrument h2 {
-      font-size: 1.1rem; margin: 4px 0 12px;
-      padding-bottom: 8px; border-bottom: 2px solid #eee;
+    .wrap { max-width: 680px; margin: 0 auto; padding: 0 14px 32px; }
+    header { padding: 18px 2px 6px; }
+    header h1 { font-size: 1.15rem; margin: 0 0 4px; }
+    .updated { color: var(--muted); font-size: 0.8rem; margin: 0; }
+
+    /* タブ：CSSのみで切替（ラジオボタン方式・JS不使用） */
+    .tab-radio { display: none; }
+    .tablist {
+      position: sticky; top: 0; z-index: 10;
+      display: flex; gap: 4px;
+      background: var(--tabbar-bg);
+      backdrop-filter: blur(8px);
+      padding: 8px 0 0; margin: 8px 0 6px;
+      border-bottom: 1px solid var(--border);
     }
+    .tab-label {
+      flex: 1; text-align: center;
+      padding: 11px 6px;
+      font-size: 0.95rem; font-weight: 600;
+      color: var(--muted);
+      border-bottom: 2px solid transparent;
+      cursor: pointer; user-select: none;
+    }
+    .tab-label:active { background: rgba(127,127,127,0.12); }
+
+    .panel { display: none; }
     ul.news { list-style: none; margin: 0; padding: 0; }
-    .card { padding: 12px 0; border-bottom: 1px solid #f0f0f0; }
-    .card:last-child { border-bottom: none; }
-    .headline { color: #0b5bd3; text-decoration: none; font-weight: 600; }
-    .headline:hover { text-decoration: underline; }
-    .meta { color: #777; font-size: 0.8rem; margin-top: 4px; }
-    .empty { color: #999; list-style: none; padding: 8px 0; }
-    footer { color: #888; font-size: 0.8rem; text-align: center; padding: 24px 8px; }
-  </style>
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 13px 15px; margin: 10px 0;
+    }
+    .headline {
+      color: var(--accent); text-decoration: none;
+      font-weight: 600; font-size: 1.02rem; display: block;
+    }
+    .headline:active { opacity: 0.7; }
+    .meta {
+      display: flex; justify-content: space-between; gap: 10px;
+      color: var(--muted); font-size: 0.78rem; margin-top: 7px;
+    }
+    .meta .source { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .meta .time { flex-shrink: 0; }
+    .empty { color: var(--muted); padding: 16px 4px; }
+    footer {
+      color: var(--muted); font-size: 0.76rem;
+      text-align: center; padding: 26px 10px 0; line-height: 1.6;
+    }
+
+    #tab-0:checked ~ #panel-0 { display: block; }
+    #tab-0:checked ~ .tablist label[for="tab-0"] { color: var(--accent); border-bottom-color: var(--accent); }
+    #tab-1:checked ~ #panel-1 { display: block; }
+    #tab-1:checked ~ .tablist label[for="tab-1"] { color: var(--accent); border-bottom-color: var(--accent); }
+    #tab-2:checked ~ #panel-2 { display: block; }
+    #tab-2:checked ~ .tablist label[for="tab-2"] { color: var(--accent); border-bottom-color: var(--accent); }
+</style>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <h1>ドル円・ゴールド・BTC ニュースまとめ</h1>
-      <p class="updated">最終更新：2026-06-24 19:13（JST）</p>
-    </header>
-
-    <section class="instrument">
-      <h2>ドル円</h2>
-      <ul class="news">
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNUW9zV3hCcE5qalNTRlVRcnM5ejJmU0I4QVl0Tmh0S2hNU0FTZTg0UGhLd1lySkVTbm43cjBILWFDVGNUTkxLZExxRXhXeWR2Z0o0SWlXTW1qUjRCQmlPZDN6cVJXSDVOdDFNLWNFTTI1Y0ZaVjBlRHJKaHd4VzhXN1BWVGRXNkU?oc=5" target="_blank" rel="noopener noreferrer">欧州為替：ドル・円は小じっかり、ドル買い継続(フィスコ)</a>
-          <div class="meta">Yahoo!ファイナンス・2026-06-24 18:26</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kRm5Kd09VY0VmT0ktMEcxZjhyTTZTZzc3N0REUlZ6aGdQRUhlZHVhTElFMHM2WnJqX0hQc1ljSlBkU3RkTUtSb0kzS3RsWGpFQ3Btc0dwWnAtY1ZuX0w1QW96QUdDc0E?oc=5" target="_blank" rel="noopener noreferrer">欧州為替：ドル・円は小じっかり、ドル買い継続 執筆： Fisco</a>
-          <div class="meta">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース・2026-06-24 18:26</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxQTluWTBjLWh0MmFjSzFfSW1Xb0JUOS1VNG0tbXVYXzY4cF9VX01adjZBaC00Q1pUck9rT21BSWRyUS1yTVRqRUVrampTaUlPUXc?oc=5" target="_blank" rel="noopener noreferrer">東京為替概況： ドル・円はじり高、夕方にかけて上昇｜FX・為替ニュース</a>
-          <div class="meta">ザイFX！・2026-06-24 18:01</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uQ2pHV1RGaXBCTmFBcndBc3FMUHlLOUVZa0tLR25IdVdMZlktdW1HbFJyckVGQVdDUi1lZGZRU2dqaFozQVI4Sw?oc=5" target="_blank" rel="noopener noreferrer">通貨オプション ボラティリティー ドル円１週間は７．１％付近に低下</a>
-          <div class="meta">みんかぶ FX/為替・2026-06-24 17:17</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEtUUVJWQkY1a3Z2MTFFSllHcFZlLVA5cHRsZjg4NnVYR0drbFpEYlBmb1NFTDlxZkRqRTRuSVozRl9Jc2dOeWZkUUJXMGswTWZHTWI1STRKc09GZGVlUEZsd3NmZDFxY1pua09sTlZZUHdlZUhFUVNhbkw0b1dvLUEwSzAzOEk?oc=5" target="_blank" rel="noopener noreferrer">東京外国為替市場概況・17時 ドル円、小高い(トレーダーズ・ウェブ)</a>
-          <div class="meta">Yahoo!ファイナンス・2026-06-24 17:06</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnTkFSSEw1dzlCalQ3cnBZandrTlYwOVJOeUNYRndVajBYMkQ3Y1BWbzJNYkk5TE81U2dBaFVkSENfV0FZWXozYQ?oc=5" target="_blank" rel="noopener noreferrer">テクニカルEYE（ＮＺドル円）＝軟調な流れが継続して、下落基調で推移か</a>
-          <div class="meta">みんかぶ FX/為替・2026-06-24 16:30</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IMjMzRy1KY1Itd1AyN2VBMzQ3TnJfWGtOOEtXcTAxenZsaUNOVjVCdy1xY0laSzFnbWZaRkpKbDNweElnUDJyTTRadlQzNk15X3VJaF9MTWtfTHEwU1Y3LWhtZw?oc=5" target="_blank" rel="noopener noreferrer">【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、162円を意識…為替介入警戒による急落リスク」ドル円分析＆取引 2026/6/24 17:00</a>
-          <div class="meta">外為どっとコム・2026-06-24 16:30</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VZTRzN1lqUWdwRkNTTjZ6ZkViZFlBMnNONXRxZUctWlU0NUpkeWRaWkJSVi1CQkd5Y2dSeTBLZWJVdnBQV0d2SVBrelFFX2NJRU1xTGNhWGdXWERSbFc0MHpqUQ?oc=5" target="_blank" rel="noopener noreferrer">【ドル/円、今夜の見通し】162円接近で高まる為替介入・急落リスク＿2026/6/24</a>
-          <div class="meta">外為どっとコム・2026-06-24 16:18</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kbWRVLXh3aUZ6aEYxS09XUFpvbFVCUklUOWw2Rm9qaS13QXgzMUw3c0VIeS1xcmhUakpNRTVmNWdERFpaZV9jaw?oc=5" target="_blank" rel="noopener noreferrer">ドル円一時１６１．７２レベルまで上昇＝ロンドン為替</a>
-          <div class="meta">みんかぶ FX/為替・2026-06-24 16:04</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQLWhqLWNpNnVsQnk4S0lMUlBiOUptRHp2Tm5vOGFHcFEyUVBhS2NxNTRsb0h2SHUyM1RKaWxRYnZBNnRSTHlOY0dhU2tDY1lXLVp2NzhFalZqdHAzSTk4eFZ1TW9Bcjg?oc=5" target="_blank" rel="noopener noreferrer">東京為替：ドル・円はじり高、米金利高で 執筆： Fisco</a>
-          <div class="meta">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース・2026-06-24 15:58</div>
-        </li>
-      </ul>
-    </section>
-    <section class="instrument">
-      <h2>ゴールド</h2>
-      <ul class="news">
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rdGdiX0ZXb1VQVGNPSU5FcmxXWDZDYnE1TV9PWGdGb3hLbGQ3cmx2S3N4Tm5JUWxTOEp3SEFON0J0bDZraEk5cWNURlFwVllNOUE?oc=5" target="_blank" rel="noopener noreferrer">英国のアイウエアブランド「オリバー・ゴールドスミス」から、創業100周年の記念モデルが登場！</a>
-          <div class="meta">Dig-it [ディグ・イット]・2026-06-24 19:05</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9uZ1VEYlFtMmZNb2FUTXU1S0dtNDJndlJfSmFoSkU5RVZPaVhpZk56dnBwTTJDR1R1S3BfbVhHQnRuM2U0QkM4T0F1MV9hbDJfdmlvOTYtbXgyUEJ2eVllMnpNa2lKbmZ5djdiQQ?oc=5" target="_blank" rel="noopener noreferrer">金価格の予想下振れ ゴールドマン500ドル下げ、タカ派FRB材料視</a>
-          <div class="meta">日本経済新聞・2026-06-24 18:54</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBPamFRbGotRml6XzV5OW43U0M3SjJma1JWYnYtUFVtMGl0WkI5RU1qbXFTZHk4by1DTzZOVFk4NXNlTjA2WjZHVDUzNXRHNmJoSlAxQTExanp0bzFVYTVkUjAwOVRlQjFLa2JSSTRSa19hRTVMOEFF?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックスの強気格付けでTwilio株が急騰、なぜか 執筆</a>
-          <div class="meta">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース・2026-06-24 18:50</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPYV9WNUs2eXg3aEhpQklHVWotVTd4RTJ4OEpsWldGOXdVN0FweVhvTlZUY21MbTJIRTE5Z0wwalJUWDA0eGIyX1ZyRFFpc3M2YUlLMlNyaThxVU5CeERNNHNZaWVoblBZLVNfMm4xZlE1VVhBVXlveVNuWHpqNy1scEZpSDI0eDQ?oc=5" target="_blank" rel="noopener noreferrer">【アナリスト評価】ゴールドウイン、レーティング強気を継続、目標株価2,900円に引下げ（日系中堅証券）(アイフィス株予報)</a>
-          <div class="meta">Yahoo!ファイナンス・2026-06-24 18:40</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0RJaHd1MnFOamVIbTMwZzF2azJ4X2dSVzBnRUd2Z1pvUjh5TUl4S1ZJMjludkppMXlpYUNMb2Rka053SHdPTmRyWW80RGM5VkN1R1RBTC1hV3ZKakNNU2dUR0JTRHhfeHItMUZGbDN4OE5YLU5hZnZ4dzZWNW84YXJaMWF0b2V1Z19BeHc2eURUa1NQYVZZR0R3elBDcnlMU3E1NGpHQVU?oc=5" target="_blank" rel="noopener noreferrer">2026年6月24日午後の金価格：SJC金価格、9999金リング価格、および水曜日の世界金価格。</a>
-          <div class="meta">Vietnam.vn・2026-06-24 18:16</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9haGpla2lXRVJrRThCRDlVV0JOTjQ4OUFQSzdvbFdMVjQ4UGE0bUs5YlhyT1EycUVqczJ0ZVkxdk53ekx6M2ZuUC15NVcxMlEyY0RJVE1CLXRvWEtrSWFYM0VYVnMtSzMwVVpTQkF3YjF1d3FN?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、ゼータ・グローバル株をニュートレーティング、目標株価28ドル 執筆</a>
-          <div class="meta">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース・2026-06-24 17:58</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5jMTRWdGN4aFR3MG45RW5KaDBsT292TEI5YVZXZ191T2xZUUJHVGU1NlZic2liQ0phbmt4U2swVVp6NGllTGJnNFA0Vm1RWUFWT1k1SGpQMnczTGdZVlplS0pCc0xYdUQ3Uk1sbGllaFcxbFAt?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、クラヴィヨ株を買い推奨で新規カバレッジ開始 執筆</a>
-          <div class="meta">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース・2026-06-24 17:56</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE4xZVBSX2w4clhrVVluRVBESVBiTVlHQnRDM0ExSmxLTlFCd1BzWjJ1RTVuSXNsS2dBdE9oY3dWSWR6SEJZM2dzdUZrblRPUzN5eVpuZlB0REw1M09vZUNBQ2laRW01TlIwaEdFYjFSbXJ1LW5x?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、AI成長を背景にTwilio株を買い推奨で開始 執筆</a>
-          <div class="meta">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース・2026-06-24 17:54</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9HVTNoMVJaTWk4LXhPRW5Xa19GVy1QNVJsZUZ4MmpCdmZXeWUyaUZrQzR6eWRhNE1FUUR3NFFnV1NxeHJXSGdBWmVlaWZIRkpOOHNNeGswYzhIV0RHVURQYVFqenFzY2RTMExYdEs3VkFxbnpr?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、Brazeを買い推奨でカバレッジ開始 執筆</a>
-          <div class="meta">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース・2026-06-24 17:54</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MRV9EZHllRDhPamtaZmxUOEhram91NUp6TXNBWFdvUFlieGVXYmtrVUR0VDE2UndEZnl3c1BDVmV2dmZWLXh4WE9YblAwdnhCX0ZWSG9NZy1iazAxbDJIREJn?oc=5" target="_blank" rel="noopener noreferrer">金価格の一服は仕込み時? S&amp;P500超えを記録したNISA対応ゴールドファンド5選</a>
-          <div class="meta">Excite エキサイト・2026-06-24 17:30</div>
-        </li>
-      </ul>
-    </section>
-    <section class="instrument">
-      <h2>BTC</h2>
-      <ul class="news">
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZbWNpRXhkcEo0a0VnSFpMYVFNVHpoM0phanpveWp0Wll3Q0FZVXFrN3oyU2NaemZsVDdmZjE5UmJrR3RKNEZRZFBhcUxwLUV4b2plaUJJNmJMdl83YklTQVM3SFFkNkUzN3pQeEI0ZUNPUEE?oc=5" target="_blank" rel="noopener noreferrer">ビットコイン下落も11億7000万ドル分のショートが圧力</a>
-          <div class="meta">BeInCrypto・2026-06-24 18:28</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUpOdUtXeVNoMGVlVlRQYS1wSDhPVEtmaWpVLTlwY0sybzl2N1pqSmVPdEdOOFNxa1Awb24tS3haWnZKcEo0OWxGOUxuSURabVh4N1BadS15bnNhUTNzVXVyZzVNX0x6eFVCXzR5Z2o3UG9kSDNubHdzWjBhNFZOaHVsNk5RblFlU3l1RlcxTUpIZ0xEVExDVEdyQzB0M3JHZVZaY21wRjhKYU5NOU5N?oc=5" target="_blank" rel="noopener noreferrer">SpaceXのIPOとビットコイン：SPCXのボラティリティ...</a>
-          <div class="meta">WEEX・2026-06-24 17:00</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBBdThMZHZGTkhPUzlhUVhTQmtUVGh3NzZJZ0FDNkRjcy1LaHRqZTlkeFRmMGFXNl8zQmxCeGZXdkFfLVdqOWNRU3drLTQ2NWFjNjd5YTFodXMyampJMV9aVzFNTjV1bUtucVdfT3BVZGw1TnBK?oc=5" target="_blank" rel="noopener noreferrer">ビットコイン、6月の主要資産で最悪のリターン 12%下落、ストラテジーの資金繰り不安が暗号資産市場を揺るがす</a>
-          <div class="meta">finance.biggo.jp・2026-06-24 16:26</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9Va1NJXzhnUkFuZFRDeWtESFBoeE5qVERtTkc0R2VCT0NkVHVBUDB1N0FLa0o1NHRCTkQ5MUVwazdtMlRXeDRjOUczejM4akZ1QW1UYk9hcUZYa1lzcjlfOVBpbTFjamdFOUU1X0cxR2hydnd1VjVKdVdDdERoZDQ?oc=5" target="_blank" rel="noopener noreferrer">ビットコインは「送金」だけではない──Runes、Ordinals、BRC-20が示すネットワーク進化の現在地【エックスウィン】</a>
-          <div class="meta">Yahoo!ニュース・2026-06-24 14:26</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yQXI1MzdrMFhjYkZMX2RUczdqaTZzNUpmTjhBWnUxczB0TzZpYzl6emxIQ3ZsWlBLSmx5c0NnaUstdlU?oc=5" target="_blank" rel="noopener noreferrer">ビットコイン短期保有者、含み損8カ月継続＝アナリスト</a>
-          <div class="meta">CoinPost・2026-06-24 14:09</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjd4dmd5WEtpYnBUT2dLdlBhVThXSkZ5WGo4UzdNTjY2QkhkckJiQVFQSDNRMXFucVV2ZkZzVzNJOGtUUUJqMk1VMXUyNWNYQ1o1SmhCb3FhZjk3VkdfODdoYUlRZDBkdENFREVhNzBXR2FTVGxOXzFCQ2E5a0RoWDRwWndydjA?oc=5" target="_blank" rel="noopener noreferrer">ビットコイン短期保有者、含み損8カ月継続＝アナリスト(CoinPost)</a>
-          <div class="meta">Yahoo!ファイナンス・2026-06-24 14:09</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMie0FVX3lxTE54aEY5WHNwRTJHelRHTm01XzNJbXBPd2UxN0lqMnFpdzhQcFdNd2Uwc08wbFFyaFdHZ096TTc5dXBzLXBSRzBWckFJQTlqaWZwYU1ob1VJQkgzTGNRc3ltV0RvdjVINFMxY3JHczZKeUVjYVYzV3hibC00dw?oc=5" target="_blank" rel="noopener noreferrer">アーサー・ヘイズ氏、ビットコイン4万ドルまで下落も＝半年以内に底入れ予測</a>
-          <div class="meta">BeInCrypto・2026-06-24 12:01</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TDBnT1RiUUpQTTdyMW94QlpmTEU0RXFYeXUxeFBIeHFFQXNoRi14UW5taVZXTl96c1RDdERZRGJtU1o5aHhIQm1vT0pOd3JUWm1lU3l4WE9CTWZkRHpxdlJSMGc5cndraVFEVkdIU3NXNHR3?oc=5" target="_blank" rel="noopener noreferrer">韓国銀行、「ビットコインの衝撃、KOSPI・ウォン相場に波及リスク」と警告</a>
-          <div class="meta">finance.biggo.jp・2026-06-24 11:56</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE45UG5iRTFLN0VRYWpRSFp5d2tOZWxabGpXeFZGcktxZ29YbTNtNTVmSktnSTJiUTItenpVZVc2QzRZWGo1RDFfRUxJd1RBYkdhbkh2bg?oc=5" target="_blank" rel="noopener noreferrer">メタプラネット、株価232円へ下落｜ビットコイン、一時6万2000ドル割れでリスクオフ連動か</a>
-          <div class="meta">CoinPartner・2026-06-24 11:56</div>
-        </li>
-        <li class="card">
-          <a class="headline" href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9ROTRRek5nMm5DaXpjcmt0ZGxzM1N3eEx5Tl9Ub1FnWGtwTDhxblI0N1p6NnotbU9sVUktRmtSUGRpMnBZT1BjUExNYnNqV19fbTJBLW42YTA5YWltV1NESzhHOWlkbmhrT3cxSUFPeDhwVUdEdVhXNjdKRG5neEU?oc=5" target="_blank" rel="noopener noreferrer">「物価ショック」ビットコイン下落が加速、暗号資産市場はFRBのインフラ指標発表に身構える</a>
-          <div class="meta">Yahoo!ニュース・2026-06-24 11:00</div>
-        </li>
-      </ul>
-    </section>
-    <footer>本サイトは情報提供を目的としたものであり、投資助言ではありません。投資判断はご自身の責任で行ってください。</footer>
-  </div>
+<div class="wrap">
+<header>
+<h1>ドル円・ゴールド・BTC ニュースまとめ</h1>
+<p class="updated">最終更新：2026-06-24 19:31（JST）</p>
+</header>
+<div class="tabs">
+<input type="radio" name="tab" id="tab-0" class="tab-radio" checked>
+<input type="radio" name="tab" id="tab-1" class="tab-radio">
+<input type="radio" name="tab" id="tab-2" class="tab-radio">
+<nav class="tablist">
+<label for="tab-0" class="tab-label">ドル円</label>
+<label for="tab-1" class="tab-label">ゴールド</label>
+<label for="tab-2" class="tab-label">BTC</label>
+</nav>
+<section class="panel" id="panel-0">
+<ul class="news">
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zRWstZU0tR256ekZWYWI5N3dxTk1xbnNaTkpCTkZWODV0RWtTcURyZ2hacVN1VzEyak03N1UxNllQVUhNQ0phX0swZEhobkd1ekE?oc=5" target="_blank" rel="noopener noreferrer">ドル・円は上値が重い、ユーロ・円は軟調｜FX・為替ニュース</a><div class="meta"><span class="source">ザイFX！</span><span class="time" title="2026-06-24 19:25">6分前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPZFdQOUVDM1hxajlNa0s2aFlxQUc0aUtLb3FFQS1PbDVXenpsVWFjRGN1djM1MWNiQ2VTUFl3SWMzaVl0YTNNY21DTHRhYjg2VHU3TEFnUVpXbXN1OXA5SmQ3S2Z0VHJGXzBKQ09CMTVhbTI3WWt0anVtQmdwMVk4TE1WSWVsVkU?oc=5" target="_blank" rel="noopener noreferrer">欧州為替：ドル・円は上値が重い、ユーロ・円は軟調(フィスコ)</a><div class="meta"><span class="source">Yahoo!ファイナンス</span><span class="time" title="2026-06-24 19:14">17分前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNUW9zV3hCcE5qalNTRlVRcnM5ejJmU0I4QVl0Tmh0S2hNU0FTZTg0UGhLd1lySkVTbm43cjBILWFDVGNUTkxLZExxRXhXeWR2Z0o0SWlXTW1qUjRCQmlPZDN6cVJXSDVOdDFNLWNFTTI1Y0ZaVjBlRHJKaHd4VzhXN1BWVGRXNkU?oc=5" target="_blank" rel="noopener noreferrer">欧州為替：ドル・円は小じっかり、ドル買い継続(フィスコ)</a><div class="meta"><span class="source">Yahoo!ファイナンス</span><span class="time" title="2026-06-24 18:26">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kRm5Kd09VY0VmT0ktMEcxZjhyTTZTZzc3N0REUlZ6aGdQRUhlZHVhTElFMHM2WnJqX0hQc1ljSlBkU3RkTUtSb0kzS3RsWGpFQ3Btc0dwWnAtY1ZuX0w1QW96QUdDc0E?oc=5" target="_blank" rel="noopener noreferrer">欧州為替：ドル・円は小じっかり、ドル買い継続 執筆： Fisco</a><div class="meta"><span class="source">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</span><span class="time" title="2026-06-24 18:26">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxQTluWTBjLWh0MmFjSzFfSW1Xb0JUOS1VNG0tbXVYXzY4cF9VX01adjZBaC00Q1pUck9rT21BSWRyUS1yTVRqRUVrampTaUlPUXc?oc=5" target="_blank" rel="noopener noreferrer">東京為替概況： ドル・円はじり高、夕方にかけて上昇｜FX・為替ニュース</a><div class="meta"><span class="source">ザイFX！</span><span class="time" title="2026-06-24 18:01">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uQ2pHV1RGaXBCTmFBcndBc3FMUHlLOUVZa0tLR25IdVdMZlktdW1HbFJyckVGQVdDUi1lZGZRU2dqaFozQVI4Sw?oc=5" target="_blank" rel="noopener noreferrer">通貨オプション ボラティリティー ドル円１週間は７．１％付近に低下</a><div class="meta"><span class="source">みんかぶ FX/為替</span><span class="time" title="2026-06-24 17:17">2時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEtUUVJWQkY1a3Z2MTFFSllHcFZlLVA5cHRsZjg4NnVYR0drbFpEYlBmb1NFTDlxZkRqRTRuSVozRl9Jc2dOeWZkUUJXMGswTWZHTWI1STRKc09GZGVlUEZsd3NmZDFxY1pua09sTlZZUHdlZUhFUVNhbkw0b1dvLUEwSzAzOEk?oc=5" target="_blank" rel="noopener noreferrer">東京外国為替市場概況・17時 ドル円、小高い(トレーダーズ・ウェブ)</a><div class="meta"><span class="source">Yahoo!ファイナンス</span><span class="time" title="2026-06-24 17:06">2時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnTkFSSEw1dzlCalQ3cnBZandrTlYwOVJOeUNYRndVajBYMkQ3Y1BWbzJNYkk5TE81U2dBaFVkSENfV0FZWXozYQ?oc=5" target="_blank" rel="noopener noreferrer">テクニカルEYE（ＮＺドル円）＝軟調な流れが継続して、下落基調で推移か</a><div class="meta"><span class="source">みんかぶ FX/為替</span><span class="time" title="2026-06-24 16:30">3時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IMjMzRy1KY1Itd1AyN2VBMzQ3TnJfWGtOOEtXcTAxenZsaUNOVjVCdy1xY0laSzFnbWZaRkpKbDNweElnUDJyTTRadlQzNk15X3VJaF9MTWtfTHEwU1Y3LWhtZw?oc=5" target="_blank" rel="noopener noreferrer">【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、162円を意識…為替介入警戒による急落リスク」ドル円分析＆取引 2026/6/24 17:00</a><div class="meta"><span class="source">外為どっとコム</span><span class="time" title="2026-06-24 16:30">3時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VZTRzN1lqUWdwRkNTTjZ6ZkViZFlBMnNONXRxZUctWlU0NUpkeWRaWkJSVi1CQkd5Y2dSeTBLZWJVdnBQV0d2SVBrelFFX2NJRU1xTGNhWGdXWERSbFc0MHpqUQ?oc=5" target="_blank" rel="noopener noreferrer">【ドル/円、今夜の見通し】162円接近で高まる為替介入・急落リスク＿2026/6/24</a><div class="meta"><span class="source">外為どっとコム</span><span class="time" title="2026-06-24 16:18">3時間前</span></div></li>
+</ul>
+</section>
+<section class="panel" id="panel-1">
+<ul class="news">
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE40T1BUT1g4VzBzdHVyS29aai0tYzg4WHR4NzhfVGRsb1VJZVU4OUZydVFtTDY0QmhtZURBTEphRi1wekw3Z0ZEMnlIUmVVaWM0TERiOGlGd19QMTF3anc4cUxSWEY3NkpuY283TlVsck4?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、アレグロを格下げ――バリュエーション格差縮小で目標株価は引き上げ 執筆</a><div class="meta"><span class="source">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</span><span class="time" title="2026-06-24 19:10">21分前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9uZ1VEYlFtMmZNb2FUTXU1S0dtNDJndlJfSmFoSkU5RVZPaVhpZk56dnBwTTJDR1R1S3BfbVhHQnRuM2U0QkM4T0F1MV9hbDJfdmlvOTYtbXgyUEJ2eVllMnpNa2lKbmZ5djdiQQ?oc=5" target="_blank" rel="noopener noreferrer">金価格の予想下振れ ゴールドマン500ドル下げ、タカ派FRB材料視</a><div class="meta"><span class="source">日本経済新聞</span><span class="time" title="2026-06-24 18:54">36分前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBPamFRbGotRml6XzV5OW43U0M3SjJma1JWYnYtUFVtMGl0WkI5RU1qbXFTZHk4by1DTzZOVFk4NXNlTjA2WjZHVDUzNXRHNmJoSlAxQTExanp0bzFVYTVkUjAwOVRlQjFLa2JSSTRSa19hRTVMOEFF?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックスの強気格付けでTwilio株が急騰、なぜか 執筆</a><div class="meta"><span class="source">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</span><span class="time" title="2026-06-24 18:50">41分前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPYV9WNUs2eXg3aEhpQklHVWotVTd4RTJ4OEpsWldGOXdVN0FweVhvTlZUY21MbTJIRTE5Z0wwalJUWDA0eGIyX1ZyRFFpc3M2YUlLMlNyaThxVU5CeERNNHNZaWVoblBZLVNfMm4xZlE1VVhBVXlveVNuWHpqNy1scEZpSDI0eDQ?oc=5" target="_blank" rel="noopener noreferrer">【アナリスト評価】ゴールドウイン、レーティング強気を継続、目標株価2,900円に引下げ（日系中堅証券）(アイフィス株予報)</a><div class="meta"><span class="source">Yahoo!ファイナンス</span><span class="time" title="2026-06-24 18:40">51分前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0RJaHd1MnFOamVIbTMwZzF2azJ4X2dSVzBnRUd2Z1pvUjh5TUl4S1ZJMjludkppMXlpYUNMb2Rka053SHdPTmRyWW80RGM5VkN1R1RBTC1hV3ZKakNNU2dUR0JTRHhfeHItMUZGbDN4OE5YLU5hZnZ4dzZWNW84YXJaMWF0b2V1Z19BeHc2eURUa1NQYVZZR0R3elBDcnlMU3E1NGpHQVU?oc=5" target="_blank" rel="noopener noreferrer">2026年6月24日午後の金価格：SJC金価格、9999金リング価格、および水曜日の世界金価格。</a><div class="meta"><span class="source">Vietnam.vn</span><span class="time" title="2026-06-24 18:16">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9haGpla2lXRVJrRThCRDlVV0JOTjQ4OUFQSzdvbFdMVjQ4UGE0bUs5YlhyT1EycUVqczJ0ZVkxdk53ekx6M2ZuUC15NVcxMlEyY0RJVE1CLXRvWEtrSWFYM0VYVnMtSzMwVVpTQkF3YjF1d3FN?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、ゼータ・グローバル株をニュートレーティング、目標株価28ドル 執筆</a><div class="meta"><span class="source">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</span><span class="time" title="2026-06-24 17:58">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5jMTRWdGN4aFR3MG45RW5KaDBsT292TEI5YVZXZ191T2xZUUJHVGU1NlZic2liQ0phbmt4U2swVVp6NGllTGJnNFA0Vm1RWUFWT1k1SGpQMnczTGdZVlplS0pCc0xYdUQ3Uk1sbGllaFcxbFAt?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、クラヴィヨ株を買い推奨で新規カバレッジ開始 執筆</a><div class="meta"><span class="source">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</span><span class="time" title="2026-06-24 17:56">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE4xZVBSX2w4clhrVVluRVBESVBiTVlHQnRDM0ExSmxLTlFCd1BzWjJ1RTVuSXNsS2dBdE9oY3dWSWR6SEJZM2dzdUZrblRPUzN5eVpuZlB0REw1M09vZUNBQ2laRW01TlIwaEdFYjFSbXJ1LW5x?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、AI成長を背景にTwilio株を買い推奨で開始 執筆</a><div class="meta"><span class="source">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</span><span class="time" title="2026-06-24 17:54">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9HVTNoMVJaTWk4LXhPRW5Xa19GVy1QNVJsZUZ4MmpCdmZXeWUyaUZrQzR6eWRhNE1FUUR3NFFnV1NxeHJXSGdBWmVlaWZIRkpOOHNNeGswYzhIV0RHVURQYVFqenFzY2RTMExYdEs3VkFxbnpr?oc=5" target="_blank" rel="noopener noreferrer">ゴールドマン・サックス、Brazeを買い推奨でカバレッジ開始 執筆</a><div class="meta"><span class="source">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</span><span class="time" title="2026-06-24 17:54">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MRV9EZHllRDhPamtaZmxUOEhram91NUp6TXNBWFdvUFlieGVXYmtrVUR0VDE2UndEZnl3c1BDVmV2dmZWLXh4WE9YblAwdnhCX0ZWSG9NZy1iazAxbDJIREJn?oc=5" target="_blank" rel="noopener noreferrer">金価格の一服は仕込み時? S&amp;P500超えを記録したNISA対応ゴールドファンド5選</a><div class="meta"><span class="source">Excite エキサイト</span><span class="time" title="2026-06-24 17:30">2時間前</span></div></li>
+</ul>
+</section>
+<section class="panel" id="panel-2">
+<ul class="news">
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZbWNpRXhkcEo0a0VnSFpMYVFNVHpoM0phanpveWp0Wll3Q0FZVXFrN3oyU2NaemZsVDdmZjE5UmJrR3RKNEZRZFBhcUxwLUV4b2plaUJJNmJMdl83YklTQVM3SFFkNkUzN3pQeEI0ZUNPUEE?oc=5" target="_blank" rel="noopener noreferrer">ビットコイン下落も11億7000万ドル分のショートが圧力</a><div class="meta"><span class="source">BeInCrypto</span><span class="time" title="2026-06-24 18:28">1時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUpOdUtXeVNoMGVlVlRQYS1wSDhPVEtmaWpVLTlwY0sybzl2N1pqSmVPdEdOOFNxa1Awb24tS3haWnZKcEo0OWxGOUxuSURabVh4N1BadS15bnNhUTNzVXVyZzVNX0x6eFVCXzR5Z2o3UG9kSDNubHdzWjBhNFZOaHVsNk5RblFlU3l1RlcxTUpIZ0xEVExDVEdyQzB0M3JHZVZaY21wRjhKYU5NOU5N?oc=5" target="_blank" rel="noopener noreferrer">SpaceXのIPOとビットコイン：SPCXのボラティリティ...</a><div class="meta"><span class="source">WEEX</span><span class="time" title="2026-06-24 17:00">2時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBBdThMZHZGTkhPUzlhUVhTQmtUVGh3NzZJZ0FDNkRjcy1LaHRqZTlkeFRmMGFXNl8zQmxCeGZXdkFfLVdqOWNRU3drLTQ2NWFjNjd5YTFodXMyampJMV9aVzFNTjV1bUtucVdfT3BVZGw1TnBK?oc=5" target="_blank" rel="noopener noreferrer">ビットコイン、6月の主要資産で最悪のリターン 12%下落、ストラテジーの資金繰り不安が暗号資産市場を揺るがす</a><div class="meta"><span class="source">finance.biggo.jp</span><span class="time" title="2026-06-24 16:26">3時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9Va1NJXzhnUkFuZFRDeWtESFBoeE5qVERtTkc0R2VCT0NkVHVBUDB1N0FLa0o1NHRCTkQ5MUVwazdtMlRXeDRjOUczejM4akZ1QW1UYk9hcUZYa1lzcjlfOVBpbTFjamdFOUU1X0cxR2hydnd1VjVKdVdDdERoZDQ?oc=5" target="_blank" rel="noopener noreferrer">ビットコインは「送金」だけではない──Runes、Ordinals、BRC-20が示すネットワーク進化の現在地【エックスウィン】</a><div class="meta"><span class="source">Yahoo!ニュース</span><span class="time" title="2026-06-24 14:26">5時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yQXI1MzdrMFhjYkZMX2RUczdqaTZzNUpmTjhBWnUxczB0TzZpYzl6emxIQ3ZsWlBLSmx5c0NnaUstdlU?oc=5" target="_blank" rel="noopener noreferrer">ビットコイン短期保有者、含み損8カ月継続＝アナリスト</a><div class="meta"><span class="source">CoinPost</span><span class="time" title="2026-06-24 14:09">5時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjd4dmd5WEtpYnBUT2dLdlBhVThXSkZ5WGo4UzdNTjY2QkhkckJiQVFQSDNRMXFucVV2ZkZzVzNJOGtUUUJqMk1VMXUyNWNYQ1o1SmhCb3FhZjk3VkdfODdoYUlRZDBkdENFREVhNzBXR2FTVGxOXzFCQ2E5a0RoWDRwWndydjA?oc=5" target="_blank" rel="noopener noreferrer">ビットコイン短期保有者、含み損8カ月継続＝アナリスト(CoinPost)</a><div class="meta"><span class="source">Yahoo!ファイナンス</span><span class="time" title="2026-06-24 14:09">5時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMie0FVX3lxTE54aEY5WHNwRTJHelRHTm01XzNJbXBPd2UxN0lqMnFpdzhQcFdNd2Uwc08wbFFyaFdHZ096TTc5dXBzLXBSRzBWckFJQTlqaWZwYU1ob1VJQkgzTGNRc3ltV0RvdjVINFMxY3JHczZKeUVjYVYzV3hibC00dw?oc=5" target="_blank" rel="noopener noreferrer">アーサー・ヘイズ氏、ビットコイン4万ドルまで下落も＝半年以内に底入れ予測</a><div class="meta"><span class="source">BeInCrypto</span><span class="time" title="2026-06-24 12:01">7時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TDBnT1RiUUpQTTdyMW94QlpmTEU0RXFYeXUxeFBIeHFFQXNoRi14UW5taVZXTl96c1RDdERZRGJtU1o5aHhIQm1vT0pOd3JUWm1lU3l4WE9CTWZkRHpxdlJSMGc5cndraVFEVkdIU3NXNHR3?oc=5" target="_blank" rel="noopener noreferrer">韓国銀行、「ビットコインの衝撃、KOSPI・ウォン相場に波及リスク」と警告</a><div class="meta"><span class="source">finance.biggo.jp</span><span class="time" title="2026-06-24 11:56">7時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE45UG5iRTFLN0VRYWpRSFp5d2tOZWxabGpXeFZGcktxZ29YbTNtNTVmSktnSTJiUTItenpVZVc2QzRZWGo1RDFfRUxJd1RBYkdhbkh2bg?oc=5" target="_blank" rel="noopener noreferrer">メタプラネット、株価232円へ下落｜ビットコイン、一時6万2000ドル割れでリスクオフ連動か</a><div class="meta"><span class="source">CoinPartner</span><span class="time" title="2026-06-24 11:56">7時間前</span></div></li>
+<li class="card"><a class="headline" href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9ROTRRek5nMm5DaXpjcmt0ZGxzM1N3eEx5Tl9Ub1FnWGtwTDhxblI0N1p6NnotbU9sVUktRmtSUGRpMnBZT1BjUExNYnNqV19fbTJBLW42YTA5YWltV1NESzhHOWlkbmhrT3cxSUFPeDhwVUdEdVhXNjdKRG5neEU?oc=5" target="_blank" rel="noopener noreferrer">「物価ショック」ビットコイン下落が加速、暗号資産市場はFRBのインフラ指標発表に身構える</a><div class="meta"><span class="source">Yahoo!ニュース</span><span class="time" title="2026-06-24 11:00">8時間前</span></div></li>
+</ul>
+</section>
+</div>
+<footer>本サイトは情報提供を目的としたものであり、投資助言ではありません。投資判断はご自身の責任で行ってください。</footer>
+</div>
 </body>
 </html>
