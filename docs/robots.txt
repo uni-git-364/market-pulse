@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uni-git-364.github.io/market-pulse/sitemap.xml

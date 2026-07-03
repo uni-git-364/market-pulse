@@ -43,6 +43,16 @@ DISCLAIMER = (
     "投資判断はご自身の責任で行ってください。"
 )
 
+# ---- SEO / SNS共有（OGP・Twitterカード）用の設定 ----
+SITE_URL = "https://uni-git-364.github.io/market-pulse/"  # 末尾スラッシュ必須
+SITE_TITLE = "ドル円・ゴールド・BTCニュースまとめ｜為替・金・ビットコインの最新材料"
+SITE_DESC = (
+    "ドル円（USD/JPY）・ゴールド（金価格）・ビットコイン（BTC）の値動きに関わる"
+    "最新ニュースを自動収集してまとめる無料サイト。見出しと出典リンクをスマホでサッと確認できます。"
+)
+OG_IMAGE = SITE_URL + "ogp.png"
+SITEMAP_PATH = Path("docs/sitemap.xml")
+
 
 def build_rss_url(query: str) -> str:
     """検索クエリから Google ニュース RSS の URL を組み立てる。"""
@@ -206,13 +216,59 @@ CSS = """
     }
 """
 
+def _build_head_meta() -> str:
+    """index.html 用の SEO / OGP / Twitter メタタグと WebSite 構造化データ。"""
+    jsonld = json.dumps(
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "ドル円・ゴールド・BTC ニュースまとめ",
+            "url": SITE_URL,
+            "description": SITE_DESC,
+            "inLanguage": "ja",
+        },
+        ensure_ascii=False,
+    )
+    d = html.escape(SITE_DESC)
+    t = html.escape(SITE_TITLE)
+    return "\n".join(
+        [
+            '<meta name="description" content="%s">' % d,
+            '<meta name="robots" content="index, follow">',
+            '<meta name="theme-color" content="#0f1115">',
+            '<link rel="canonical" href="%s">' % SITE_URL,
+            '<link rel="icon" href="favicon.ico" sizes="any">',
+            '<link rel="icon" type="image/svg+xml" href="favicon.svg">',
+            '<link rel="apple-touch-icon" href="apple-touch-icon.png">',
+            '<meta property="og:type" content="website">',
+            '<meta property="og:site_name" content="ドル円・ゴールド・BTC ニュースまとめ">',
+            '<meta property="og:title" content="%s">' % t,
+            '<meta property="og:description" content="%s">' % d,
+            '<meta property="og:url" content="%s">' % SITE_URL,
+            '<meta property="og:image" content="%s">' % OG_IMAGE,
+            '<meta property="og:image:width" content="1200">',
+            '<meta property="og:image:height" content="630">',
+            '<meta property="og:locale" content="ja_JP">',
+            '<meta name="twitter:card" content="summary_large_image">',
+            '<meta name="twitter:title" content="%s">' % t,
+            '<meta name="twitter:description" content="%s">' % d,
+            '<meta name="twitter:image" content="%s">' % OG_IMAGE,
+            '<script type="application/ld+json">%s</script>' % jsonld,
+        ]
+    )
+
+
+HEAD_META = _build_head_meta()
+
+
 PAGE = Template(
     """<!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ドル円・ゴールド・BTC ニュースまとめ</title>
+<title>$title</title>
+$head_meta
 <style>
 $css
 </style>
@@ -287,6 +343,8 @@ def render_html(data: dict[str, list[dict]], updated_at: datetime) -> str:
     )
 
     return PAGE.substitute(
+        title=SITE_TITLE,
+        head_meta=HEAD_META,
         css=CSS + "\n" + tab_css,
         updated=updated_at.strftime("%Y-%m-%d %H:%M"),
         radios=radios,
@@ -347,6 +405,29 @@ def update_archive(data: dict[str, list[dict]], now: datetime) -> tuple[int, int
     return added, len(archive)
 
 
+def write_sitemap(now: datetime) -> None:
+    """sitemap.xml を生成（lastmod を毎回更新してクローラに更新を伝える）。"""
+    lastmod = now.strftime("%Y-%m-%d")
+    pages = [
+        (SITE_URL, "hourly", "1.0"),
+        (SITE_URL + "archive.html", "daily", "0.7"),
+    ]
+    body = "\n".join(
+        "  <url><loc>%s</loc><lastmod>%s</lastmod>"
+        "<changefreq>%s</changefreq><priority>%s</priority></url>"
+        % (loc, lastmod, freq, pri)
+        for loc, freq, pri in pages
+    )
+    xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + body
+        + "\n</urlset>\n"
+    )
+    SITEMAP_PATH.parent.mkdir(parents=True, exist_ok=True)
+    SITEMAP_PATH.write_text(xml, encoding="utf-8")
+
+
 def main() -> None:
     now = datetime.now(JST)
 
@@ -380,6 +461,9 @@ def main() -> None:
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(html_text, encoding="utf-8")
     print(f"生成しました → {OUTPUT_PATH}")
+
+    write_sitemap(now)
+    print(f"生成しました → {SITEMAP_PATH}")
 
 
 if __name__ == "__main__":
