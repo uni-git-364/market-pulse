@@ -1,5 +1,61 @@
 [
   {
+    "title": "８日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VSEN1SnhOcm1KTUFQN3o4UWVQQXA2VmVwM2xoQW9xWUdTNnQxYXBzdm9SQm52TDY5a0V2SXhLS1g4UWVNQU9EaQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-09T06:20:40+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
+    "title": "「円安加速」を本気で止めるなら、政府がやるべきは為替介入でなく“積極財政”の転換",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9obm9oNVRuaHFPRGNmVHFxZGVtbFJIYnRPRXhwb2xKb202TUx2NldDR0J3X0FlOXA0ODlmanI1Y3NWZEliSkcxOERQaUHSAU9BVV95cUxQZlBPeUloTFp3cURvUnphNzVVWGRvTW8yYVlldkhOamE5Z09odS11NTZjUGhKUVpwV2RPeTZ4T0xxNHBoR1BQLWQ0ZWhYbmdV?oc=5",
+    "source": "ダイヤモンド・オンライン",
+    "instrument": "ドル円",
+    "published": "2026-07-09T06:15:00+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
+    "title": "ゴールドマン・サックスが警戒するビッグテック「18兆円の借金」",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEU2tTNXdiR2RnT3EzdHdDRFRfY0JCSVg3U0Fyc2RqTHhERFU0aTE2X2ZHVHFlX25ScTdRdUZrNDZ2bURNdGlkaGxUVnpiUm8?oc=5",
+    "source": "現代ビジネス",
+    "instrument": "ゴールド",
+    "published": "2026-07-09T06:04:49+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・8日 ドル円、4日続伸(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHdYZGZDRUFNalVUTWVxNHZDNzV6c0R6U0pkUy1nZnVzM2NqZFdvQ09JRUpnNjBGTkpIME1nYjhzajZCVFB6TVRxSk9KWVdDR3BLNE85cUdxOUF2N0Z1SUZLdFFOaTNDeGh2UHNnOFZZUGY5U21XcU5rYVpvRUp0TzdQX21yWm8?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-09T06:04:27+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
+    "title": "「1ドル170円時代」来るか――6月FOMC後のドル円と日米の為替介入シナリオを探る",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YbUhtdFFreXVaMUwzb2xBeldQRGpRay1FaDNSd2g1ZGVjMGl1V2YxS1dFeE9EUndzY1pRd3BmcGdEWDZ1OGlYVHhrTkN4aXZkTFE?oc=5",
+    "source": "ゴールドオンライン",
+    "instrument": "ドル円",
+    "published": "2026-07-09T05:00:00+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況･4時 ドル円 もみ合い(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHh5SWFseHFUN011eGR4ekpoZGktbjhjb2FTT2VMek9FZGMtelJtYkJtcGxTRXBOZkJ6WmFaYnozWk9XWGowa3NYbjN5dmNsV0toUUVIYkRPNnNlT0dwYUp0VFhwWU1YWGI0d1ZYR1FNaW9hVFVJQzF5Ri03Vmg1bElaZmJid0U?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-09T04:09:09+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
+    "title": "ＦＯＭＣ議事録への反応限定的 ドル円は１６２円台半ば＝ＮＹ為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2Y0w3ZDEtUGhZRnR2cktrdGc0OFpOV2M3dk5IRDJrbEx2b29ZU3c3N29ZSkNleUZzSnQ5Wk92akc0R1dEWjZDcg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-09T03:14:40+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況･2時 ドル円 上昇一服(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc1ZEWHphZTl0TTZZcGVIaVh6bGVfNWM5b1FlWGRjXzYyTWNJZFB5T0c2UnBBUDFDU0hoUm10VXFKNUVWX2FxWjcwUG14ZmR0T3pUNmtpVUVvVnFZMHkzTkU4eDlEUmFWV0xySDJyYkQybGc0a08zbEdyOXRiaHZNZGMyM2pkVEU?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -72,6 +128,14 @@
     "first_seen": "2026-07-09T02:12:09.558971+09:00"
   },
   {
+    "title": "【ラグビー日本代表】防御力向上理由にゴールド・コーチの指導 HO原田「あり得ないくらい怒る」ことも",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTW1ENGpTb1E2ZFk1TmdlU3lGQXU3ZWJvRlFBQUFUV1RIcnJvWFJJdzBfeks3SURTVU80RkFST21VamdXY08wWlhCVHd2Uk5XQlFMNGtPcnlzbGJfTnRtclVHQk9JMmtkREd0b2Fxd3R6SW9IRl9faU9Gdm5EbjBHSnBSRFNmSkZ0aXNidA?oc=5",
+    "source": "スポニチ Sponichi Annex",
+    "instrument": "ゴールド",
+    "published": "2026-07-08T23:24:00+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
     "title": "アイルランド戦勝利のカギは“ゴールド30”。日本代表・HO原田衛「世界3位に勝てるチャンスはある」",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xczlyOVlXbkFOWHdFRFFReWczLVFNZFFlYnFrcmhJYjN0T1BCV0hWX1RaZG9TckplUzU4aHVRMWEyWEtMNnlWOVp3OVZFeXVjMWdqQ1JKMNIBXEFVX3lxTFA5NmNEcjBxU0pRSGZ4Z3NqV2luVGVULTZWT1hTWGt1UWl2dXlxZWJWUEdkLVU0SUxyUmIwN2MweHdGbU94Y2dCaTdsczVINUgydGFITDl1WUNFRG5j?oc=5",
     "source": "ラグビーリパブリック",
@@ -112,6 +176,22 @@
     "first_seen": "2026-07-09T02:12:09.558971+09:00"
   },
   {
+    "title": "ニコリー・セキタニ、IBJJFアジアで階級＆無差別を制覇「Wゴールドを獲れて本当に嬉しい」",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnSkFKWmJYakFmX2djVHJ5bFlwbEZacTROWUQ5SHFhT2J4ZEdYZ0RuMWFtMEx0WDdBeGFVVGFwUUZqTGZnTlNaakZCdldDcjRMTVU0aw?oc=5",
+    "source": "Jiu Jitsu NERD",
+    "instrument": "ゴールド",
+    "published": "2026-07-08T21:57:14+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
+    "title": "IBJJFアジア開幕、初日は女子が3階級＆無差別を制覇 ニコリー・セキタニがＷゴールド獲得の快挙",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vQUNOY0xLR2tEbHJvekJkQ2VnTy1peE1TM3gtR1RjQ3dJUERkejZQVXh6VHJ1S0huWU1rcjNWbzNiMFZaRGZzQXV5T2xHdGlLTmMtaQ?oc=5",
+    "source": "Jiu Jitsu NERD",
+    "instrument": "ゴールド",
+    "published": "2026-07-08T21:20:55+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
+  },
+  {
     "title": "空爆のニュースを受けて金価格が下落、市場はFRBの動向に注目。",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkFWUndsbThtNk04MkQ1UlFWYUJFUTVRal9XdTg1R3huRHJIeTZEeVFRX2d6X3dsYXplZXNOMjU3U3BQSXVkdUFWUTZHWndKQ1hveHV1SGVrTXdxeVY0V0VhSkd2TXZUbl83cm1nZllYMlpTT2F1ZFpXd1M3RGxYb2MyMjZqbGdTRHd5a3BRTQ?oc=5",
     "source": "Vietnam.vn",
@@ -142,6 +222,14 @@
     "instrument": "ゴールド",
     "published": "2026-07-08T20:25:00+09:00",
     "first_seen": "2026-07-09T02:12:09.558971+09:00"
+  },
+  {
+    "title": "ドル・円は上値が重い、ユーロ売りは限定的｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RYnU3YXdublRibm1TX2FOUUpmRkZfX0NaWVZJYTNSTW9fc1VUOEJ0cHRPUzZFUkxjYUp1QkVyZUVockRnanpKemZrYVJGeXI3NkE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-07-08T20:17:00+09:00",
+    "first_seen": "2026-07-09T06:48:35.020351+09:00"
   },
   {
     "title": "欧州為替：ドル・円は上値が重い、ユーロ売りは限定的 執筆： Fisco",
