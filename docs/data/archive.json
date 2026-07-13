@@ -1,5 +1,53 @@
 [
   {
+    "title": "１３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoTENwMHFoVW1vM1lNekY0X2FZdk5GWkhxLVE0LU1mSmtXYkFtZ0p6aTFzeE0xWlhiQ1MtMTdJQnozclRxVE56Sw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-14T06:20:40+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
+  },
+  {
+    "title": "金価格の最新情報（2026年7月14日）：9999金、プレーンリング、SJC、BTMC、DOJI、Phu Quyの価格。",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV29yR1Fka0JQUWxrRjJjNWpwN1RBVWhUSjRzakhXWk50aWw4VW9kUEV3SS0ybTk2X0ZiZlQ5TDlxRVUxRXRHeTBBaHUwWG1hY1I1cXRGNE0xOERoTkZ2WVZKUXZVYnRDN0g0cm5Ja01mNlNuTUFxVjJRaWxYaHloN2JjdWVqR2g0dkpTT3RsaEZwSlFBdXYxWEUxYWlRMExaN0ZhZFlwM2JMbE0?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T06:11:20+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
+  },
+  {
+    "title": "ゴールド・ロイヤルティ、ネバダ州のロイヤルティを80万ドルで取得 執筆",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IY1dqU2lSams3bjMyaVVQNUhzMDAwdHJaajZKOE5mX0c5STNjME43RTJodjRycE5ENTI3MU81d09xT3pUNkpmaW82bU84a3RCVDJwTHdDaGZIVXFfaGN3V0lKWERqOUE5YzB0SkhtQ0Y?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T06:05:00+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・13日 ドル円、3日ぶり反発(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUJSUWFXY0tFSU52MGhHMDc1b3VIRUdZSlg5UlhkYUlxOUl4bGgtYnNzcmc1d1Q3QWVDb0R1SkR3MG04aGJiVDdzV3Z1X2RUMWRhTFdVdmpVUWRjdkR0NFVRYmYtWmNFNE1GX3FfbjM4SjJfVWo3T3NGVGN3RHNJT2k0bm1penM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-14T06:04:35+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
+  },
+  {
+    "title": "ゴールドマン・サックス、買収分析を踏まえO’ReillyのNeutral評価を維持 執筆",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVy1JZ3c0aTlqd1BoWWloM25ncDZrZFZEYnBQamhqVklQU1RqdFRpTHNDdkZYSnVDRjdTa3Q2U0hacGxDTmhETlBFNnVnbGJhUU1PYmZSY19tTmw4ZjYxWXlDNXhOQ1ZMcWItUVAtMDVrWmxw?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T05:49:00+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
+  },
+  {
+    "title": "規格外ゴールドキウイが「氷結」に キリン、農林中金、宮崎県農協果汁が協力",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTDVsb2tQbno2NUcwYjZEWWVuWVU4ODdzVlVyc2hHNlFDZ2hUQWFvbFJsczlhZWVpVndqRzZGVUduT0lzZTdfYkdfT2RWTGdFMVJ4V1ZiYWRxYWs?oc=5",
+    "source": "日本農業新聞",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T05:00:15+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況･4時 ドル円、買い一服(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVU9tQnVmYkdqWlNNU0tjdDlkNlgyTjA3MFpBQ2JIUmRMS2FFR0hzQlBpNGNNVE1XWjNIUXNaV0Jnam1ZclJmTlpmMlI0ZVB5cnZuNXkwbW42OS1mU1YxbW1FclpyZktLdVBzempzaHY0UHdGR2RzS2JpSUFSTmF0S3pISUlrRGs?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -560,6 +608,14 @@
     "first_seen": "2026-07-13T18:19:01.699075+09:00"
   },
   {
+    "title": "【ゴールド】イラン情勢より、ウォーシュ議長ほかFRB高官の発言に注目",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNWS1YYzNYNHJJaUpyN1prWjlSY1FrUHZjMlZ0alBiUHhvNHY3dFhoVUZPREZkX1V1V29IWWlrMnQtREduSkl2TXdWZWhXRUNXZUYxVzlLY9IBV0FVX3lxTFBNWS1YYzNYNHJJaUpyN1prWjlSY1FrUHZjMlZ0alBiUHhvNHY3dFhoVUZPREZkX1V1V29IWWlrMnQtREduSkl2TXdWZWhXRUNXZUYxVzlLYw?oc=5",
+    "source": "マネクリ",
+    "instrument": "ゴールド",
+    "published": "2026-07-13T16:14:37+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
+  },
+  {
     "title": "円安一服、ドル円は１６２．３６円までつけたあと戻す＝ロンドン為替",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzQkxVakdEV2xHYkdoc01fcWtFMjVTeENDQ3N0SEh0Q0wwUXYwNEtyRUxSazJPOTVabEUyNEhtbXVGOWlrdldnSA?oc=5",
     "source": "みんかぶ FX/為替",
@@ -888,6 +944,14 @@
     "first_seen": "2026-07-13T14:57:47.337054+09:00"
   },
   {
+    "title": "BOYNEXTDOOR、1stフルアルバム「HOME」日本レコード協会のゴールド認定を獲得",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43NWFYQnZjVy1YRGkzSXBZbXZTMWV4SlVfNGRvNFNrcmNIYnFNRzIzbmRUOEM2VmRGQTMzTEw2MFhoQlVVU09xUFN4dEltaWJDTWdCVC02RFpzcWs4?oc=5",
+    "source": "Kstyle",
+    "instrument": "ゴールド",
+    "published": "2026-07-13T13:18:12+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は伸び悩み、為替介入に警戒",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdXFvRWItOGdOWXZTOGM0dVZJNjU3TUEyMTBtRU5iOXJJcHBTYlhhU0lwTXQ4MUphQ1VCTTlwVk41MkY2dGJhcGhZdkNwSmpmYlE?oc=5",
     "source": "株探",
@@ -950,6 +1014,14 @@
     "instrument": "ドル円",
     "published": "2026-07-13T13:00:40+09:00",
     "first_seen": "2026-07-13T14:57:47.337054+09:00"
+  },
+  {
+    "title": "【為替】イラン情勢の不透明感がリスクオフバイアスを強める流れ",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqOTBQY3R6aG0zZjI0cWJlSkhBcUJhczNfYzNPbl9GRFBZT29UMEJVal9sN2g1Q09NS3Z2NXhGaGJ4NV9RZUszZHB2ZlhMUFQyZXhQUNIBV0FVX3lxTFBVSGRwb3B6MmlzWExYTzNJWk5vVVotdlNXMmVzby00WTktaDFzRzI3OHNMSHZLaUpuYTllcGVyWnowRk8zU2V4SmYtWWNQVGVaZjNiUkJBWQ?oc=5",
+    "source": "マネクリ",
+    "instrument": "ドル円",
+    "published": "2026-07-13T12:50:00+09:00",
+    "first_seen": "2026-07-14T06:43:39.202625+09:00"
   },
   {
     "title": "日経平均後場寄り付き：前週末比1131.87円安の67425.86円｜FX・為替ニュース",
