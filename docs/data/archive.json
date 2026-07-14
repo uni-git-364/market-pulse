@@ -1,11 +1,395 @@
 [
   {
+    "title": "東京為替：ドル・円は変わらず、米物価指標を見極め",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVdMTXhSMEZteUU1d1Qza3R6UlhjczlGOVpZTExTY3owNmoxMTZfeEhTYVJ2QUgyVEZXN2NGZzNIV3VhMHRMeTI1YzduLW1GalYyN3lTNFYxNDBfN3QxOE4xTzQ0OWdQOGlqYmJVNExkb09wSDRmT3lUUGtjYVVMNFp0ZlowUXfSAYwBQVVfeXFMUEt3bGE3eWVzZnFlSmRlWFRtZnNKbW9yLUJHZWVyU0lTeW1qbHdrcjNFSGoxd09EcXo5M1pFQXRTUTdJSjN5a2N2VVpPRnAzNnoyVWVDbEtVanZGSXh3dWloYmdBZ0RLdTNhS1huRW9zODNLeEFFbTFBcXBjcHk3Q0k0Um9FSWxpRjBjdDk?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-07-14T14:03:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "日本長期債利回りの低下もあり、ドル円は162.23円まで下げる＝東京為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWDNaN0YtVUwyMDM2NjNCWHdzaVRjWkUxakRNZ1BDOTVuM3Y2LUs3RTZnZEhKM0hBTWNGbFoxcVZaek0tNFVLSA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:57:40+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は小動き、様子見ムードで",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90OEZYX016Z045OFhTeDEyc0IxS3cwbHB5NXJreEtTNGhDMkF3Vm1POFk3TnFIYlRjdG83NWx6ejZDdjN1Y0lHT2hSU243b0RTT3c?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:46:39+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は小動き、様子見ムードで 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PaDRrZlBPRVlkM0l3dUFqR29sRVNMMEdzMkNsYkRMb1B4RHJaZWZCOHk4SG9raGEzcGdVSVVQOTItRWRZX2FNSUV0dFotX1h3ckVvT0lUNjdTMGJaMllvV2hVSnFTODg?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:46:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "中東情勢の現状整理と今後の展望【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aVFIwUzFKNmViY3BweW9tbWRHNURqd3lNZmcxUnBCcy1IZ2VfbUs1bjdfVnV0LXJjdXk0SFRMaEFqWHhtcUt5dnYzV1RLRnlNY0VTNG5SWmV6SWpyUm9IWmlfQUFuZkdnNlVOcTEtZ0FXT1RldTctdUVSRG5lWWc?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T13:45:31+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "ビットコイン保有者にとって朗報です。",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4UzM4TXFZbFR1NlMxLUxZUUJlV0dfLW5Oam9OUTVjTGp4Vk50eGZPRW9hN0FqMVJOQk90MGpmU3BlNVp4WVN0Q3hXSzQybm9QQ0xzTjZvdjlPc0FvaXIxdmVZR2o?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "BTC",
+    "published": "2026-07-14T13:21:34+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は小安い、ドル買い縮小 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvNHBsSDVvNVlXYUo2NEFQWFBjdVVSVmtSSnd3eFNPb3g3NHhkMnI4clFqWVR5eEI0YjgtT3Radmp0OGQ3T3BNVExzVFZkZHJZQUNSaG9QMVFmb3AzMzNfeEF1WmxYWjg?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:20:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は小安い、ドル買い縮小",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSXVOZnhjQmNEYnplendSSDUyS29BMTdyUUNxTFREVXRFdU1Rd3Q5WmZHMHdQbXFyZjc1THJ6QzhBRkpOT2hjWGk5NlY0Q2c3LVZYQW5WTnNqOVJZV0xCVXVtalU5NHo1VWc2V1lhVm1aU2h6Q2VyUkFybHQ4N1BYUldtVzBMNGfSAYwBQVVfeXFMTkFvTjVrVHZvTmNFMG1KQ093dzZBc0REeUFZZHlZYnNvOEdVN3B1ZkRUSkJQSjMtcFB1TVI3cUhtSHlZemFkYnI5bEJWdW1tbnJFaEdHVTBESzFzMU5nSU9wQkdVa3pYSng1TjF0M2N2M3kxeVBTREdBZ1UtMkdKVlE2WnN0UVh6SEdYc1Q?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:20:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "2026年7月14日現在の金価格：国内の金価格は引き続き下落する一方、世界の金価格はやや回復している。",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMkRFN0EtelFuSUhsdUhXblFKZW5aTDN6b204cnlRaGNURkpFeGVpU1NndGJYYW53WTVrTzR1d01menhCRVNMSjdsUHE2U3RqNXZiRnZ5cEY1aGE3bDNEWmZGZ1hGeXVjWWttMXJFcnVjUF9TbFEwZ0p0X2lmN2NLcXBHbENJX1QxQTQ4bHFKOEs2NU1iVVdVR0dSWQ?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T13:15:34+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "【C (やや傷や汚れあり)】【渋谷並木橋店】HERMES エルメス ハンドバッグ プリュム28 ルージュヴィフ ヴォーガリバー ゴールド金具 □G刻印 ABランク【中古】 FREEの中古ハイブランド品通販｜スニダン",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwSjgxNUZaUkx1dnhNOTdlelZtb3MxTDhDYzctSjVKN2ZsbUMzU3F5SThlVUM1REpHYjNEMDJ1b1VaYl9jOXVJdWFyak01UzFfSlFYeWhIdU4yLVBTRExHTnpqbw?oc=5",
+    "source": "SNKRDUNK",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T13:14:42+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "ゴールドを、もっと自由に。純金キヘイチェーン向け4ｍｍ幅の中折れ金具を新開発",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXd3R3dsUE44N2Z1SjNwV3lTNzZlenNfTndRUGhxRW43QVJvYkNqUWpoRHRJdVRfSzZPOEc1T0U2YXhwblM4TGM0V2xkU2taQlZRN3dVeFUxWmFVaUtjNUdjWHhhVEZPMzJNVHJhS25TdW1KTjRZb2VsYlkyS05sbklNYTg2SnZlaFpUanJsWk42OW9XdXhYM1F1WnRCblZLT2trQko2NUk2VE55S3c?oc=5",
+    "source": "繊研新聞",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T13:13:29+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／明日の政策決定にらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUk1MNFlYeHFPWG9QU241Q19GXzlDQUFNRUVrVUVtVEZMM1Q1OXA3WVNiQ2ZWMlo1akRnYWpReTJ0elM4SUtheFN2SHcwemduZWw5cFZtU3ZuRElidC1aMTBfa2N6eUdmdmVYS2luV045OEgyb25DX2MtWDNRVkgwSEp3eVBIT3c?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:11:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し NZドル・円／NZドル・ドルにらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmdNUTd3b2x4NEt5ZU9EdU9Demtoc3NkeXZIRzB5di1JLVlnTzZGQlFnbDJZZ2VDOWlKTWdpTTZSTnBCbVlmLWpvbHRtQzZ1akhxU19HOFpWeUtUU1hGSWxPRXdPMmdLMHRqXzZ3azQxV2dBeUtiS2ZBZnlBYzBwa0hSMXV3d3M?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:11:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し 豪ドル・円／豪金融政策を見極め(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUtHTzV6dldDSUdxY3RUc1JmTFVXTGpzX292d2N0YTlxcjZiODFMNnAxYVc0VGdRbDJPTVJIVGhLNF9jTEJhVDZLU1o5ZnVFajd1eVBMTnVMWUNtUGNkSUIwbENPU1J2MFVqZ21XMF9ZMHdid2wwSGNGVUowM3VpYTU4LWhmaU0?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:10:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し ドル・円／米インフレ鈍化で失速も(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0loVW94SFMyUk1ZeWhtdGlMZURCTjViRnZyOXdQVFhwckU5REJDSVJtVzM2OHJBUFpOb1ZwWGZGZVp0OU0yVzZjS1BZOFBrNWVLOHFqSkJ2SHEzQ3RuVUJ1clprbzBUbWI0RnhkYUE0bWJVOFREV213ejB2OHF2WjliWjROT2M?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:07:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円162円台で膠着、上値の重さと円買いが交錯",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16Sl9KVGEtcmg0eWh5VzExeC1MajRaT3JoSTIzYnc1azNRRlR2eVpTWVdIaHZPMkl1bmlsVi1hWVBmenVWei1iZlVYVS0waDl6VTZpXzdXS2t4eEJLNTZIaXlHUTlEa21xNnpmZ1dPY3JXSFlM?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:06:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は反落、上値で下押し圧力",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZTdQcXlqR00zUTBUTE10bWdmOUplVjZjRDVzdWFydHlYNDc0aHA0R0hJcUJETzRLNmZzZDZacDZweEMtSVI0ZHVZWmJyYkRuTzl3c1dpcVNkOWlzdHBNWTFIVzJLaUVDcjl5cTlMYU5qQTRFN1BJdmtwaTdoZ2xuRGVObXc1VWgwNTNPOThEeUdYNzRPVFdYMUgzOFFsSGw2QXdvZkhqVXB2WVBNUzg4RkJ1dWk0S2FNUjg5R2I5X2hMbmY5bmZsN0hLVGJYVGFPU2NkNHBkR29yallk0gGMAUFVX3lxTFBUS0xEQlkza1o5S19iYVZBXzA0OUZGcXhZYWRfODEtNjIwMnVlUlAyZTJRZkJGQ1hKeWZDR3FrazZ3VTRHaUNESVU1VzI3Y1pyNVZhWTVwWHpCZ2NURGlzUXVGem1hWDZzU0Y0VHdUNnJhZkZHSVZrcGwzSUY1ajN6ejk5YllrY1VyanVG?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-07-14T13:06:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "【指標発表】米6月CPI本日発表｜マイナス予想の裏に潜む関税インフレ、ビットコインの反応は",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldzBBVWwyV2J4MXRqdHRuNjNCQUFBY3hZME9IVUNqM0FUa29VWXJHODlDVXc3b2g1Vmp3aWVSWGlGOENFTF9uUUJGNFlkdlU5WWZVLQ?oc=5",
+    "source": "CoinPartner",
+    "instrument": "BTC",
+    "published": "2026-07-14T12:59:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "本日7月14日の金価格：SJC金、Bao Tin Minh Chau金リング、Bao Tin Manh Hai金、Phu Quy金、Doji金は上昇するでしょうか、それとも下落するでしょうか？",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3JXanhRanRtaDkzYnM4UW01czM4czNmUzg2RVdEOU5sS3EtRnl0OVZCZ2tlYWNySlJJRTVNemM3Vzh5VFV0Z2FRUVJWUHhmUVRzZ29jMmJfa3BjMFk1bmxObXk0Wk5LOURLTkRtQnF5QlVEUkpIY2U5QzJrVnRBUjVad1J3X3U0MUs4R1JRSm9oSkVsdk1FN2xZUTBOVU9PV21UVkpqYjdHZUxpdDltUkIxeHNvVnViMEtkWFA2Vi0zNFM1VWln?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T12:57:43+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "本日（7月14日）の金価格：引き続き急落。",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UdDh3TTd5cndDVE5ycVlkZjAyWjk3bWFMNXd3RVBEbElSTlZGaUtiWEp0bmxrN21rMDh4eTFQQjVlZmV3ajRQMnhXTmtTT1hTcVB5QkpvdVJ4d3VjRkNtZGNud0FDOFN1SXluaC1vdlcxRjY1?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T12:55:32+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "“フッくん”布川敏和、運転免許証を公開 5年ぶりに更新“新旧”2枚の写真に反響「若返ってますね」「ゴールド素晴らしい」",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPOHM5TTRTaUFqbndxTXVqbm1ZREptbTNxMHM3MEVQdXVzT1JLZHhPMDQtVTEtaWluR2hMTmhsLUFodVlONTMwWWJTYkEtNExIU0JWYlNR?oc=5",
+    "source": "オリコンニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T12:34:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "7月14日午前：国内の金価格が急落。",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kbnpaQVY4el81X0NpNnRVZjZCekU2VmgwVUJvRFJMWmprUXJXQk1DWGtDbk5zWEF4MUpWRHZjcUhNbjhVOUZVaHR5eWJWbEtnQllUS2R6eW5STmZvS3RWRGZxeFh5dFlCR1IzUy1MemVBZw?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T12:23:20+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "テクニカルポイント ドル円 ボリンジャーバンド2シグマ上限が163.00円手前に控える -",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XZ2loYWw1NllSb0U2UlNGYzVNb1FKRlF0ZHpSZUlJYmxyM25RZnFmSFQ3eDRrdjE5LVlFQnJYUU9GX055YzBYdA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-14T12:15:39+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "世界の金価格が制御不能なほど急落する。",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nMUw2RFB2Q1FQamVmWWgwVnQ2UjdWRHlsRXNRRnB2bkVLaG9fZWhTU1ZmamM3ckdtZFVrXzItdEZwZGpYeHdCUWF5SnZZVlRubTNzMEpUS2ZPQmpJcmN5Z1FXZ19qY1oyeEZiOVM4czg?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:57:05+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "国内の金価格は急落し、1ポンドあたり約1億4680万ベトナムドンで取引された。",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0lHOXlnYzdSSm9scXVNOEJjaHhvU2d0QnB5V0Vla0pSLXkwc01OdUNmcW9QTkFGdDQtWFhZU2xXRUktUTRtUjJja2UwRGpiUVhNUFNxbWg5WXhQVGJpMzdmQlBPTTFISE1SVUhpVmY4eGQyOHVYNkR1VHM4SVk4bDI4OVpHUDhtNUk1VWxmV3d6eWEycGs4?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:57:02+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "米ＣＰＩ控えてドル円小動き、ＮＺドル堅調＝東京為替前場概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mSFFWbjNEbUp1Y1llTlhxQURZNDFrUXZ5MHdsdTZfVHp6THhGZE5NQ0toTXJGV0Fjd05yNUctVjVybUI3bWpUVQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-14T11:51:39+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "ＳＰＤＲ金",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94MFlJVzN5ZDlYMUoyLWZxaWgwbmhOSUlXSENyNlI0VUxrLU55TkxPZzV5UlZXZXM2RWpvUTRVTGZpRXNmdWdZREU5dE9jSDRQV01HNkQwRkV3VEoyVlZTZTBOcUZSdHRNckE?oc=5",
+    "source": "日本経済新聞",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:50:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "SJCの金価格は7月14日午前、1オンスあたり150万ベトナムドン急落した。投資家は依然として慎重な姿勢を保ち、今後の動向を見守っている。",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU05hLXo5cUlkWDdCckdJSUx2cHA3emRFbHJxelhYYmRVUENoaVk1S0JWcEVKeFdNOElDZHBtTnVBeXNQalhVTU1KbXZVNHh5TWtGbVA3VEZvNkIza3Vqa05FNlI4R056SWxpY0RndFk4Q3h1ejN0UjhPdW8tYzB3VHpzMWtCU2ItNjR2dGxBU2lfMzZoWjNLMU0wVUtlLXUxMElyN2pNVC01Ml9uZG05VmlCODhrdDNrdVd3?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:47:42+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "“１人暮らし”告白の60歳俳優、更新したゴールド免許「無事故無違反の安全運転を心掛けたい」（日刊スポーツ）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5peXhxVUNYQko2N0JwOUU2QlFkRjhWVWg4eXBXT2k3SXJ3ZzJUeXd3RkRKaC03TmxoMjZPS3hleTRtZktkbTJ1cDF6NFRBV3NLQ3paV1hVRVZreFdGcGp2U3drRzk2VVl3WkpTeDd6M1FlOHBKUldfUEZQeXhOWVU?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:47:41+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "NZドル円94円台を付ける、対豪ドルでは3月以来のNZドル高、利上げ期待が支え＝東京為替 -",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oQVMwZ3dmSWkwX3dUTmY4YVY1SlJwQlJ5YnhsY25nMElGUDlVUEx2ajZJQy00czctRUlsaW4wQ0VfcklPUHRPcQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-14T11:46:40+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "TIFFANY&Co. ティファニー K18PG ピンクゴールド Tスマイル スモール ネックレス 60011678 3.0g 41/46cm レディース【中古】",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LLUVXaE45Rm4xN3h6Q0hNS1dXM3FJRHJWWXV3OGlRTVE3TUw2YmZGM0Z4UGRJT3FvQmhQNlFVWDRLTHRUVzVLVW81MjMtNDk0d2U4M2w4bkZldUVXejBqZ1p2UQ?oc=5",
+    "source": "SNKRDUNK",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:45:06+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "2026年7月14日朝の金価格：全面的に急落。",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMXhYVzJQQzhlQTVvUzdWd25Hakhxc29wZG80X0Z5dVRlblQ0UHZyNkFoc3plV0tjR1ZyRDVhN0MxcDdpSXlXVWt2WmJtZVJNcnVaTm1pYkRwQjF3d2xlTTFuZDFBUEFGREtNWVlNREI4Z2VKek1iUA?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:43:46+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "速報14-7：金価格は引き続き下落。ホーチミン市のある企業の株価は驚異的な150％の急騰を見せた。",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXJoUTVTbTVKa2doMjZFZnJiSWxIekwtNURtWTJ1clpyaC1qeVpXOC13RHc3cE5sTnMxazItM0hQc0JGMGg5eXpiT0RNeENTdTNaN1hEZHRMbFE3MTVTQ1B3UklobDMwbG9hWVVWd2k5QmZHNUMtSzNvaS1JTUtVTGszVDVIdFVtVmllX0F2MkM5RkFlME9waC1rMkdsUzVrREN1WjBIVDNYSlU?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:43:44+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "【FX】7/14 注目の米6月CPI 原油急騰でドル円163円睨む動きに ｜為替市場ニュースの振り返り、今日の見通し",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIeFRnTnZsc2lON1JpWEp4YUc0QnRzNmViaGFOUXJGUmFBcE5mRHJXdTBkOVRyVmNNcjBkZGdlNmtWeUNscFIxSlZFbU10Vkg4S0pKM3UwOTNMZngtaHFxRzlnYw?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-07-14T11:40:43+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "金価格が2週間ぶり安値、原油急騰でインフレ・利上げ観測強まる",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EaU9vWWNqaHJqRnJRYkdhTnp6N09EeUxkdTdKeTVNTmtrUTI3dTAxS2VDNm0wclFKN1lxN0ZBVUFBenNOMUt4U2IyVENKVEJ2Z3dfVEpacl9lN2pRdXNrU1dBT2tsRElZWDZSLXBucGw0WVI1RUFYUDR3?oc=5",
+    "source": "ロイター",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:18:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "金価格が2週間ぶり安値、原油急騰でインフレ・利上げ観測強まる",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wd3UzNmVkc2dfaDN5cG91aW95SXpIOU82eGhUTTJOM1I1bnBWUExVSjUxWEh5eWVLcm1HU1NvNmJJYmtwTUxGSDV5TGVjX3VYdGNLdERKWFplZw?oc=5",
+    "source": "ニューズウィーク日本版",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:18:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "2026年7月14日の金価格：2日連続で下落し、300万ベトナムドン以上下落。",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa196RU5nNHdYa3dDRGtJUHY3Z0hYRnFZbXNabTc2M3B6RWZuNGNIb2NHVG5LVm5zRWdxMU5KZGRHcFZvbmxYSll5RUlNdk9uT2dkR2ZqcmdDaGRFRzNvVl9fMHVWLWRTUi1oUnRnNU1pS1FDdHlNYkpUcy0wdXpFWXByQmFmSFpQZTZYZzI4X1lVbDNMNVhNY1VHTQ?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T11:03:07+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "金価格は小幅な動き、ウォーラー発言が安全資産需要を相殺——米CPIを前に 執筆",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96WmJ6RWM1MGhwSlJLQWNtc1B5UWR6OTZ6U0R6SkJxSkRsekVCMjBzejllQjlELVUzc0RMVUZLNDVCekxiY2ZDYUVTU1ZNenphY05Xa1ctRUR2QjhZWDNEVFJtZ0JmRnhyc0pDMUdzdw?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T10:58:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "ビットコインETF、8週間ぶりに純流入…現物の売り圧力も急減",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdDlMZkU5TzRUN1FlQ3VraFZFc2c4RVRIWEhWYVVRY3RJd0FUa3pqaHVVOHA2YVAzMTNUWU05VndPSGF6cldnRUdwNDcySXlmeFlfTlNLRnFtRUNrem1OU3RuOFhSQkRCQkZsdXhEM2ZKWTE5?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-07-14T10:57:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "世界的なゴールドラッシュが沈静化した理由は？",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUzRCb1VUTEJmaFBYMjJLc0RGVXhQQjc0U1IzRDlleEJNamJMSUppV19YVnVWY0hjN1NKLUJMV0lYQlp6d3RRYXJWNkIxSkpHOGwyWGVjNFJQR3JWNUk5Y211NmNxRzduU2xGSTNMSy1RY3c?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T10:51:04+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "金価格見通し：4000ドル割れ、3900ドルが視野に下落加速を警戒",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcHJIYnZPM0dBNGItYWk0dFRSNW9QcVlKUzZ5S25McG5ZMnllbmhRUlRGLXFYemJya0tkQm5XN2p4ZEppRGQ1SnJaSnViamlfQ3Blalc2Nm93S1N0bFNyYXlYNHdPMUVpa3l1SnZUaG9FVDliX2dnWDZ0Mkk2eEh1bkRfNno0b2ZtU1Q3RU1Ma21zUUZyZnNESTlvejdCUQ?oc=5",
+    "source": "ig.com",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T10:42:15+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ渋る",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjdIU1JaR1drMWh0dkhjNVZERzhXUlp1UmF3d21zcjQ2TlNiZmZLNmFOVTU4Ti1MYzBxaTNmai1OTTdRUEt2b1ZjWHRpWDlzWVNLUEVoWnR0eWZxODQzcnIyVHdiUHpvU2pyRFJwR2ozOU1abG5ia09YV1p2cEg0YVpyRjlkOVHSAYwBQVVfeXFMUE9lZVBKRS1sMGI3SE9QaTRlUng2SVNkWXNVdE9rZGR2a0I0QlRHSGJCeUZxQ0lST00xTi1odmlsSG13dkZ1THl3YzZGQzhabzljc3U3dEJQZ1IxQXJYemhqbHp1OVNlMWxzYVRfMUIyb21ic3NzSzFmNVlObTVrY0Fyb0VYQU96ZC1TWno?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-07-14T10:39:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "ローソン、国内初の日本円ステーブルコイン実証開始｜8月から",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kZDFybkRYamI5enlZQS1iQ0RPd2U0ME95dF9nMnp4UVFjWWNlYlhvT3RWQVlwOWs5ZUdBdkpsR3RiT3FHM3FXR3lOeGNMak82WXl2bDlGOTVYSjA3Ump0TDcwYm1adzNrd216OTk5QWdsaS15WWN0Qg?oc=5",
+    "source": "Cryptonews",
+    "instrument": "BTC",
+    "published": "2026-07-14T10:33:50+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "本日（7月14日）の金価格：金指輪が1オンスあたり200万ベトナムドン以上「消滅」、世界の金価格は急落。",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDVHRU41STRfT082R19TTzNObTdxZU5IMVJ6UVNzeV9TekU3dnFmem42M3hLWm16emF0QmVVWTc1TnRoQ3BWOEhoRGdVT3FiVTBnQW9ZQzhxOHVlY0I3c0NBRk9RQ2duaHY3ZlljODM4cEtOU0dhUjJkb2t1MWVzYlZ5R0pRTmtHVG5UMnBOS2VuTWN5WFpVY0tnUTB0X3o2djF3cWNtZXdRMmlqVkNJXw?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T10:26:35+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "2026年7月14日現在の金価格の予測は？上昇するでしょうか、それとも下落するでしょうか？",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwMHo3aGxFLVBiOTVvbDVfOThDei14cTVKVEpGd3Y3SW9FeW55VUZqdEhpRGJ0Mk1LaU9zWGtoMmZ6VjlTNGM5RkdTdVR3SFZXa2hfaEkzbmhwQkxNRnpOT2lhd3JwVmswSmZ6VVY5SDg4Q1VSLWNubVd2dDRFUQ?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T10:24:44+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円はやや軟化",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yeEV2LVRwOGdVY19OMVhYSDdXTzE1M25EcVlSMm5IWlhyYlF4Y1NGSnphbkx5RXVaVmx4eVNpOWdkN0ZWQXJUTER2U3gwMXV4Q1E?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-07-14T10:12:52+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
     "title": "東京為替：ドル・円はやや軟化(フィスコ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYm5PZlkyVVJ4SGo0cVI1TTFUZll3OFBFRWRsdWhLTU45WldKOVZnc21zMmRGTlJ2cHNHYnZ3UWwxSl9oV2FBQzlnYkdVejJuNGY2NlpiVEQtREUzdDhuV29uUnlzel80WWYwUUtZNW9ZSklFSHZuNXZqMmI4alRJWU4xRmw1eGc?oc=5",
     "source": "Yahoo!ファイナンス",
     "instrument": "ドル円",
     "published": "2026-07-14T10:12:00+09:00",
     "first_seen": "2026-07-14T10:20:48.235758+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円はやや軟化 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zMEVrYmdSTGxEZ2ZiZ0d5T05PLXpBMlVtbXhQaDlwa3c4aVhNTW5zWnVObGlzakNDdlZoSHN6bjVUYTlTMk1ya3ZEOE53dmVzRGQxOXFza01WeE14bG1NTXdSTXF1Qlk?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-07-14T10:12:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "NZドル急伸、中銀タカ派発言受け連続利上げ観測 NZドル円6月5日来高値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uMTk0R2RDcmZXQWxYTjk1ZXlVNDdDdTB1U1dXaHZFWWtBWXl6VnJDOGo3Z09wYmNreWZjbkdCTnp6ajl3dHFkMQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-14T10:10:39+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
   },
   {
     "title": "本日7月14日の金価格：全面的に急落。",
@@ -254,6 +638,30 @@
     "instrument": "ゴールド",
     "published": "2026-07-14T07:38:00+09:00",
     "first_seen": "2026-07-14T10:20:48.235758+09:00"
+  },
+  {
+    "title": "個人投資家の皆さまからの「金（ゴールド）」関連のご質問に答えます",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mSWRwMGh1LXB0YWRaY1Q3MmJpaXdkdG5WQ2NPZnRIWmVEbWZ4VDNSVTk5Sm9uTm1mZEVhQlFjTGlURDlfOHVIVWllU1RraEZPWkhHRVI1U3lOTXFPUE9GTFJoZw?oc=5",
+    "source": "トウシル",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T07:30:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "個人投資家の皆さまからの「金（ゴールド）」関連のご質問に答えます",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDeWstTHZmMzNndElaWnd1UU9Bc3JQQUpSYlBJbVQxWWg4bEIxRlI2SXBwUHFkdlY4eEg4cXRMTmIzUE1JbGVzTTRaS3Z2U0xCeTh0UDBmTDdZTWJwZjRROHZFMA?oc=5",
+    "source": "トウシル",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T07:30:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
+    "title": "個人投資家の皆さまからの「金（ゴールド）」関連のご質問に答えます",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZGx4bUVFR1E2QjZKZHcwckloZFJ4eTNHRzgxN1U1NUthcnQwNXZMQmtFdGg2VWU5UXM1ZUZCeEFZQ2Y5ZDM3Q2hpNDB2QkRicmlrZXRPVzg4Zw?oc=5",
+    "source": "トウシル",
+    "instrument": "ゴールド",
+    "published": "2026-07-14T07:30:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
   },
   {
     "title": "本日7月14日の金価格：中東情勢の緊迫化に伴い、急落。",
@@ -680,6 +1088,14 @@
     "first_seen": "2026-07-13T23:02:02.375968+09:00"
   },
   {
+    "title": "欧州為替：ドル・円はじり安、ドル買い後退(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3pLYjRuSnQtNHQzWTRlMURqLUtGR1BCQWJNWHc5cTN1MWJwSUZIRU40WmwzM210T2I0SUU4RkV6QmFWbzczZ1FaM05Bbm1mY0hDWm5QWDZZRU1GS0VFR0Z1TDNxd1BoM0ZEZHplSTZGNjNkeld1TmlqbUJJRzdTMVFPbzdtbU0?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-13T19:13:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
+  },
+  {
     "title": "2026年7月13日午後の金価格：SJC金価格、9999金リング価格、および月曜日の世界金価格。",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWdWZjRsUzlsUktiOV9fTjZYRmNrbUpQZE5IZEw2RFRyb2VyVy1RcG9LcWdmWUR5UHRZWC1FMmRhcUUxTUZVeVJlaGJkU1NkRC1PT0lPbHlySVVmWUt3OHhmWUxDaDlNNG40Yy1BV09SWFI2RkhCeXFpMWNPZEZReUxGQnhMZmVLak94M1NOWEpfUm1qSFhLMVF4NjJ6RzBSMlJ3djVlREV2UQ?oc=5",
     "source": "Vietnam.vn",
@@ -734,6 +1150,14 @@
     "instrument": "ゴールド",
     "published": "2026-07-13T18:47:52+09:00",
     "first_seen": "2026-07-13T23:02:02.375968+09:00"
+  },
+  {
+    "title": "ホルムズ海峡危機が深刻化：金は4,000の節目を割り込み、ビットコインは60,000の攻防戦に直面",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR196dnIwTlZ4RVN2T0pLX09qUDRia1N5ejBJNTNuSjNuZGJyY0FhSkJ1dkhCemdDRHdwUVlqTmlnRmUwTFJxUkI1MTIycm8wRzhZSEdRQmM2Mmd2NTZXSVFyTTdjUTlEQVk2U3c2cEE4ZWlIbmZUWGFEMHRYeVUzdWJuQUw5MUhMN0E2cm5WcDk3V21nQlNPR2pYMGxwWURjZVBuOWJPXzh5ZTNkclZNMWNnbW1yYnBVRWlBVWZJVjM?oc=5",
+    "source": "TradingKey",
+    "instrument": "BTC",
+    "published": "2026-07-13T18:46:00+09:00",
+    "first_seen": "2026-07-14T14:20:22.353085+09:00"
   },
   {
     "title": "ゴールドマン・サックスはA株に強気継続、モルガン・スタンレーは米国株の夏のリスクを警告。台湾国内証券はテクノロジーとリバランスに注目",
