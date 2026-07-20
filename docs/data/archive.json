@@ -1,11 +1,75 @@
 [
   {
+    "title": "２０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wNHhaMVR0d0hlWENXSkI0S2ZWQktkMWx5cVl6R3hTeUZSZXZtN2daUHNOSHZKSG9nR2NKdGVEdFM4a20weGc?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ドル円",
+    "published": "2026-07-21T06:30:00+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
+  },
+  {
+    "title": "２０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kQ1dacmdJbVVxQ0YzZnJjS0lkS1p4T3o0cF9vVVk2YUNrMl94cG1YcENncjg1SjhiRkJoU1U5NnNIZjZpVXY1MQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-21T06:20:40+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
+  },
+  {
+    "title": "エルドラド・ゴールド、ギリシャのスコーリーズ鉱山で初の鉱石処理を実施 執筆",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiNmFKaVhzNkFzdnpLZkN2bGtDSkVPZVBSYTlJS0dOaVpWVWZtUkpOemV0SFpyZHotSklzM0pOYjlsR1ZwUUh5bjBZNkwtYk1JMlJfY0l3T3VmaWdubExlNTVSelVKNWVIYmZBWjk5MFU?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-21T06:13:00+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・20日 ドル円、小幅上昇(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFVkbC0xSFBTQzB4SFp1TzhtSE1kZlp5c29aa3p3YmRJdmwzMmh3UEd3Wmx5RERERDdxOE9YUk92R0dRb09fWG9XZ3FkQkZGM1I4NklOYUhvN055S0lQa1FLSjEydl8yNkU2cFQ0SFAwSUk4SmVLRjFGd1BvQUhjcVc5ZDNpa2s?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-21T06:08:08+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
+  },
+  {
+    "title": "ドル円は１６２円台での推移が続く 中東情勢は依然混とん＝ＮＹ為替概況",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQSFkzQUwzUUpZSkFnQkdiQUltd1EwREQ3XzlmX3JsRHB6MDBHSkVCOXdVaFRZNWVkN2h2RFhHX3NvVVh5NUE?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ドル円",
+    "published": "2026-07-21T05:50:00+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
+  },
+  {
+    "title": "ゴールドマンCOO、日本経済「最大のリスクは円安」 日銀の対応注視",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aHNweHFocmVqalBqU3VyZUdQdUhfV3FpWndDNjJTNEw1OWp2NDkzN3ViM3p3dWpDYTVILTZLNFZBSDNnaHVCSThKT0dyV1F6UlUwZ2pRMDV1MjdUUlkydTdtYXB4X0FJdWVUVA?oc=5",
+    "source": "日本経済新聞",
+    "instrument": "ゴールド",
+    "published": "2026-07-21T05:00:00+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
+  },
+  {
+    "title": "ビットコイン6万5000ドル台回復、ETF資金流入再開",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SZE52bC10LUt4NVpJUmJXTFUxczR0WkhtZ0pqdktqU3pVeFhNQmpPbnFDR2FHMmtXUVpSS0wzY01pc1k0MDJ6elI0Y01aTGotVzlHNHNxdHZ1UFZYajVSTzYyQkNvektsU1Fz?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-07-21T04:28:38+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況・4時 ドル円、下げ渋り(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZlBjZTcxcjQzX0NsSDBCM1pvTlR3WjE5RnVibXRNYzFBamxOQTZoem1aYjVVYklHN01ZRlVLOGFrMVgybmNOa2w0S3BjV3VmQmVzcTdzRWpJZElMbmd0bERBUmZTSVM0ZGdrS21TSkVYYW9iaVQtOGdIV09pV2s5eWtlTnFnOEk?oc=5",
     "source": "Yahoo!ファイナンス",
     "instrument": "ドル円",
     "published": "2026-07-21T04:11:39+09:00",
     "first_seen": "2026-07-21T04:23:19.843443+09:00"
+  },
+  {
+    "title": "ビットコイン[BTC]と石油の相関が0.67に上昇——原油高がBTCに意味すること",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yT0NGaWY0VFlMX1hpOEN2X1ItRmgtSU1wZ3hrN3RHRGFycG9hQVlTVjRpNVY5UlFuczRLbFZNeF9CdVNhX0daalB4dmlZYnpTUU5VTXhmOV9MV0lzdWV5VFJORUZ4TW5EcG50eGYxUQ?oc=5",
+    "source": "FinanceFeeds",
+    "instrument": "BTC",
+    "published": "2026-07-21T03:13:16+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
   },
   {
     "title": "ゴールドマン・サックス、新契約締結後もIren SpAの格付けを据え置き 執筆",
@@ -142,6 +206,14 @@
     "instrument": "ゴールド",
     "published": "2026-07-20T22:01:00+09:00",
     "first_seen": "2026-07-20T22:46:06.713565+09:00"
+  },
+  {
+    "title": "『イロモネア』チーム・ゴールドラッシュ（元祖いちごちゃん＆ラパルフェ）100万円獲得",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xbGpNSDI1QXlXSFRnWGFMWjRlWXhsUDFmQUJiLVY0NXdNeHJUaXhya2QyRGswanZiZUxrM2pKRC1nWU5jUTJBRFBYcEdMRm5ZcHA3LUhB?oc=5",
+    "source": "オリコンニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-20T22:01:00+09:00",
+    "first_seen": "2026-07-21T06:54:28.640892+09:00"
   },
   {
     "title": "ドル円のピボットは１６２．４０円付近＝ＮＹ為替",
