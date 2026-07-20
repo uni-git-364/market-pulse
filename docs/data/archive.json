@@ -1,5 +1,53 @@
 [
   {
+    "title": "ニューヨーク外国為替市場概況・4時 ドル円、下げ渋り(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZlBjZTcxcjQzX0NsSDBCM1pvTlR3WjE5RnVibXRNYzFBamxOQTZoem1aYjVVYklHN01ZRlVLOGFrMVgybmNOa2w0S3BjV3VmQmVzcTdzRWpJZElMbmd0bERBUmZTSVM0ZGdrS21TSkVYYW9iaVQtOGdIV09pV2s5eWtlTnFnOEk?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-21T04:11:39+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
+  },
+  {
+    "title": "ゴールドマン・サックス、新契約締結後もIren SpAの格付けを据え置き 執筆",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ETmNHYzlWX0d6aGdfcEI4Z2dKQ0JCaE5vOXFoQlpEbXlsNDROZTVhSXdoX2UzTGloLTJlbDhiSHl0ellpYlJIdWl6VDJwRDNXRkU4cnpudVhXMzFuQzJESW5ReVpacXVha1RtcmhqSm9aQVAw?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-21T03:12:00+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
+  },
+  {
+    "title": "ビットコイン、原油高と半導体株安で6.4万ドル割れ",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQk5NamtyamE3OTI5bThocGpXb19BLVRQRkNBMlUtbDZtY1hoSnhiaXpfS3hDVnVrWXZ1blRKX19JaE9ydHdUdlhjTnJJSkxYUW53NVktSjc1aHQ3NjZVbDdFR2xNNkN4aGo2S05ZQm5zZUxz?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-07-21T03:05:00+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・2時 ドル円、小じっかり(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnhTOEpRTjBJZGJuaGdyczVpeW5CWERHc0FBaXBrVEg0NzV5cUdLZ2JJYm1LcXAxY3VXLWJ6VHI3WG1pM2dtcjBJLTR2dVNYdGZCcDhBTGdTamJGVW9yQ0RwYlBZX2prS3pEZ1dHSmt0TFVIVkZEU0VncGVYLXVvTUxfV2NkdmM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-21T02:10:32+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
+  },
+  {
+    "title": "ビットコインの4年周期説に異論、「半減期ではなくFRBの引き締めが真因」",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZjNRWDZKdHZZdkFoajVka29HcnV0ZmRjbENCU3lXNnFpMmlqb1BkS2FuQkhyMWwwLWVmZkJjeDlRRVpUWUZGLVdFZkpTV0FkUU0ybzVweS14Sm02WmptN0h0UHZzVlNoVnFSMVU3eUFFUXUx?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-07-21T01:35:00+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
+  },
+  {
+    "title": "【ゴールドマン・サックス警告】AI設備投資の物語が動揺、モメンタム取引の底打ちにはなお数週間か",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aZUo2b0xXSTA1cERYMGl4R2Q0MGxpbUMzODlXY1Bra3d4VklyWUlPT0dlOWlyTXByZEx2RU1zS1Ywek5ZdUVsQTRpZkZmcmpJbFMxVnh4bEFQSXBBTGNQTExTcnMwU2JYdkZCTTltRmFnVGpE?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-07-21T01:25:00+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
+  },
+  {
     "title": "ゴールドマン・サックス、トルコがリラの減価加速に転換と予測 執筆",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tUzJZR0pWUTJRWVhWV2t0Q1I2NjVidUlZRUJMUlVacEIxblp3ZEIzcWtSZ01lLWdGaXh2cEMzbHUwZEtsUWRud1dLd0daR2ZxQzBuclVxMUtZellMbnkwTVQ5Tmk0S2RDZEctRDNR?oc=5",
     "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -352,6 +400,14 @@
     "first_seen": "2026-07-20T17:55:17.377493+09:00"
   },
   {
+    "title": "通貨オプション ボラティリティー ドル円１週間は４．７８％と低水準で推移",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5URFQ0Rkd6WXBpQTZheWRMaFp4aXUzdWd5aWp1YW8tVzhSd2N0ZllwcDVYaG5ELTV4eFAzUEJYLWxUbFJoU3RoZA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-20T17:17:39+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は下げ渋り、戻りは限定的",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXFhNUNFT182M0o4bHFMMGQ1dFo4TnVmU2lSeWFoNTc4U1ZqQ1dRODlxWjR2a25rN1RqWDlndTZVREZzcGE2N3c0eDRaMFdyUlFnUEY0MDVqYkVtVmMwaklCN1dBNk9aNXVpS2lseTFsNHNhZkFObG9GR05oc0liR2NjNGJlTjTSAYwBQVVfeXFMT3lzUzRMMnRDeHQyM09lRjNIX2EwSWk4QW9oSDlOUEtnZDkyNDRqS3FZMGkySS1IUmpBejlQNWlSdHlvQ1RaaXNpLWhGTUFxaUZSRzI3bkNKQ3FucVc1TVQ3SmotdU9ibU92ZG1GeVdKcGVFM2UwVERjQXNwSUs4ZnVDMUVES21PWjRVRV8?oc=5",
     "source": "ｄメニューニュース",
@@ -446,6 +502,14 @@
     "instrument": "BTC",
     "published": "2026-07-20T16:25:26+09:00",
     "first_seen": "2026-07-20T20:35:06.854418+09:00"
+  },
+  {
+    "title": "米イラン間の緊張の高まりと、米連邦準備制度理事会（FRB）が利上げを継続するとの懸念から、世界の金価格は下落した。",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWNqdk04eFd3a1ItNy1QaUx0dlNXRU9oOXBwZ1pLWFVxRjhyeUp6aWFvY2h4R29sQTYtVXk4WG1aaXZGeXYxa0psRFZ0cnE2T0xrNV9fVkp2cHVqOEdXWHF5NWxkOU1RWXA3Y0lUVlBudVNjU05NSnd2Sk9mVnNCMzRDVFdjUkR5T3R2VGhWcWVCLVVkSE9GclBETm1OVURSdmlRTlBId0t4em9RMzFRYjYybGY5LWpOTVh0X3huUQ?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-07-20T16:12:52+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
   },
   {
     "title": "ドル円１６２．４０近辺、ユーロドル１．１４３５近辺＝ロンドン為替",
@@ -574,6 +638,14 @@
     "instrument": "ドル円",
     "published": "2026-07-20T13:35:00+09:00",
     "first_seen": "2026-07-20T14:58:31.570475+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し NZドル・円／NZインフレにらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaU4wZlpQSXBzN2Nid2tBR2t4TG9ZUGZ6Sk4xcV9aNzFSSjVJQzJmME1lVGJrWVhNLVhnOXF2aGtRVmV1UnJhcmJfRzRhR1MzX2QwRmtRR1p6QTdIZmdYZzR3dUhMdXhHRE9JSTV1d2VkS0RCMTl6SmpiUmlzbVRYWlhkNWhoT3c?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-20T13:35:00+09:00",
+    "first_seen": "2026-07-21T04:23:19.843443+09:00"
   },
   {
     "title": "金価格が4,000ドルの大台割れ、中国の金ETFは3カ月で時価総額800億元超が消失",
