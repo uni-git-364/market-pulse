@@ -1,5 +1,77 @@
 [
   {
+    "title": "NY為替：円安是正介入の思惑に円買いが加速(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZU5qYnotem9tUmkzM0JRU3BURHdPaUcyLV94NHlYd0hhTVZxVUpPYWVxRThER19kaW53OUZCZVE3OXNoY1Q4RFBiUTFXSndwN1hVYzd4MEQ4MHhtUzVETVN3cXRzR2Z0alFpdy12S2hTbjFQX3FXWEpIOFUyQXZ6R3hmMXUtdjg?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-07-31T06:52:17+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "NY主要株価－インテル、AMD、マイクロソフト、マイクロン、ゴールドマンが上昇 アドビ、メタが下落(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTNkZURhNXBBTUN3WndodFFteGJpd2hWZS0tUEh4S2FoeW84ZHdKSHlrcnR3U0c4VE5lWm5BTmljUkptajEtQUhEYUlXVFJfa1M3TC12Y05tTktnZWR2aS1EaGVTYlp3UmNUUjk3Zk9DYzhvdVA0RlVPVkdPNkU5UFZZMy04Nm8?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-07-31T06:36:13+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "３０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pSDF6bFczdU1xdkRmMjFPbDI5a2FXOXhWcjFXY2wwaUl5eHJmTmRxRVp0LVlodkxxNC1iQkt2T0wwRng4eUc1MA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-31T06:20:40+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "ＮＹ外為市場＝ドル／円2.6％安、2カ月ぶり安値 日本の介入観測",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yUWtjSnJKWnFXUE44NzcwZERSU1k4Y1VRdTdxa1NaZ3FFU2dodU5GSHc1ZzZ2NkZidmFYaHAzSGc2U1o5MXZYaEtpVHVsZXYyekRWQjdqM2NPVGVwUWZvQ0pmMlN1Z29pOEhIVXFOdnpKbDdGcDJGZA?oc=5",
+    "source": "ロイター",
+    "instrument": "ドル円",
+    "published": "2026-07-31T06:15:25+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・30日 ドル円、大幅続落｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGUWtXMEtybjVCRDgzWFI3YTAwVFJYMVQzWE03WjFuY1NhWFNJanZ2bFZSUzc4RnFlRVV6bktnejV5dVlHbEg3Z0VyX2ltV25ENWc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-07-31T06:04:00+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "エルドラド・ゴールド決算発表：スコーリーズは見通し下方修正を補えるか 執筆",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94U3JSYnNwalV0ME02T1poU0NHZVhiamFBMDlXLThXNXZqbDJBUlVGV2FlVjhLVDU2V2habUJPNnRGejFkSWZHWGZvRDhobnNBX1g1UVV2VXZsNVBXSUVvOUliQWI5UkN6QWpF?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-31T05:39:00+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "【マリーゴールド】桜井麻衣が団体の「甘さ」に危機感「〝顔〟と言える選手は不在なんじゃないかな」（東スポWEB）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wR2N4ZDlRZGkxYXF5U3NKOUctdXlLY2ctUjFyb25zNmpKR25Wd1RSTTdhM1J0WkNmUy03T2w0MW8zRzFyY1VYTHkxekctUGxjODFzZGdfOWtVdzFlOEh4SGgwOEVQVzYtcXNhanpTZHNjU081QUZSOVM3RGJHNVk?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-07-31T05:19:03+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "ドル円、１５９円台前半 日本の当局による介入観測＝ＮＹ為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZWZEMnFhSDZXMXR2SG5SZTN6ajEzWFpWZFhUUkxpWU1iUGRxam9IV2lKSmt6MXl6NjdDTWg4ZXpEc3I3ZGd4ag?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-07-31T04:27:40+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況･4時 ドル円、戻り限定的｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IREs2VUF2eHJhclNxVXpPRTlYbzh6d05JZENtMHNvTi01M2FkWkJWQS0wRUZPcUNRVGdWQ1ZhMmdyVnZGc2d4VGlPMWRSbE1OR2c?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-07-31T04:08:00+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
     "title": "ビットコイン最終下落局面、歴史は3万5000ドル示唆もオンチェーンは否定",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjbDBOOURHTGJhMUZKbHh4RFNiU0paMUF4dUNWd1RRUXlKNTlMN3lFRVZTajNCbVJENUFQdXZEMkZnWGJMMDRiX25SMGxoYkktbzhrOG5hbTI2MFNVWmxhZUdBMnBxR3pD?oc=5",
     "source": "BeInCrypto",
@@ -46,6 +118,14 @@
     "instrument": "ドル円",
     "published": "2026-07-31T02:07:00+09:00",
     "first_seen": "2026-07-31T04:07:11.117566+09:00"
+  },
+  {
+    "title": "ドル円に為替介入か「なぜ1ドル157円の円高」識者の要因分析",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkZ3dWdtRHZXT05tSUxsZmJnZmRkSWF2ZW1XZkZJU18tWFdUQnRBSGg4ZWpSeW9pWXMzTG5EcWxvNnpSNUdQTjlabzBuTTdBNkxOQm9UcE9VRUU5U3JDalhGVm9fTEgxaGRUaWdDUTh5b1RQdG9fbXg5U1ZqekJwQnNBZkIzU3lXMlRvUTNsb1llTmRsVktOOUluVUJtZ9IBmgFBVV95cUxOamZ4RF9IaWlNME9FZkU0RDl4VUhTVHlVRDlXZ0dORkFscWpVUDZZMjNFUkFwNVNCSXc4N0t4U1F5bXRsUFZnWFZoeFd5azJiZXp1Y2xKcU5EclgyS1VwRTVUeWZ4RTJkZjR6U2hsRkV6eWpqLTI0bmVHODVZU3FGeUZPOWRONEc4akJRRjVHRlRldGhkd2pnaW53?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-07-31T01:36:06+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
   },
   {
     "title": "金価格は調整局面も、金の需要は底堅く推移",
@@ -102,6 +182,14 @@
     "instrument": "ゴールド",
     "published": "2026-07-30T23:44:00+09:00",
     "first_seen": "2026-07-31T01:19:28.551269+09:00"
+  },
+  {
+    "title": "【マリーゴールド】岩谷麻優が8.9大田区大会で復帰、Sareee＆彩羽匠とタッグで激突へ現王者・青野未来は“無視”され屈辱の涙",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yZ1c3WWN4WkVic3pZYlpKcTZmRG1teC1kV28xWDNSbEdqSFFZMGxNR3A1bHNFQUh3bENZaGlnR2xwX21INWRva1c0UVUyRlZLSDhFbThIbzdSRUVKak84X2QyYVVmRGFqclMzWUN2ZVF2QWd2ZnAxNVN0WEtVUQ?oc=5",
+    "source": "au Webポータル",
+    "instrument": "ゴールド",
+    "published": "2026-07-30T23:44:00+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
   },
   {
     "title": "「ゴールドボーイに引き続き星乃あんなさんは良かったけど、主演の人は残...」だぁれかさんとアソぼ？ ぐんさんの映画レビュー（感想・評価）",
@@ -225,6 +313,14 @@
   },
   {
     "title": "【マリーゴールド】山中絵里奈がマリゴ正式入団「おばはん、おっさんたちの希望の星になる」",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pZzIxbVRvVnZmSkpJaGExbjRmU1BzQVlSX3lCTnBEcVVublYzYmc1cXFLTGF2ZWd5d3E1UmUzMmF0RC1nWXpB?oc=5",
+    "source": "スポーツブル",
+    "instrument": "ゴールド",
+    "published": "2026-07-30T23:07:47+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
+  },
+  {
+    "title": "【マリーゴールド】山中絵里奈がマリゴ正式入団「おばはん、おっさんたちの希望の星になる」",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xSWhXNVBEY1AyUnpRZWZFa0RyWDRRdGkxUUljbnNMb3M3VlZXOWRkVzhwejl0UGlYWklNM1hCcnkzTEdpZ1NHaHdyMHUxZTQ4cXJuc0FzRFBralNaYzZxV1kyY1h2TEJQWHNZcUpCQWdzSzFLVGpGWTZGZWsxOU3SAYcBQVVfeXFMUHhmS2JGWkNDd1liS1lZME44N2lJT1RIUC1JUG44Z0YxU281R3AtN3hFc2UzZkM1Q3A3dzlQMERpSHZUTjN2NXI3QWxnYW1nWkJFNWV6emZwaFQ3WVF6a3k4MUVKdXc3YngtOEF1LVJjS19kejVUa2xiZXN5aGZYMlZSektlaUhr?oc=5",
     "source": "日刊スポーツ",
     "instrument": "ゴールド",
@@ -326,6 +422,14 @@
     "instrument": "ドル円",
     "published": "2026-07-30T22:43:39+09:00",
     "first_seen": "2026-07-31T01:19:28.551269+09:00"
+  },
+  {
+    "title": "【速報】ドル・円160.80円、ドル売り、円買い加速｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oN1lFQkFlYUFZUWx5aEEtZlQ1NGY0UkZTRlVUZzlsX0NkMV90cVFYeTNsZUpBRXZUaFdaOElzbDVrWVc1Wlk1ZWJXU2Nhd2M0ekE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-07-30T22:41:00+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
   },
   {
     "title": "【マリーゴールド】リングアナのオッキー沖田氏が大腸がん、大田区大会は「オッキー・エイド」に",
@@ -694,6 +798,14 @@
     "instrument": "ゴールド",
     "published": "2026-07-30T18:01:29+09:00",
     "first_seen": "2026-07-31T01:19:28.551269+09:00"
+  },
+  {
+    "title": "オメガ OMEGA コンステレーション スクエア ハーフバー ゴールド クォーツ レディース 良品 腕時計 A#149084",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZVnNBZkdZWmhQaTg2WDNVcnZZVWlXcVlXcUJqSHp3WTVsMkpKc1FMTmlDRmRQbmdjdzJmTGxYUXlzMWJyR1lxVXhDSUtDZVZQSFRvRjUxUGhyNW5iN2pPc2xzSQ?oc=5",
+    "source": "SNKRDUNK",
+    "instrument": "ゴールド",
+    "published": "2026-07-30T18:01:16+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
   },
   {
     "title": "ビットコインとイーサリアムの市場は永久先物取引によって支配されています。SpaceXはその影響力がどこまで及ぶかを示しました",
@@ -1094,6 +1206,14 @@
     "instrument": "ドル円",
     "published": "2026-07-30T13:40:00+09:00",
     "first_seen": "2026-07-30T19:57:28.433790+09:00"
+  },
+  {
+    "title": "ストラテジー（MSTR）ニュース：ビットコイン（BTC）価格の下落を背景に第2四半期で82億ドルの損失を計上",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVGVHOUw3cEdtNWxTRFpzUEcxcTk2QTNTZU02eVhHazUtcXRDVW9ENjlVRkFOTTg1RWZtRGRQUWl5ck5CUkNuZEFReTJmTHFack9qSFlQMGNjSzJubDc1MEhDd1RDRnhSQ3ZvSVdBQ1hYaG5oRVNSUldEMnlhaWFCbWlXOEFVYzJFNXVFdFFDOS1hUF9vTWVtRU0zOFRCWWQ3LUtZeVlSSDcyZFVzNGhLYWlSRUkzS1UwRUljWi1DNA?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-07-30T13:32:00+09:00",
+    "first_seen": "2026-07-31T06:57:56.217269+09:00"
   },
   {
     "title": "東京為替：ドル・円は小動き、様子見ムードで",
