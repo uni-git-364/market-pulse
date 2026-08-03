@@ -1,5 +1,53 @@
 [
   {
+    "title": "３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBocEU5cmVxREgzaXYySWxZR1E4SVd5MElBSUNPSUFfcTRaSzBFcGo2U3BGYmJFS2NRMVBkYVMxMGJTTS1HTExpNw?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ドル円",
+    "published": "2026-08-04T06:30:00+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
+    "title": "３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDUUx0WnZ6VHhJa25jRXFSZlQtVEFpMUFlcUNaS1pBMDQ2NEhTaEZSb0RSQXVPTVdDdjJJam91bTZTWWhoZ29UWA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-04T06:20:39+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・3日 ドル円、4日続落(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXA1RGIzVG5CTktwMkdyNW5NZC1CTk05eGNJTTFvQl9wWkw1Y3UtWUlGOTRQdVFwR2VSNVd4VHZHR05COFNsTU1Xd3l5Yy1Xdm9fUlN3YjROUnlRRDVTMDVNci1ZbXhFblZDT0Z2V2V3cUw0dEhXQV83WEt5bkdjOXFHZnYzdU0?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-04T06:10:12+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
+    "title": "日米が為替に「協調介入」…どんな意味がある？ 円安続く相場への効果は、アメリカ側の思惑は",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wY0VRcC10d1cyeWJvejJkekp0RUt4VVY1Vk82VThtSTJPUlZQUnFDaUNBU3d6S0Z2bmRGMkc3UmQtSWppQkF4NWdXTVB1elZ0QjBj?oc=5",
+    "source": "東京新聞デジタル",
+    "instrument": "ドル円",
+    "published": "2026-08-04T06:00:00+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
+    "title": "日経平均7万円時代に考える「貯蓄から投資へ」の25年――日本の株価政策と税制改革",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01QzA5UWxncTRRdmpqR0U5YWtiU2xjblhPVEVhc2w4c1k4S0N0RDdwSnI1cldaR0RldGM1RGpfV2taWTl4QzZSOWQzYlI0WkpYMFE?oc=5",
+    "source": "ゴールドオンライン",
+    "instrument": "ゴールド",
+    "published": "2026-08-04T05:00:00+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
+    "title": "米国債務上限がビットコインと暗号資産市場に与える影響",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HTFl5dGhxUEhyVk8yR29FZlFIcUtrLUhCVDgwMkVtaVY0eU1IODFfR044M2JXS2YzQTNVRWVfaVhKX0NPY2o1SDE1eko5bGdac3Y5SHpHNTE3c2Z5ZXpXQWpwU2wxNThfT1l3?oc=5",
+    "source": "FinanceFeeds",
+    "instrument": "BTC",
+    "published": "2026-08-04T04:55:56+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況･4時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblFjWU44Q0c0SHB1YWJXNmhqX2xESE1ZZkt3ck5MRWZTSkFlS2hHMnhscDBPcjJnQTlZMkx4MU04SUxEcWhjYjJnaVVhY2JGX2tKVG5KVG51NDRWT2VGZlVFRDgycjZBNDZoUkRQb2hmUW1lcnNEcTlFLW5WYmMxTzR2S3NMNk0?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -22,6 +70,14 @@
     "instrument": "ドル円",
     "published": "2026-08-04T02:07:12+09:00",
     "first_seen": "2026-08-04T04:16:47.504003+09:00"
+  },
+  {
+    "title": "ベンジャミン・コーウェン氏：暗号資産価格、2010年以来の割安水準も下落余地",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWS1M0eFVtMUt5ZE1HSk9PSHA0Q0tjemdxMVdUalBBS3F6cjRiYTlMMnVDakV5Vld1ekJxWm1CSFdoc2VfSC1YWk40UlNUa0ZGQ1ZXXzZETGUxeVlPekpmS2xQT1pfV0l1akw1aTRLLVkzcUkwQjRr?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-08-04T01:24:20+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
   },
   {
     "title": "レバレッジETFブームが「クラッシュ・プット」人気を牽引 ゴールドマンなど大手投資銀行が年率20%の高利回りを提示",
@@ -48,12 +104,36 @@
     "first_seen": "2026-08-04T02:03:35.150885+09:00"
   },
   {
+    "title": "Strategy、ビットコイン1,638枚を売却 1億470万ドル調達",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1Y05MU2FBRGpkcUJROXBqVG1PZl83VEpFdWxpZnBNLTJqemctUmdONi1jTk44aV9ROHRXY1p3dHRTZTF3TXVSb0plaXlQakFkWjZhVmwxUU5OMHhIZkFpLU1xUzQwZThyaEtzSUMxMVAzZE5TVkVn?oc=5",
+    "source": "FinanceFeeds",
+    "instrument": "BTC",
+    "published": "2026-08-04T00:19:27+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
+    "title": "日米協調介入だけで持続的に１５５円を下回る展開にはなりにくい＝ＮＹ為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yc2R6S1BKdzFDRWxhX1d6Y2d0bk1lci1lLW1vTHRGRVd0aEpLRTdlb3dfV2ZfS2dTZ3BzeTNBOGt3TUNJb3lTZg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-04T00:16:40+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
     "title": "キャンター・フィッツジェラルド、ビットコイン見通し悪化でストラテジー株の目標株価を引き下げ 執筆",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zWVZyd0M1OWx5UjBjVjlYY2ZDVGg0MFhmS2JWRllTeUhXMnZ0Uk41Sy1Ea1ZFb2I5QTNiYWxTemY1QkxJd2hGMFNUNkV4bFEyeEdrX2VfVVJFQ2NpTVRoQWFIQkJtUXhMX0FnRl9GZkZxYmpS?oc=5",
     "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "instrument": "BTC",
     "published": "2026-08-03T23:47:00+09:00",
     "first_seen": "2026-08-04T02:03:35.150885+09:00"
+  },
+  {
+    "title": "ドル円、戻り鈍い 156.26円付近まで下押し｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92dURBaVFjbC00ZUkwOHgtZFZSOVlMcVlScGIyMHF5TnJkMXBJOFpXS3lvbTlDTjRuRkE3LUxKR2ZOdXNvVzhNSUZYYnVCQ2lOX2c?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-03T23:20:00+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
   },
   {
     "title": "2026年8月3日現在のビットコイン価格：トランプ・メディア・ファンドからビットコインが流出し続けている。",
@@ -232,6 +312,14 @@
     "first_seen": "2026-08-03T21:11:08.244418+09:00"
   },
   {
+    "title": "ビットマイン、ETH保有率5％に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnBodkFRMmxZUjVJY3JfenJjTEoycERhU0lkaWplNGRiT3BmeHpWSjUyRkdDbjRhamRPQlN3M2g1RkRUbXAxdXNEcXZuWnhxZHRYbmNvS3RXWUU2aFY3ZUljRUpyRzA0eVZTZGV4TzhNd0xvbFFnQUhHVHVESWZIckFHUS12YUU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-03T18:52:00+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
+  },
+  {
     "title": "ColdCard攻撃前後、取引所BTC残高が約10億ドル増──ドミナンス、60日で最大低下【価格分析】(NADA NEWS)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOU51NnZPaWZGUzhIUnIteWlxeFd3TDF3UlJ3cTEtdGlFQ0xsTzA4WWxFOF9DSHFXYUhoeVFKSjFreGQ2d3VxZXhBSVJuS2RGaE9HWWpNbHB6R1VTME9TcGQ5REpIYjB2d19MU3Zjc3ZKaEpOS3d4SGFyR0FUdVg4SGVDRVdES1E?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -406,6 +494,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-03T16:26:00+09:00",
     "first_seen": "2026-08-03T21:11:08.244418+09:00"
+  },
+  {
+    "title": "ドル円１５６．６５近辺、ユーロドル１．１５２５近辺＝ロンドン為替",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PcFZNV1RJdWxqNFB4ZjcxZkFEbmZmSzFld2tYU1pnQl83U05lbFZodE4wOFY0ZGFpdk92NGhOUWx0UzJBMmc?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ドル円",
+    "published": "2026-08-03T16:24:00+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
   },
   {
     "title": "【ドル/円、今夜の見通し】ドル/円、155円台へ下落…さらなる日米協調介入を警戒、どこまで下げる！？＿2026/8/3",
@@ -1430,6 +1526,14 @@
     "instrument": "ドル円",
     "published": "2026-08-02T02:01:44+09:00",
     "first_seen": "2026-08-02T14:45:55.613818+09:00"
+  },
+  {
+    "title": "【トレード】ホワイトソックス、救援右腕ブラゾバンとゴールドグラブ外野手ドイルを獲得",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95cWotWVc2WkFtb0ZRc2NiVFNoMGhIZ1JqZS1kekYtX2hFM1gtaFM5QV93cjJwaDlBYy10a0hGYlhROVd3Ums2dklrbjU5aldFazJWQU95UHdLNVZxc0MtNnVfWk5xY2hIV1VkUlc2WkxHWUU?oc=5",
+    "source": "MLB.com",
+    "instrument": "ゴールド",
+    "published": "2026-08-02T00:06:00+09:00",
+    "first_seen": "2026-08-04T06:57:21.538362+09:00"
   },
   {
     "title": "フィデリティ第3四半期レポート：BTC、ETH、SOLは底固めを継続中、現在の仮想通貨弱気相場はどれほど続くのか？",
