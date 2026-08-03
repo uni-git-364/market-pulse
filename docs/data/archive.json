@@ -1,11 +1,323 @@
 [
   {
+    "title": "東京為替：ドル・円はやや持ち直して推移(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1F6R3ZYZWtRVVZMZTE0T3UtbFJ1Nk1QS2F4cW1CUGtqdUVILXIxblZVUVBSaDhyeGdNcEsxTjh3Z0JsSTRSR1Nlc0xZUU4ydW1HbTNRZFFuZ3pfZHVvNXJHVVBVeXN3R0hCRXRBMWJUejU4QzJQbUhteGdxNU11RTBXdzlQbTQ?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-03T10:35:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "トランプ氏、イラン攻撃を中止…ウォン・ドル相場は1,420ウォン台定着を試す・ビットコインは9,000万ウォン台を回復",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42QXVJaHNHQW90bndib0dFX3FZMkt5d1ZGU2xXQjUxY25CZ1ktUmFtY1hqQS1GNEt1WHpXcl9HN3hKWGtBY085QU5nVFBPZGZvejdiUS05Qy0zRGlzdUxQR0NPemlNY2lGYzhDMXQzdHNQVHhj?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-03T10:25:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "BNBチェーン、ミームコイン不正発行の疑いで元従業員を提訴",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wVXNSQVpvbFI1WjZtWkhZSTV2aXZtV2JJOTU5VE8yVHk3d2dIbVdDUms2dTF2RXJfQ3ZqVnVIVWVBcl9Rc2ZRODRGRVlvZmNRaVFXT3JIT0ZybFpsQ0JFYWhPcW9Lby1pMjJTMUt6ZTg0a1N2R2Y5REpn?oc=5",
+    "source": "Cryptonews",
+    "instrument": "BTC",
+    "published": "2026-08-03T10:20:32+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ハードウェアウォレットの脆弱性警告、594 BTC流出受け",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbExmTkhYTnprWmRBNGgyanBDVzJ3cDJ5VUlkUnZWVldrNldOYmQwVXM0dnJWbk42clczaXlfVFJjVXpfNEJ2UzRFMGRzQ2JBZlFGNDFCcDRBWEdQSGhkVERMQlV4TUI2dW5WdEhxcW5nc0NLdURSUUowX3ZvWHNBRVlB?oc=5",
+    "source": "Cryptonews",
+    "instrument": "BTC",
+    "published": "2026-08-03T10:15:52+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・10時 ドル円、急落(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLTh5M1p2d0kzNEF3VDE5QzFkN2prQ0RVVzE0Mm9VNTJHekh1X3g3YnppSzUxeVJXMFVJTU50ejZYZTc1Y0QzazUtYWkxZjJucHFkY002VElUdXhQTmRfRTdmWmNHUXVPQ0o1RjBlelJablRhMWFrNVlTUG9CdlRqR25IaVN0SEU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-03T10:12:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "東京為替：協調介入が意識されドル・円は荒い展開に(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM4TjZBR0dFXzdzT2FoSVM4ZFNDY21IU0xMVWlVYjc4c3hRdTFKTXNPTHlSSHNNWVBrTlhwXzZNRUF4aENjTVFuUXdaNTY3QUVrYUpxUUNyNThOYUg1NVA1RnNKSm9aRldFLUZkbHNlaFFRVUJWUHVrMkVPeVVjSC1DUTRUSGM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-03T10:06:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "三菱ＵＦＪ銀 ドル円 公表仲値 １５５．７９",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JUE1OMV90b01ZemoyVUZFa2FsdV9YWEpreXBMVW9tWEVIcEZxWFlKNDZXWkk5WGtEVkIyc2MxNDlMejZHOHBxeA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:58:40+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ドル円は１５５.５０円台まで、日米当局からさらなる協調介入姿勢示されてドル安円高、介入の可能性も＝東京為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0eW1oYVVsaGc1dEphbUY4WmJTeWl2cVlLdmhGZmQweWcta21rc1JLUVVXdlY2bkhTZzV3TVB2TnFoQXc1eE5YUg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:42:39+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ゴールドクレが３日ぶり反発、２７年３月期第１四半期決算は大幅増益で着地(ウエルスアドバイザー)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVlMMW5sMzhhUkQ4R3lVWDdfUlYyX2ZNUnhTWmMtY1VzMm0xMUFYQ2tUMFYwcVNPSGxoSUdRbFZsb28wVHVraDJlUGpHZVdRcDFmNVBUSF92UXpYMG5lemtGaURlRDdkaXlpUHRsQV9CY24wYWUxZ2JCMzRMX3R0MHpBUjVyaUE?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-08-03T09:41:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ゴールドクレが３日ぶり反発、２７年３月期第１四半期決算は大幅増益で着地 速報",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBicWlSTE9LMmFfMGJQbEJtcWVfZnF4V0NsdGlpOUpPRVBUYVdJZVdxSTBDM1FSbUh6Tm56WnkyTExXR3QxaXlJ?oc=5",
+    "source": "kabushiki.jp",
+    "instrument": "ゴールド",
+    "published": "2026-08-03T09:41:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "東京為替：協調介入が意識されドル・円は下落",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aMXB4WkRyUVV4YXpQZG4yLWdmcExwMEJjZXdlbXAyRkRIYno0ZFc0U0t5aHFFU29aYzZyWC1QNWp1ZkhsRWtGMlp1WGpYUTNKRHc?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:38:26+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "自称サトシ・ナカモト、ビットコインのガバナンスを批判―プロトコル変更に警鐘",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUJSYk5VUmpEWVZ3aDJac0I4WmlzeFI2NGFxQzl3MGxaQUphaVpYdS1xSWFxMFBSR21YUTJpQWYtcTJlRGdZM1hYa2RCZlhzYUNEb00xTDJ5TUdneXpHMmxVSk1ibXpFVjBKSjVMYXAxVC1yZlJ1TnFpNXhuZU1ya0ZGUnJWVTBPQk00?oc=5",
+    "source": "jp.beincrypto.com",
+    "instrument": "BTC",
+    "published": "2026-08-03T09:36:43+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ドル円急落、日米財務相「さらなる協調介入に躊躇せず」",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wQTZmT1o2NkRYVVlCSDBpNF9xOWJsdHNaWktyWDJNUG9iVDRGbWQ0Q0hibmktY0pyLUMyVExLd0hPcmY2WHlkTg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:35:40+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "三村財務官発言に反応、ドル円は１５６．３０円台まで下げる＝東京為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85bXVaNFhGLWFNZEdvSXh0U0xKWlRfN1NnMy13eU5tOVdBdGFhYkVVRFpWUEZiYmthcGRlbGN2YmFwbUVmbW9mZw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:34:39+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "今日のFX予想：日米協調介入！ドル円の上値は重い 2026/8/3",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BeklNWDVMeW5TZl9NbWpSb0JJc01ETC1oRWhsTTBjbktPS19OcUNLTjAtWjRlaFBZbTBGeEJjeG90MXJZdTBCczBsVWN4U0F2RndXYlpyZmtQQjR2YkVwNE5nWQ?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:33:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ドル円、急落 156.40円を割り込む｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ISjA2TUJJb2ljYUd2Y0xPemNmSjZVdUlwd0tMXzBoUVZjbEpnTUxEdXRIeDlJczRTbUFVb1NBZmcxOUFfSGV2ZXRZNE9rTzRhMEE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:33:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ストラテジー、5週ぶりビットコイン購入示唆",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBMcUxKdkFXMFlIVm9GS2s3Vk9NNlNnbGtpRFd1a0NCdk84eWdTX3UwZWJMajRmamRTcThDOVNRZV91cEk?oc=5",
+    "source": "CoinPost",
+    "instrument": "BTC",
+    "published": "2026-08-03T09:20:07+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ドル円理論価格 1ドル＝161.35円（前日比-0.26円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EeGVvWHVvZ1JGWnBJcGkwdjlzb1A5NDNzVUJmOTYxbWI3WGI3bGlFeVlvMGJ0SzJhTHRkQVdxUzQtenMwV1N0eA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:15:39+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "【仮想通貨・原油市場】トランプ氏がイラン攻撃中止でビットコイン反発、原油急落",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SZGNWcDdZSWs3VWNTVE1vWVB1SE5QMy0tOHVqQUlLdm95MERka18yQmswd2lUZWN0RW9fMlNhLVAzalQxczhkSmVLbDBNQ0lTcEJrUVFSVWI4NTZLVHNqUlBOeHViNVNIRGRXT0tBQldCZUxt?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-03T09:05:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は156円93銭まで下落後に持ち直す(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTduWEE5aHNodkliSVUtYXc5NjRGZzVsUFZjaGJQcTAyV2IzYXpXRDBHc01rUzZ3czlEVjRDQVFsUHZOMXBkY2RnbDlGSHlpNWoyZmpiRlpBUWJycDNRWENyZ00yVkZuM1BxY2F2dHg5WXJ4Qk5OclNRZVQ3UHp0UjBzUUtyTk0?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:04:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "日経平均寄り付き：前週末比527.07円安の63834.95円｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zeDZXNGtpRVZMaVpCUjdEWjlHWVpZQV9CamdVT1Z5YnF1aVQ2bUZYN01HOXhSUl9scFlJNFNjN3UtYlBxYVBweVhWdmRiX2pYNnc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-03T09:03:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "FX/為替「ドル/円今日の見通し｜日米協調介入への警戒感が上値を抑える」 外為どっとコム トゥデイ 2026年8月3日号",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pUzFRQ2ZTYkVTbW5GdHhKUmpBNFRfNTFZa29BY3BlOTh3cWdwOEVzdlNBVHpPOEpFdmF0OWNlZ1ZEQzM2VmZkZ2VKdzM1aG1ablo1X0FJbkZLQkJfUDZMckVzVQ?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-08-03T08:52:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "８月３日の東京外国為替市場見通し＝ドル・円、１５７円台後半を軸にもみ合いか(ウエルスアドバイザー)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXUyeUthNDNaR1pwbmdZWmpIanFQQlBpRVBfYXp2RGd6N0Rwa3N3dkhRSFBkSDN2NUdJUXZIS280RHl2QzFoMklBbEdDcXRUOXJuWV9WZDB1WlQ5T0FyVGZTSHRrbFFqZHV6bjdhZUdOay1LdEo0czR5T0xwdEh4UXREcDZUdlk?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-03T08:47:29+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "マカオ、2026年上半期のゴールド製ネックレスの輸入額が約5割増に…対外商品貿易統計",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QQ252Q1NJSmU1TEFneHBBdUlkdTI2YnF3N2NkbWtHQzlTWGVjSUd5TDl3N3ZqZlhkdzNvMVFnZlRnMHBpZWdBQWNyeURoYUlNblFEZ3Bn?oc=5",
+    "source": "The Macau Shimbun",
+    "instrument": "ゴールド",
+    "published": "2026-08-03T08:46:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "豪ドル/円見通し(為替/FX ニュース )：先週末の豪ドル円は円高で110円台半ば｜2日連続で政府・日銀による市場介入が実施された模様(2026年8月3日)",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsUnVsdjQ0M0xKZUlFWDdOcEJFeWl4NnhLaHVGRExNcFJKYXdLMVZnd0FfMnVQbzBRWkFSOHFSRy1weTlOOUFPaWEyeS16OWtGTUxqNDZMWlJ0N0ZUSXg4dFZWWkZFTWYwSTFmMi1pYnl4Qms?oc=5",
+    "source": "OANDA証券",
+    "instrument": "ドル円",
+    "published": "2026-08-03T08:25:35+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ドル円午前の為替予想、日米協調介入への警戒感が上値を抑える 2026/8/3",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15cTk2aENwTzNkbVBCck82N0c1X0xQbFFHdFVJNTFLVV9qb0Yzd0ViZTdqVHNodHlXZm5NbjZkVldodGNCYldLM3pjcTg3OFBzREhXOWs1cDRhR19vZmVkWEdZZw?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-08-03T08:15:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・8時 ドル円、売り優勢(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHUxQXR2VDFhOWM2V1N3aG5CUWFtYkt3bkZoZWp6bDVkazM3NDIybzdYRmlGU1daUGdxV29hdHNtOHo3aFVQMWpyMHc5bzlVa0FNS3FQVEZrU2Npb0kxUlQ0WDhGNVdjVy1IclBhMl9uQkFZdDJUNFVjV0RzaUh5ZWlhcGpUMmM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-03T08:12:19+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ドル/円見通し(為替/FX ニュース )：先週末のドル円は円高で157円台半ば｜日米両国による協調介入が実施された模様(2026年8月3日)",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PUHhmMmtxYjJFN0FmYmtNYVUzMloxY2V0aG1POUdnX2ppSUFrOUZ4Z2VmYjhPWWlxUnExM1BqOUMtZGdBZ2RnclA5aDUxREtodmFkR1dIcVJuekhtd3pOYzhhWFZGaWVBVDF2Um4wZEdjakE?oc=5",
+    "source": "OANDA証券",
+    "instrument": "ドル円",
+    "published": "2026-08-03T08:10:27+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4045ドル｜米長期金利の上昇が影響し、売り優勢だった模様(2026年8月3日)",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wTHFOa2dIVG5LZnEyMU56SHNDbi1HR0dDQkVLc2NfX0FlMGMtSkJLRUdULVdMNjVCckxoaDM0SnhmT1V4UlpOMDZMbFd6d1pTbjR4dXlrbkpfeTRnbnNVSWlqX3duR0ZTeFNlYnAyOA?oc=5",
+    "source": "OANDA証券",
+    "instrument": "ゴールド",
+    "published": "2026-08-03T08:05:21+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "東京為替見通し＝ドル円、日米協調の円買い介入を受けて続落か",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcEE4WVlLU25RV3JaZi1TaFNwNDZqVUs2X0cxbkQ1NTNWcU93OFMwYkFSUnhFcWZkRVlxYW5DNkFPZkkyRmxZUWVwUDV5T2pPQVE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-03T08:00:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "【本日の見通し】ドル円は２８年ぶりの協調介入の影響と中東情勢を受けてドル安円高継続か -",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LZlhDSkFGaFY1NFNyRmRBTjExS2Nqc3VqRzJ4Unl3OG1EX3VqY2N4ODA3OC1VWmQyV0g3YVFtSmg5aU5Qb0ZOaw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-03T07:52:40+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "日米の協調行動がドル／円の上値抑制、円安是正方針に注目＝今週の外為市場",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxRGkwaDY0ZFhsUWRDWTJSb0xJYzBITXBJVm1RS0ZodW9iZ3dHYmticHNjU1diZzB3a3M2VkJZYXczZUhjRXNOaHNqLTRwWDh5S1g4UGVrVGJDbjhoUXNLeVViU1l1NXREWEpLYjUzcmRVLThGUWgyNg?oc=5",
+    "source": "ロイター",
+    "instrument": "ドル円",
+    "published": "2026-08-03T07:24:09+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ドル円、157.02円まで弱含み 個人投資家は売りから参入｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PdU9zb05TNjdMM2tITy03ejhkQ3pfYTJFQ1pIaW5JX1NJSW4wRWdTYkFSRXhtcE9lYjlnX3A2RmRxWHpaNDRTS1Jva3QyWkNOM3c?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-03T07:03:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "朝のドル円は１５７．５０円前後、２８年ぶりの協調介入後、警戒継続＝東京為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mVk1YVGlxYnBwY2NJTGpJYTZZYl9NOXE3MzZqWGJaMUxpbTV1cnBFRnpHbVZvMTMtdjJQblU5VmdMY3Fmb0lKag?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-03T07:01:40+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ゴールドウイン、大阪・心斎橋に「ゴールドウイン」ブランドの新店舗「Goldwin Shinsaibashi」をオープン",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TVUk2clBmNzNVcnFEeWFpVGJzcjFzTWt2WHZwOUpvalpnYUl0Y1g0cHp2UGc0SkpXOENVc2kyNzBILXFKOXl6aXRqLVFUd0FHN0dRQUJkTmVYbTJfRW5NN0NpcGM?oc=5",
+    "source": "Apparel Business Magazine",
+    "instrument": "ゴールド",
+    "published": "2026-08-03T07:01:07+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ゴールドウイン 企業向けユニフォームを本格化 機能、デザイン強みに",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iN3MzQTJYTWQ3V0ZlSURrMlVhbFUyajRJYWJ0ZnNpWWdJM0IxVFZQRGhPRE41UWlUZTVuOGhCTk1McTg2eXc5SW44TmdyTXo3ZDdn?oc=5",
+    "source": "繊研新聞",
+    "instrument": "ゴールド",
+    "published": "2026-08-03T06:27:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "【米ドル円】8月第2週の為替相場にインパクトを与える「重要な経済指標」【解説：東京海上アセットマネジメント】",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kM0ZuSE5wZ3Q5VnppaFpOeXJsNG9MdFVabnp2a2FRRkp2NllNcUV1a3FKdUpuaXh5VVp1OEszMUc1V2xqb2d0bjYzeUt5eWh2ZWc?oc=5",
+    "source": "ゴールドオンライン",
+    "instrument": "ドル円",
+    "published": "2026-08-03T05:00:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
+    "title": "ビットコイン、15年の強気相場を支えた支持線が4度目の試練に直面 価格は6万2000ドル近辺で推移",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oWXA0Q21KMWhHSUltNl9aTU5PTm1qR3RVVkRyYllLWEQ2LXJqMzd3dEtJV3pEanN5ODVNR0l3ZGZGWENuUERUVWFPYWdKaEJjOEpaMGtfZ01sd1RwWVFRMmMxMnBCS2t1U2VVZVFndTdmMk5V?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-03T01:25:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
+  },
+  {
     "title": "イランがトランプ氏のホルムズ合意を否定、原油上昇もビットコインは静観",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oZWZUWDFmU0hKczkwcEVXcmx4R0NxN1p0ekc4bTVGMXJ2TnhiMll1a0FSR1B4WFlKRFQzMGMzRmNicTA2LWo4Vzk0ek9WUDl2YWpQeVpHcGJpODUtOXhhOGlwdk5TbjYxeWdaNE03TQ?oc=5",
     "source": "BeInCrypto",
     "instrument": "BTC",
     "published": "2026-08-02T22:01:42+09:00",
     "first_seen": "2026-08-03T00:51:37.023716+09:00"
+  },
+  {
+    "title": "日米両政府が協調介入 円買いは28年ぶり 円安是正で連携",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lYnY1WXR3VzQ1bVlBM0VhVXNua1VKMHdnUU1QT1BCRkJNemZjNHBlRk1oSlF2U0dpbHJVOG85Zy1sWjJkcEI3bHNGTWY0cG8zUkZtV2hsbVhUM2hqSXdPV0NvRVRUUG8?oc=5",
+    "source": "朝日新聞",
+    "instrument": "ドル円",
+    "published": "2026-08-02T21:54:16+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
   },
   {
     "title": "マリーゴールド収穫期、「美しい経済」を推進 中国雲南省",
@@ -686,6 +998,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-01T06:54:00+09:00",
     "first_seen": "2026-08-01T14:45:02.560989+09:00"
+  },
+  {
+    "title": "NY為替・31日＝ドル円が3日続落 終値は157.40円(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTllDdkh6MEVKTUxINTA4a3NKR2toRkl2UW9qaXRhTkdEbVNTVVZ3UW80QnU5T1AxLThSR0ZDMk95a2JNVnB1cVhGYktUYXF2YWRib2xwVjhjUUlvTmpEUGZqWjZEY2dGODluVTdpUVk1eEl1R2hSX3BLOFFJOEhYTG1nM1Etbkk?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-01T06:54:00+09:00",
+    "first_seen": "2026-08-03T10:46:54.041687+09:00"
   },
   {
     "title": "３１日の為替市場の四本値（ポンド円・豪ドル円・カナダ円）",
