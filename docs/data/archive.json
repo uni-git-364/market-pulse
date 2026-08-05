@@ -1,11 +1,139 @@
 [
   {
+    "title": "BTC/JPY日足 ビットコインは1000万円台を回復、短期底打ちの可能性に注目",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jVy15UGJMOU9OTmtHWFB2LXRCa0pwWGdxcDhCVW51SFJzb3B3N1ZJVExqVEE0WFZONjd2dndmRmpmUmlDT3BWRmpZWW5NVk85NG9qQmVVdWgtdGVwRWpETV9za0dEUG8tS0M2SDl0WDlIaU0?oc=5",
+    "source": "bitbank",
+    "instrument": "BTC",
+    "published": "2026-08-05T16:33:48+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "テクニカルEYE（ドル円）＝売り優勢、１５７円が最初の関門",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jbklDOC0yaFBBaFZMV0szS1dTRlRodWtXb0ZJSGdyRTB0bFJGUk5PQWxtellDN1pYc0tUSHhCU3l4YWFxbVBOUw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-05T16:30:39+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "テクニカルEYE（ＮＺドル円）＝５日線に上値を抑えられ、軟調な推移か",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xSkRYeEE5VVZRVXpDdFAtZDlUWWNiZWV1SlQ2Y1ljM0VhQVlvSHBZREhudVBnd0REZ2pMUzZvVTBDeDk2a1VWUw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-05T16:30:39+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "ニーズウェル、IVEC認定パートナー制度のゴールドパートナーに認定：時事ドットコム",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjVTRKVWljREEwWmo0eU9LTGFaS09teEFUWmF1R1NHX1JDM3JwSkh2VlpCUVpWQTZXaC1sWTh6WjROMVVwM3RueWlVeUJHT2dfSWFoblhZSkxpQXdvNGt3Nk5qOFFCYWdMWWM4?oc=5",
+    "source": "jiji.com",
+    "instrument": "ゴールド",
+    "published": "2026-08-05T16:15:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は底堅い、ドルに売り買い交錯(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdDEtejZjYXU3dEREcTBHVXMxRDFSdl9wcW1Dc1ZjWVZvSU9hVU1EcHpUVWh5MUhYdy1GdFVneEJDdTM1SXdwU1ZwRTFzQzZlMGx0eXo5WkIxd0pyOHdRNl9TcHh2WkhTbkdZV0VFOC04VDdEcDZ2b3UwV1Z0QVU2WUtLQTNhczA?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-05T16:00:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "ドル円見通し｜為替介入でドル円急落！介入効果はいつまで続く？伊藤忠総研チーフエコノミストが徹底分析【伊藤忠総研レポート】",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94QVhTallGSHVwSWVrQnM1TDM1NnROODZST01RbFFVNVNNNVBUcm5hX1FTUGxzZU9UZS0wMTh0cVRxUUh0TWRPdU9UX0VaZlFIX09RbmhCX2xiaFZ2bXFHYzkyOA?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-08-05T15:56:27+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "ドル円やクロス円は往って来い＝東京為替概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kNmc4VXlGcG5GTHBkMUZ1dW5MVEV4Z3VHTUVnenVVN2Q4N0xjcFZVcXI4V3hQOGxPVDJ5MUluY1RLUTNWMmNFbg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-05T15:46:40+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "５日の東京外国為替市場＝ドル・円、１５７円台で往って来い(ウエルスアドバイザー)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUtVaFpkaUNnSWdxcXFpTEl4VGlXWjRmaFU3TDF0VFpYMjZhWlo2MHU4d0YyU3BSTUZMWGNXbmdVd2FPOHZEOVdjVmlISmRIdTJwelB0NjZFOFFmMXAwUzBmNXAwWEtPYWZlQVlxaGw5bE83elNpV0tTM0xJZ0hmRjc5RmdFa0U?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-05T15:32:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "【これからの見通し】ドル円は１５７円台でのせめぎあいに、株高と介入警戒で",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pVmFJSFN1Mm9GTTl6YnRDUXNkeE1CenRRMXhMMzlzc3ZpZnhWQVJKX2tSZ2h3cW0tV3Bhc1N2YUJYZjBHRUlDTg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-05T15:28:40+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は小動き、ドル売りは後退(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXNlblFTZklUNWx0WUE5Wi1CQnJGWGhhMFBtX0NaUzJWSmc3MTdqSFlrVkZROU5MMmZYSXJsYlo4V1BaZ3FRM3p2eDlQLWw0YjQzLV9oSHRWS3ZNd2JjNWtYUkk3SGVsT1lGWDMzTDl6QUNDaU52LW1zREhWTWpSdWFXTWNEVVE?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-05T15:25:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・15時 ドル円、底堅い(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU8xbUIwQWtJTkowVTY2OVprVDlkSWNpVkUzdnYxRkpOdVpLZHJkNmczNW5BNUI4MGV2VEhmSnFIdGZuand3UTB1NG9vVjZiWlpTbVUyZjFFSU13Rlp0S2F0STNpamxfdTNMXzFjYzVPbVhPdnVISk5xcFdtRndCSG1MMHppMWM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-05T15:07:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "ドル・円は底堅い、ドルに買戻し再開｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGtoYTFjN09sazlqWVdPOHNKcXBOT25rLThNMmNSejIwT3JIeFRadXZQdFZQdFRuR3VhNkU0YW0tekRIWU1DNHJSTWdsQ0phR1E?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-05T15:03:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "国内最大面積の旗艦店「THE NORTH FACE+ サッポロファクトリー」増床リニューアルオープン 常設型REPAIR＆CUSTOMサービスを新設",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qTEVvLWRoMUVpd0RoNTBJaVVQa1NrWkRYelZvUGFtbktKTGpZUVJOMzFCSWlFWWYyeHhLUDhwT1JIRGZMLVV3TjM0S3J0Y3dyTWJ1U2prZUFrWlhJWTl5VjNFTEI2bFQzVVE?oc=5",
+    "source": "PR TIMES",
+    "instrument": "ゴールド",
+    "published": "2026-08-05T15:00:01+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は下値が堅い、原油・米金利にらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWt3dk1jY0p4WENoTDVoZ0JrUmozcTJXaHJwbmhTcEZjNG04T3BBNjdOSHlXMDBwQlU0S0tHak01am5fXzd3ODh4cEJxWUlHOHhRTENLd0YzcmpPRlVNMno4MHpMbDZFY3Z4dGM2Q3pGZFluV1Ria3lsNThxM09vODN2b1JOY1U?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-05T14:55:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
+    "title": "アーサー・ヘイズ氏、AIバブル崩壊後にビットコインは100万ドルになると予想",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1weVpVdE0tSnZDWjgtVFh4S3pOeEpIM2Z3ZnROd1EyTjJWb2dna3pIZGZkVUlRQ1g2MXVZVlpqTFNJcEx0WGt1M3JkMU5sa2hkN3pWOEM2RENXd2hmdFF4TEd0c1QyMzRweFNuZjJValRmeGRpX1E?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-08-05T14:41:56+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は底堅い、ドルに買戻し再開",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mUG1feEl1ZHVpTy1yeTBFT2FWbDdSeHExcWItOXREWFB3U0dRMGlUUHRhSnJ3VWFEdHlzb3NPTmItVUZuTW44aTc1d2pnUDBnUnc?oc=5",
     "source": "株探",
     "instrument": "ドル円",
     "published": "2026-08-05T14:30:38+09:00",
     "first_seen": "2026-08-05T14:35:35.624345+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は底堅い、ドルに買戻し再開(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMS1BOE1vdmRhbHlxWFhxeDU5YkFNcUx2NGZWMmgweFRpdUJzN1EyeTd3OGNmT3hZODdieHh2dzhFbWVrb3prYkZJTmx1T3hPcm9RTTNiN2FIaWY0YmxSUUx2YXBRZk1xajdpS1lTM2tWb3FsMGNuV0MwcFJOUm90M2ZLZ3Q0SWM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-05T14:30:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
   },
   {
     "title": "ビットコイン暴落中に確認する7つのポイント",
@@ -88,6 +216,14 @@
     "first_seen": "2026-08-05T14:35:35.624345+09:00"
   },
   {
+    "title": "ビットコインETFの一角が撤退へ｜運用資産1470万ドルで力尽く",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1seVNPUUF4RnJ2cTRRNWxPZksxcmhUSGR4MlN0MHd2Ukthckw1R0lYR3AtenJsZXNPcEJ0eGwxZktQa3J3T3BRZkZfR0g1eUJfRzdoT01RRGF4OEk2UXNtLWUzVGVMQ0tRNUNrVmVUYlBnNWRkS09pNw?oc=5",
+    "source": "crypto-times.jp",
+    "instrument": "BTC",
+    "published": "2026-08-05T13:16:27+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
     "title": "テクニカルポイント ドル円 200日線が上値めど",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLLW02dFo1Vnh6c1ROdlpMeFRQYV8wc19JWWUxeWVpRV9LVG9BS3VSQ01SNGhXcGJaVXRoSEFnSGdNaW1mc0ROYg?oc=5",
     "source": "みんかぶ FX/為替",
@@ -118,6 +254,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-05T12:15:00+09:00",
     "first_seen": "2026-08-05T14:35:35.624345+09:00"
+  },
+  {
+    "title": "特産スイートコーン「ゴールドラッシュ」の収穫が本格化 昼夜の寒暖差で強い甘みに 9月上旬まで出荷 北海道芽室町",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42b3E1ZUhSQ0FnLTZ2TXdWdXF2OWF1UmhheFRZTS1CaUtJV0RMdjBQak91TzAxVUxqYnpMSVcwa1dPUTI3VW93N0tBOE03djFEVTlsd2lvS0tJQk1zVk5EV0lVMTZpSHp2UzF6Y0ZLTm1TY1liNy1xTTM4SnlVeTQ?oc=5",
+    "source": "news.yahoo.co.jp",
+    "instrument": "ゴールド",
+    "published": "2026-08-05T12:13:18+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
   },
   {
     "title": "東京外国為替市場概況・12時 ドル円、上値が重い(トレーダーズ・ウェブ)",
@@ -160,12 +304,28 @@
     "first_seen": "2026-08-05T14:35:35.624345+09:00"
   },
   {
+    "title": "続々重版決定で累計３万部突破！ ゴールドマン・サックス出身の小原正徳の著書『世界の超富裕層がしている「最初の1億円」の作り方』が話題沸騰",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GazZvNGtyb3IyaGphb2hTT0RqTjI4YkluWVFGckVvNzdNRjJLZG5WbVVCaGRTVFJuTmt6MDg4S1JCZk5JRDBSSHNBYTI0amtjYzU3cHpLaGNsMkdnRUptY0RYUUQ1eVptOXdN?oc=5",
+    "source": "jiji.com",
+    "instrument": "ゴールド",
+    "published": "2026-08-05T11:45:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
+  },
+  {
     "title": "【FX】8/5 ドル円反発続く？日米協調介入警戒で上値は重い ｜為替市場ニュースの振り返り、今日の見通し",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EbmxNaThRaDNMM09jRVkyeXhwYWVjU0VHVllNOUJWZTJLYTF3RGxxR0NadmJwYnpOYXpfb1dheElHWUlleHNLbW1BNU1RNnUxaE02Zk9rNFBzdTluaXNaNzR2SQ?oc=5",
     "source": "gaitame.com",
     "instrument": "ドル円",
     "published": "2026-08-05T11:30:00+09:00",
     "first_seen": "2026-08-05T14:35:35.624345+09:00"
+  },
+  {
+    "title": "Springer Nature社、中国のゴールドオープンアクセスに関するホワイトペーパー“Open for impact: China’s gold open access boosting global innovation and supporting the Global South”を公開",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QTDRIbE51SUhWTV95M2UtS2tUZUM2aU1IajBzcDAwdmZQZDBYamFFdFZseDYzV3ptRWF2dTVpdmFXbTBYYnoteWdJVUg?oc=5",
+    "source": "カレントアウェアネス・ポータル",
+    "instrument": "ゴールド",
+    "published": "2026-08-05T11:28:44+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
   },
   {
     "title": "＜アジア甲子園＞Flame Asiaがゴールドパートナーとして契約を更新",
@@ -326,6 +486,14 @@
     "instrument": "ドル円",
     "published": "2026-08-05T09:06:00+09:00",
     "first_seen": "2026-08-05T10:28:09.479489+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円はもみ合い推移(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXhyTmphbzBOV3hpQkM0M0tBOHYyOC1TNVlwQ0NFVWQ5VEVzTEx4cFlYV2lsOEtEejR2RDlXYUVWYzEwa0YwN3FpaE9yWU9IYmhpOG9vdF9ZTE9Fak5OX3FrcGlaXzlQZkgyVlRsOXRIeWF1VC1wYWVhLTBFeTRncEJIQkpQMWc?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-05T09:06:00+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
   },
   {
     "title": "8月5日の仮想通貨｜スペースXの2Q決算、収益92％増もBTC価値減少",
@@ -550,6 +718,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-05T00:28:31+09:00",
     "first_seen": "2026-08-05T01:45:40.808730+09:00"
+  },
+  {
+    "title": "ビットコイン(BTC)相場分析予想｜戻りの燃料は昨夜の米国時間に集中して燃え尽きた",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Na2FDRUlTM3lRcVJfbXRMTVd1bXBGSTZxS3J4UWlVRTZpdG5GRUhwWVJSLWVkb19pOWlUNU9LcFA1UU9nWWlLV0RTclBYRXhiR01GX25zdS1GR3owb09FUGNOb29xYkF3WjhQekpTYXN0NEVkbVgxTFVWdw?oc=5",
+    "source": "abc株式会社",
+    "instrument": "BTC",
+    "published": "2026-08-05T00:25:11+09:00",
+    "first_seen": "2026-08-05T17:14:30.468096+09:00"
   },
   {
     "title": "ダウンロード版『モンスターハンターワイルズ』が、8月4日（火）より新価格版で再登場。ゲーム本編と各種DLCパックをセットにした”ゴールドエディション”も新発売！",
