@@ -1,5 +1,61 @@
 [
   {
+    "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObktwSWlTdUwyZVRza2NWUVdHbVJDejdOTy1kb2hRaVVvVzh1RXc3Z0xaaElWQTJFbWgwTmtGVXU2RXVGV1Blc3h1ZkFmVEJjT3E3cGNVMlc0SHBLUjc5ejVybmRkbGFMLXZ5N1VJTVVQQ0w5Njl5aElLdmRlSi1xUUlEazZDLTA?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-08T00:11:41+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
+    "title": "ドル円、下値堅い 157.65円付近まで下げ渋る｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nTHZhNmJKV3dROG5MMEtDS1JZSlAzMms1RmF1SmNzTHR3OEhHVjlrQl9PVktLM1lCSlU1QVNhWUZ3VWJJVlRjamFDdEdTekd3Vnc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-07T22:52:00+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
+    "title": "ドル円、米雇用統計を受けて急落 ＮＦＰが予想外の減少 ９月の米利上げ期待後退＝ＮＹ為替序盤 -",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IVmZqQUxIMUh1SkIxYU1OTlU5OElLeFd3N3lFYXF2cEZaMENGWHVRRmk1WnhLckVSOFZSSWkwNmdJRFpIeXRQYg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-07T22:15:40+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
+    "title": "欧州外国為替市場概況・22時 ドル円、急落｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uaGNBZ0hON0xTZVlhYjdJbG1pSVEyVm56TUVCT2dlSnY0SlFpaUtpUnBtdXIyMWkwdTFYeC1KT1pta1V6QW1QUUVpWFh1ZmtENnc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-07T22:09:00+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
+    "title": "ドル円のピボットは１５７．４６円付近＝ＮＹ為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pQ1VOM25vcWNodmVSMWxzenJJZlRWRUNNWU9VRHM3MWFEZTh3eVdsUWdfRm1vZ3oxVkdDdmRlNFE0Nk0zdU1tUw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-07T22:00:39+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
+    "title": "ドル円急落、日米金利差縮小を意識した面も＝ＮＹ為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YQ19JS081WGUwRExxMnVnVEhZVXVfbG0xT2twZF9DZThTU1FQeFJqWlVXVUpSUExrZUZfNC1DOVo4Zkcwd1VTRw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-07T21:47:40+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
+    "title": "ドル急落、ドル円一時１５６円台 米雇用統計は予想外の雇用減＝ロンドン為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pTHBlbHlCRllkNFhHVW9BVHY5ZHlBV2tsTmVqZnRQVkhDSGg0ZzNJMGNCS2V6QXJuZ1B5em56RWtCOFE2MTkxUQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-07T21:41:39+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
     "title": "金価格の変動、焦点はFRBに集中",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnh6cHE1SzZ5RUZPMU1wcWN2QWJRcXpYb0E5VVZEck9KMmo5REtfSDV6VGg3UWtoYkRGR0lyLS1ucWM1UFhUMTVSckJ4V0JIOGw3OC12VTVldVV1VVRreGZkOFc0QldzdGZRZzVUVnJVSVBRV2JYcTZOckE3Zm51NC1feHVqVF9NWW5mWVNJSXRtdw?oc=5",
     "source": "Laodong.vn",
@@ -14,6 +70,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-07T20:25:00+09:00",
     "first_seen": "2026-08-07T21:37:56.638782+09:00"
+  },
+  {
+    "title": "カシオ“G-SHOCK”新作【“ライトイエローゴールド×ブラウン”で3機種】黄金の地平線をテーマにした“MASTER OF G”ニューカラーシリーズ",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xSVhBWjBGNlJEZFZqUnNJd2RnMEhnTk9aUmswRjZ1WVRIQUlqQ090SE9kNnlBUlN4SkJXdzc0VkhYRExYY2hmVktRZEhLbjhlUG41TG9kWDJXRFZZVkhIT0w4TURJT3hSeGVWb0hFekdaR1RiU1l6enc4XzViMjA?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-08-07T20:20:09+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
   },
   {
     "title": "【動画】馬ふんの力で花開け 西唐津保育園でマリーゴールドの種まき JRと連携、10月のイベントを彩る",
@@ -38,6 +102,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-07T20:10:39+09:00",
     "first_seen": "2026-08-07T21:37:56.638782+09:00"
+  },
+  {
+    "title": "カシオ“G-SHOCK”新作【“ライトイエローゴールド×ブラウン”で3機種】黄金の地平線をテーマにした“MASTER OF G”ニューカラーシリーズ",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2b2g0ZWY4alZaeHNVZzNhQndYaGt5cEN1ckpXYUM0endDbHRoWnZ4Z2pIejdJUG9tdkJTMkh1UXlHT05GamVmUjM2NEpoN0JmTDFNY0l2WTdLZnlzVFE?oc=5",
+    "source": "Watch LIFE NEWS",
+    "instrument": "ゴールド",
+    "published": "2026-08-07T20:10:39+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
   },
   {
     "title": "米雇用統計を控えて小動き、ドル円１５８円台前半＝ロンドン為替概況",
@@ -136,6 +208,14 @@
     "first_seen": "2026-08-07T18:49:36.921555+09:00"
   },
   {
+    "title": "大口投資家とETFで2兆ウォン（約2,200億円）の買い集めも、ビットコインは6.5万ドルの壁突破できず",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNlI4ZXZObV93MERKR3lZZ244R0hFT2VCQll3b1JNQUhyMktROXdXS3BZVWEwUjNWQkxsV01VampfcERSU0hNNlFidDhXZndCUTRsSVpjbTFoN2oxdmVaNDR6VEc0VTAzWGduOTFpMDZGQm44?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-07T18:00:45+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
     "title": "フラー、DroidKaigi 2026にゴールドスポンサー協賛。ブース出展も決定",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jOWt0ekRBSE1DUzhlTEhnRUNoQlJaMHhjUzc3Q2xocVRMV0UyZkVWZFBCeDZKMm5WXzM3LWljQ21VcmdGbXg0OEJ0MDJVZjZ1MnZyYndkOGF0WWdvOVA1aGVsRTM1U3RwZWc?oc=5",
     "source": "PR TIMES",
@@ -150,6 +230,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-07T17:51:00+09:00",
     "first_seen": "2026-08-07T18:49:36.921555+09:00"
+  },
+  {
+    "title": "【C (やや傷や汚れあり)】シャネル CHANEL マトラッセ CHANEL ロゴ カバン フラップ シングルチェーン ショルダーバッグ スエード ベージュ ベージュ×ゴールド金具 -の中古ハイブランド品通販｜スニダン",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BbkVIS0l1NUV0b2hqTHIzU2d4NG5wTmlabDJzbUVTN2g2bTgtRHZGYkJIMG5wVFNYbFYtREFNVWJnbnRKdTlyUVRVNnFORkpNVm1wRkVzWVNoeEQySU5hVGh4NA?oc=5",
+    "source": "SNKRDUNK",
+    "instrument": "ゴールド",
+    "published": "2026-08-07T17:43:32+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
   },
   {
     "title": "日本M&Aセンター、第7回「アトツギ甲子園」（中小企業庁主催）にゴールドスポンサーとして協賛",
@@ -176,6 +264,14 @@
     "first_seen": "2026-08-07T18:49:36.921555+09:00"
   },
   {
+    "title": "エルメス HERMES スカーフ カレ90 PASSIFLORES シルク ブラック/ゴールド レディース【中古】 e62125a",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jZXE0M2NUZGhhckxRX3hmUm5NQTRHbUo5VGJTYUktbDZXaXlwT3EzaWVKcjZlVlNSa2lWTUNfREM3VGpFbGhSUE96aEJhRnB1Nl9FTHhWak9OTy1YYkhXajJpdw?oc=5",
+    "source": "SNKRDUNK",
+    "instrument": "ゴールド",
+    "published": "2026-08-07T17:23:09+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
     "title": "エルメス HERMES スカーフリング メタル ゴールド レディース【中古】 e62134a",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lTVk5ZjU0Q0FmN1F1R0szYVZkQnU4cnR3NFNoX2RqaUczaFhzRmk1TmJiWHl3TWRqdnNSVDhtei13ZzFtTnk2QVZWOHVaY1RQSnY3V3E4RGM2UTA1SmhFT1lrQQ?oc=5",
     "source": "SNKRDUNK",
@@ -198,6 +294,30 @@
     "instrument": "ゴールド",
     "published": "2026-08-07T17:22:58+09:00",
     "first_seen": "2026-08-07T18:49:36.921555+09:00"
+  },
+  {
+    "title": "シャネル CHANEL イヤリング ココマーク メタル ゴールド レディース【中古】 e62132i",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmQnRsaUFkRWphWDJ4aUZidHVkdGJ0VGUwX25ybzFFNldmcl9pd0dMOUoyNzdNR2M0dHoyYVVpMmNvdXZSNHV1a21tUVhBV3JsT2h6Z01DeHpvMUEzc3dxZGVIQQ?oc=5",
+    "source": "SNKRDUNK",
+    "instrument": "ゴールド",
+    "published": "2026-08-07T17:22:56+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
+    "title": "エルメス HERMES バングル ブレスレット メタル/レザー ゴールド/ブラック レディース【中古】 e62136b",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SNWlLTUYxbFRzVDJFU2c3S2pzamg3QnJxZ1JoZ05Td0xlYkFFSG0xTmRHTFVpMldab3oyS1pWcmtybEVwM3RzWm9tVGRSNTRMQXI0ZzFJWHpyQl9NMHVkd1FKYw?oc=5",
+    "source": "SNKRDUNK",
+    "instrument": "ゴールド",
+    "published": "2026-08-07T17:22:48+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
+  },
+  {
+    "title": "ドルチェアンドガッバーナ DOLCE&GABBANA サングラス プラスチック パープル/ゴールド レディース【中古】 e62127a",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFM3NKYjFBSFBmbTljTVZUWEhOSkNBOFA5OWZqXzAtTS1PYWIxa2FnRkRCaVRUNjFLcDN3NjZnR2w1S3hRbFJHcEdNQUM5UEUxZXR4V2FKU2J5MFhWamhGTGg4TQ?oc=5",
+    "source": "SNKRDUNK",
+    "instrument": "ゴールド",
+    "published": "2026-08-07T17:22:48+09:00",
+    "first_seen": "2026-08-08T00:42:51.730602+09:00"
   },
   {
     "title": "【金相場見通し】ゴールド4,000ドルが底値？年内5,000ドルまで上昇余地あり！インフレ・円安の影響と中央銀行が金を買い続ける理由｜池水雄一",
