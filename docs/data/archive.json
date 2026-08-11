@@ -1,5 +1,53 @@
 [
   {
+    "title": "ニューヨーク外国為替市場概況・11日 ドル円、ほぼ横ばい(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjliRkJPbi1WdldmYkpaek1MelFwcjBHYzgyY2VveFZTeVA5bFVlWWUySEo3bmVVSWJ4NWRtVngySGxQR3ROUzdBVG5WZExuMzViYkgxc3IwTkNBTHZoUUNHRTgwVkpNN201UHBiMUxUU3NaMUQ4c2djZ0FFY2xMR09GOTgyOGc?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-12T06:07:13+09:00",
+    "first_seen": "2026-08-12T06:34:29.522336+09:00"
+  },
+  {
+    "title": "ビットコインは再び「デジタルゴールド」へ──金との相関が示す市場構造の変化【エックスウィン】（NADA NEWS）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZcndEbk9RNHlubzZ5Q1hSbk8wWmU1emJGNnZVT0tidi14dnZvQnNoczhkaUFNUDExNVRPeTRkTnIwckFEdzJvSVVmYS00VGRwel9FMVh5TW42angxTzVTUVg4MjJIbzdzOHBMb25ZTm0yNUdwbjBXdmpLY0VMUjg?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-08-12T06:03:24+09:00",
+    "first_seen": "2026-08-12T06:34:29.522336+09:00"
+  },
+  {
+    "title": "AIが本社ホワイトカラーに照準、ゴールドマン・サックスが行った大幅人員削減の示唆と「新人業務消滅」の現実味",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTb0JPX0pLU1NSQ2JsYVJSVWQwZzZKRkZNb25RV0hlVWdfc1hlczI5NWtabVVzM3ZiaHg2eUNmUEQxNGpqWlNZZzMwaUN0dDh0WVYxLV93?oc=5",
+    "source": "JBpress",
+    "instrument": "ゴールド",
+    "published": "2026-08-12T06:00:00+09:00",
+    "first_seen": "2026-08-12T06:34:29.522336+09:00"
+  },
+  {
+    "title": "ドル円は１５９円台前半で小動き 明日の米ＣＰＩに注目＝ＮＹ為替概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05NWxQa2JCb19nTmV2WE5yV3ZMaEJnUHBLVFZPS3JOUjlGdkZOdkNPT2YyY0ZIeG8xOFg1ZDFpb0dqa0pUN2ZKTw?oc=5",
+    "source": "s.minkabu.jp",
+    "instrument": "ドル円",
+    "published": "2026-08-12T05:50:00+09:00",
+    "first_seen": "2026-08-12T06:34:29.522336+09:00"
+  },
+  {
+    "title": "トウェンティワン・キャピタル株が保有ビットコイン以下の価値となる理由",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vbnNTdWhLbWZVTG56VzJGekRxMzAzeVZHZ3QtMk1ERXI1eHZuMUVOcXYwc2ZrZGhqNFhpbmVRemNKaUV5QUZYNXpocjVXUF9vbWdIbGpPX192ajh5dVVLOGZ4cGxIekxUSWxMT25nTXV6MVU?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-08-12T04:33:16+09:00",
+    "first_seen": "2026-08-12T06:34:29.522336+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況･4時 ドル円、小動き続く(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHdTc1RJTF92VG13S1VqNzZ1SkZKQkI4TFpKT1BLWVJPb084VU9PX21iWmk1V2c1T3hCa1dwN2ZqVnFqRURlclBGTWRVaTExNk1CRTE5UzhfODU1WVB0UDNXNnlGc3FtN012VzEzZ3FEWXk5VlF1cXdmazZqWWpYNzkzRUNlNm8?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-12T04:07:47+09:00",
+    "first_seen": "2026-08-12T06:34:29.522336+09:00"
+  },
+  {
     "title": "ビットコインキャリートレード利回り7.89％で米国債上回る、ウォール街は資金移動か",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hRlVjOHlOWWN3QWpqaU5rZGEySDdabjA4QWtoMlQ2OXFxc1lYX3R0NUlZWmJyaENBNTBfTTlteWpScEZicmVaRjF4Sk5vS3pqYkh6czBDdVVrYWtGbTRKcUI3Y21zeHRSUW9oUm8xTQ?oc=5",
     "source": "BeInCrypto",
@@ -54,6 +102,14 @@
     "instrument": "BTC",
     "published": "2026-08-11T23:55:00+09:00",
     "first_seen": "2026-08-12T00:48:31.116742+09:00"
+  },
+  {
+    "title": "ILLIT、Japan 2nd Single ‘I Got Your Back’が日本レコード協会「ゴールド」認定獲得！ CDリリースからわずか3日間での快挙",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HZjFwTFpMMlVOYldkcW1mb1JDeG9WdERzcHR3NWlEeUF1X1YwUllKczJMSzNERWs4RzFhZmcteHdBd1NYaXZ6QlhINzkydllXdUJ4LWhfMDM?oc=5",
+    "source": "K-PLAZA",
+    "instrument": "ゴールド",
+    "published": "2026-08-11T23:47:48+09:00",
+    "first_seen": "2026-08-12T06:34:29.522336+09:00"
   },
   {
     "title": "ドル円、１６０円を視野に入れる展開 明日は米ＣＰＩ＝ＮＹ為替序盤",
@@ -398,6 +454,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-11T16:48:46+09:00",
     "first_seen": "2026-08-11T18:49:22.658045+09:00"
+  },
+  {
+    "title": "ビットコイン「逆キムチプレミアム」35日連続、年間ベースで過去最長に",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WWVdRY0ttc0laNGMyMWxvRE5RbFM2S3NxM21MN2lXRk1uUVAzaW1aUHdranF2S2xnVDJaSUV3YV9qM0xxb1FZNjhGSXRYdzhCWnB3ZHZEeG1YR01nZ0ZUMFdsZjdYTkNiZk1mc3Q4SG4wM3Nt?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-11T16:36:00+09:00",
+    "first_seen": "2026-08-12T06:34:29.522336+09:00"
   },
   {
     "title": "本日（8月11日午後）の金価格：急騰",
