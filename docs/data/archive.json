@@ -1,5 +1,133 @@
 [
   {
+    "title": "Strategy（MSTR）およびMetaplanet（3350）は、BTC価格ではなく数学に賭けている：Crypto Daily",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRU1TRy1xMUZGV056WmljTEVlTG5SY2EweTVjMFBjS3gtaHZvSElZVDA0YnVfRFBZVTFQTXVvNk5lRkl3X2lJVTNvaElnU1JtRVhMWk5JRjZBOVlYOVpwS0FoOUk2WDNfMUY4YzRjWnY3ZFRabldCUVN1VFR0YVJidkxyZWRLVUxSOFRVX3FDUXFncms4WVJOUFRtMWxkcFdLM0toNVFXNC1DRU9vZFVVb084RUhSWHZ3dkFpc1JGM0pFVFM0VWNYYQ?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-08-17T20:36:43+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "ドル・円は底堅い、米経済指標を見極め｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaazZaUGk3UWZNZS1xNHR4MFhEdl91dUl3c2ZEdXg5aEFCRFRHQzNfMDhISXBYcllxTzlLNHBiZU9ia1lmR01kTE5FSHhkdTNQdFE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-17T20:23:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "欧州為替：ドル・円は底堅い、米経済指標を見極め 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wYUFndkFoeVJ0MzhPbUxoYVZ2Mnc4blVQaWtUeldKZFR2UWV1bGRHZkF3d1ZZb2FXZVJhbDQ4WkJHaktGWGU3SGFmWWlxd2dQajdINlVoX0pVQkttMHdWMWJRNGwyNmc?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-08-17T20:15:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "欧州為替：ドル・円は底堅い、米経済指標を見極め(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXJOZzhheDhIVmkyUG45c2JDUzI4dlk4S0hRNzB1d2ljSzZpaW1mMjRpSm1UNDl2YXFjUm8wLUlxWWJmTUVqTzdQLVFGa1lEb0V0LXNsTkpCSXppUVBmYU9qdDZxWUZQSWJvU2hzUmpLSTBwSE85SmRxbUt1NklTdUxYTWh3S2s?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-17T20:12:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "8月17日午後、国内の金価格が予想外に下落した。",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iREpkRVRTUXRWMW1Za1ZMTGlYdkZ4N3RuX1FFcWdUMWQyRlUxaWJuWEQ2M0pHa2R0MFQwRDVxYWt4RW83LTR1akdtbWEwQXFleGIzLXdUTzh5NVhvN3lUQmNYeU9FaWRRMVJWSE1sdFFkdTdEUVhQRw?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T20:08:52+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "欧州外国為替市場概況・20時 ドル円、下げ一服(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm9hcHV0ZFlqdlNObFdNWU5DZm95VDduNDJrTW5NeEdFRXppR3BRNEwtYkljWXltUUtYYVhCc0U5bXkwRlZXdlkxUmcyajNjdm5qSTJ4WVM4OGZEbnEzU2pXR01wOG1fOUI2ZVEtNTNqYm9tTDVTNkRCcU9SOFFzUkZ3NnRuY00?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-17T20:07:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "2026年8月17日午後の金価格：SJC金価格、9999金リング価格、および月曜日の世界金価格。",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTS12dXhud0lSVlRnSnhVOVVXQlFlTlNQWmtuQkpEcE9KWWpqckNOVVdLNjJXdlg5azF0R2lMYTh4WFl4cmRzYjZLUUFLdE5QX18zN1IzY2h2STFVV1lvYVdkSzNScjI4LVRKRjZpVG1tcUJwUldqSWJYSWJjUGJseEgzWU1sRG9GNWtTMzNWOFBFWVRZV0ZMRlRmSTJVU3QxaldZX01NQVd6OE0?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T19:50:41+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "NY為替見通し＝ドル円、中東情勢を睨みながら米8月NY連銀製造業景気指数に注目か(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEVMbmREYVFGakNWdUxRSjcxdFR3UlB2UW1nMjdVNGVSTzVCZ2tKbFBxZm5ENWQ1Y2h0TGJsd3FMd1hDUE1aSldCZmotX212TEVMZGZXSmxOckhiMi14SU1sOUgtUVZxRzItcEl0OUt4TkdFcmx6ZXd3aWxUSlJQUHE4ODBpOGM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-17T19:37:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "欧州為替：ドル・円は小じっかり、ユーロ・ドルはじり安",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGNMelphQWhlVjNzZmxWVnNzNWhXekRUX2l2TVcza0FRaktnUVVzOWFNN2lnMWF2Q2lTSUsyazE3WUJUdTBIeFZzcExyMWM2SmNwSUFidjczUnFqZVNJQ1RfM0NYZXRJUFhPYTQ0SnJzLVdtTmM3U0x4UVpST2NkWndKNFVOUnPSAYwBQVVfeXFMTTFxaTJvSDNpQW5jc1JNQTA0Y09lNllMdU96VGdycHkxUVlWb0s1eVlfMUNOVUhTbHJ4ZjZ6Tng2N0VFaGJOb2QzUnBwd042T0VmQkxFUEtPa2E5MWQ3ZGdic0Z4bWVtR0pBa2xrVEZROURHN3Nvc2w3LW95OVR5NUxmUFQza3JIVWhydW8?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-08-17T19:24:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "欧州為替：ドル・円は小じっかり、ユーロ・ドルはじり安 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqSEtoLTZ2WVFLa3NFVm56bWxGMUpKbGkzSEJpY1lOdms5QWNoQnpGTkl2Z3Z1WlBycHhCQ2RHWW4xQmQ1SDA1WG5RcFUxamt2ZTEwNWhUT2UzS1lic2lfV1dERDltc0k?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-08-17T19:24:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "中央銀行が金購入を増やしていることから、金価格が再び上昇している。",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzYzNFY2VFNWNVVRSXV0c2VxeHlzOFppY29wUkpVbGlxSHlVZ0JDSmoyUnZ6Zzl0R3J1TkpTTGpZOVJhNWVYVHAwYi1KOFJidlRET0NDYnJrYnhacTM3V0xSTDFRemtETGJQY0JGeWdVUndLVXhQdVh6SXB5US1ncE9INA?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T19:11:20+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "Coldcardの脆弱性悪用以降、BTCの取引所残高増加額が20億ドル超──SafePal・Trezorの情報流出でセキュリティリスク高まる【価格分析】(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTMtdl9yYVBoUEt5eW1nZ1c1VURLQjBrc0htXzFUMElDb3ljNm82T21HWVUtNm40a1JUZ3NNVWtLeTByS3NrUU9NeVdDWl9EZC0xMU4wVkdZNnB1S1dkc1pKRkhCMWRIdDE0NjBHWGVBWm9aN0dEYnRUZVNaWV9mb3BGWXZNNU0?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-17T19:10:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "ビットコイン短期保有者、98日連続で損失圏——大規模な投げ売りには至らず",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YTmh0b1Bhc2YyaWpCMW9hMC13TVI0QXduUUpuZkMwNlE3bkRtbkFVNjZoaTBTQ25IRXhKenl5NEpTOUZRUTZBMlpsX0VqSUpsd2h6WW12UVMzeVJtWHVSWmdPYkUyb25jYXhUSURUcUF5MUFt?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-17T19:05:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "AIが企業収益を押し上げる時期はいつか？ゴールドマン・サックスが見解を示す 執筆",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGYXpGZThqT2FDN0I1alFad05XWWVsRklwSnhCTy1IdGRnYnBpOEFMU2lMVlZicXVQMkJ2U1hNaWZicVV5TDFod2hDTS1ObkhQb1F3ZEZPVHpDY0V4dEk0TkZoZEhxRFU4NzYwR2gwWXY?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T19:03:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "ドル・円は小高い、ドルに買戻し｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wOUcybU5HSGxqUVE0eXlPLTk3VDh0V0hhQllkankwZkhrNElWTjBSRkxSeEtTaHRYQjZ4V0t0RHFJek8xOTZfbmNDcnBRdE96UVE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-08-17T18:30:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "本日、2026年8月17日の金価格：SJC金は20万ベトナムドン上昇し、1億4120万～1億4420万ベトナムドンに達しました。",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWR5Uk41anB0OHFLMVllTmhXQnQ5bFU0cjRBSElucDlKWmJvOHBueU9qbUhzQ1lBTzZtQ0tSOERSR1R6a2w3YlNWSTgzQVdRUVkwN3MwTVV3Tk5PSXpXWlFQQnZLRDhfWFZUdXVuRTdXWHgtUEVpdFVyRWhrTGlSNFBidkRLWEQ4bF9FRTNhMzI3b2xHdktJa0huRU83Zw?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T18:21:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
     "title": "欧州為替：ドル・円は小高い、ドルに買戻し(フィスコ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHJwajVzbFMzMGQ5TUphODdXZ01QaEFKTHVFZzNEaGVrZWx6VVBMQ1dPT1lYTEVWekx6T0lQcFlXX3pCWkxpYkE1YTJQdHd1eV9XZi1CODZIcjQ5WFlZbWgzYnRBbEdJME55ODAtM1lJelFST2VPUVNUbDVZOEZhV3dsUGRVZTg?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -8,12 +136,36 @@
     "first_seen": "2026-08-17T18:28:57.085311+09:00"
   },
   {
+    "title": "欧州為替：ドル・円は小高い、ドルに買戻し 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zanFrM1ZrRHAydkltUDNZN1I5SHVXanhxUzRGajZTUFVJaGNfRDVIRThqNDdHcENyOFBFYU1FOHdvT2xNbVlKcnRMZFpOSVB3emMxUlhsTU0wTUstYkxiUnZ6M2lYdmc?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-08-17T18:20:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "欧州為替：ドル・円は小高い、ドルに買戻し",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1lLOUVaVlJ6VHZJM1ZDVlNjc2VDc2lmMV9FZ0NpWGVFODFPUlZtLW9vdUJEcFgtVzJtbEJpcHAwaUlnQW82U2lfTGR5VWUweE1MLWc2VGlQM1ZWMW05dHZ6NXJsSWNaMUo4V29VOEprREFiaGstNE16RXB4OTZUaXF2US1fRDTSAYwBQVVfeXFMTk1fMjIzc0dBdF9LXy1sZHQtYk1rdWhHSnAxS0xZQ3l1UEUxLTQ3ZXpTRlAxS0NhZUpLaDlfQmROaThCcEJkLVdpSU1sZGNkeEJKMlV5aFJlRC11UzRBd044bGlkWkdUa20wWHZKaUVUbWJUR25ORmc2M1ZlcU5pMEZaTTVKRUJDRW9CMDI?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-08-17T18:20:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
     "title": "東京ディズニーリゾートでハロウィーン マリーゴールド咲くリメンバー・ミーの世界も",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nVWJUNGc1RFpVY0U2Wk40V3huY1FMYUs5TWZrSS1YZnFoVjdpMmNhUDdXcy1jZW9GZnU0c1B1eXpkMDh4ZGxicy0xeGNFaC1BcXc?oc=5",
     "source": "いこーよニュース",
     "instrument": "ゴールド",
     "published": "2026-08-17T18:11:45+09:00",
     "first_seen": "2026-08-17T18:28:57.085311+09:00"
+  },
+  {
+    "title": "【為替相場】ドル円、協調介入でも揺るがぬ底堅さの背景とは？米国の本音と日本の利上げシナリオ",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBodzBac19ub1p1c1hvSGo3RUFZWnVSa3FPQUlVN3NkZlpwNEY2cEdQMjlfeGUxLVVRVDJ3eUpwbmY2anR2Tno3QVljaXVqRFF3eE5NQUxJR2tmNkpNX29Z?oc=5",
+    "source": "千葉テレビ放送",
+    "instrument": "ドル円",
+    "published": "2026-08-17T18:11:21+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
   },
   {
     "title": "AI動画スタートアップHiggsfieldの評価額が4倍に急騰 ゴールドマン・サックスとインテルが4億ドルを共同出資",
@@ -70,6 +222,14 @@
     "instrument": "ドル円",
     "published": "2026-08-17T17:22:00+09:00",
     "first_seen": "2026-08-17T18:28:57.085311+09:00"
+  },
+  {
+    "title": "ビットコインに朗報：ゴールドマン・サックス、9月のFRB利上げは「非常に可能性が低い」と発表",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0N6UGtRVVhXTHpJZU01VW1FazNvUVRicGFvQ05wLWxQYVhqeTJ3OFNaUmpuRkVKa1ljYkRHeFdYVnNLTjJ2WS1RU3JHdlF4dEh5XzlDNVFfeU13U1R3TlZudTZTZHRJZExJc2k2d21uYWJrRlFKeWY2aTdrRnVianptWEJxdnN3ZXlETVd5TmpWbGpwQnNoUDUxSkE5U1BIbTZmNmNyX2J2Qk5rZVhOMlF0dE1kcjh3ZG40?oc=5",
+    "source": "CoinDesk",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T17:16:11+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
   },
   {
     "title": "アイズ、「YMAA」ゴールド団体認証を取得 薬機法・医療広告ガイドラインを遵守した広告運用体制を強化",
@@ -136,6 +296,14 @@
     "first_seen": "2026-08-17T18:28:57.085311+09:00"
   },
   {
+    "title": "金（ゴールド）は2ヶ月ぶり高値も4,500ドル手前で失速、今週（8月17日週）はFOMC議事要旨と米金利が焦点",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CQXhkampkWU5FekVhMWNXRUFNdlYtcXRPX1U0dHZLdC01V0FRM3M2cU9sV0k5MTNUendfblVMMUdXdXVZeVR5ZkpMelhlRlpMakkzRNIBV0FVX3lxTE1QWXB2RnBadE5zYVpZTlNqWVYzcjNzclVzVEZ5bkFQYU1sSkNROEJ0bFhXdlM3MHlXbVA2bS1ZUXpUYnpUcENhUlBhVnVZWmtlQlNQdkE5NA?oc=5",
+    "source": "マネクリ",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T16:15:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
     "title": "本日（8月17日午後）の金価格：上昇",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11ZjF3emJUWVB1SWRIQm1OSmpnR21jMTdrcEVkWGtOMEh4VWtDLWx2XzE4RTBQZUVsUjZ2Nm51Y2IyUF9WSXNtSlcta3VHTDM3Nm1qcHc3RXZ5LUVfQkktVGNac1dkVy1mVUNXZU5LNA?oc=5",
     "source": "Vietnam.vn",
@@ -200,12 +368,28 @@
     "first_seen": "2026-08-17T18:28:57.085311+09:00"
   },
   {
+    "title": "アイズ、「YMAA」ゴールド団体認証を取得 薬機法・医療広告ガイドラインを遵守した広告運用体制を強化",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMHBDbnBRZWkzNXotMFR1dWh0aGh1dTUwSmFQeWxzVUdwQXhyZ3R1ZmY1ZkVxN2xaTS16TFY3TnNRZ2xoNlNUVUV0QTRkQnBKUmJpUkFNTDg3YmlKSHlndEg2ZHJyaXFfVFE?oc=5",
+    "source": "PR TIMES",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T15:30:02+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
     "title": "アイズ[5242]：アイズ、「YMAA」ゴールド団体認証を取得 薬機法・医療広告ガイドラインを遵守した広告運用体制を強化 2026年8月17日(適時開示) ：日経会社情報DIGITAL",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlVUREJVTmdpd2FHanRCdk1VT3dGWmFJLTRTSG11WEc0Ml9CUHNVWXhhbFk5TkxONm5tX3d3bVM4b2hyVVQ2MFlFTG5TRUJBT0xCeUFNZHF6VzRCQ3lWMXNkZzBpUTk0MTZROEdOSDFYQUd6aFFsalFOLUI5c1RoNDltejl4Y3ZYR3RXNEszSmtFeEhyV0JXYWhzeWYtT0V2Skd5Xzk0eDdRclY3bHBOV2h6MVFzYm5SWDFTVmdmUFdRTHMwb2dXVUNEVlI?oc=5",
     "source": "日本経済新聞",
     "instrument": "ゴールド",
     "published": "2026-08-17T15:30:00+09:00",
     "first_seen": "2026-08-17T18:28:57.085311+09:00"
+  },
+  {
+    "title": "スターラックス「AIRSORAYAMA」ゴールド、8月20日成田線で初就航！ 同日シルバーも飛来予定",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBveVVrS0JST001SjFhdGtfSTVmNUNLVVo1b1pka0ZxTFpTZ05KaFZlNXRUY25rbkNvYkhybTJ3U1BCWGFQZnpQQ1RwbFRyb2M?oc=5",
+    "source": "FlyTeam",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T15:29:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
   },
   {
     "title": "東京為替：ドル・円は変わらず、豪ドルは堅調",
@@ -238,6 +422,14 @@
     "instrument": "ドル円",
     "published": "2026-08-17T14:47:00+09:00",
     "first_seen": "2026-08-17T15:31:04.431911+09:00"
+  },
+  {
+    "title": "ゴールドマン・サックス「市場のFRB利上げ観測は依然過大…9月利上げの可能性は極めて低い」",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ac0RFOUtFZkowUTFGQzZEckdDUHFtVjlCNUdvUXppb0p5bmJpOU44TkNFejVKa3J4QU1MdjY4a0lURUdLVGFKb1k1N1VWcWN6eWJackVHYXhPWXZOTFlHZjB3SEhJbmk2YmxlX0tvdnVuNHkx?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T14:35:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
   },
   {
     "title": "スターラックス航空、「AIRSORAYAMA」ゴールド機の就航スケジュール発表 初便は8月20日の成田行きJX800便",
@@ -352,12 +544,28 @@
     "first_seen": "2026-08-17T15:31:04.431911+09:00"
   },
   {
+    "title": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘（Bloomberg）",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEJkVzB3UzZ5ZnpNNWVqd3BMMUs2ZzB3ZzJFZHNjU1dWTG9YR05wOXJVQmxoNkVwckFoYXRUeGxJaF83T3otZlE2MmpkRzRuekhuaWxuNmZ3eDh0aGxnTlI5N21HeE1oem5nSWlXWG96TTM0LUhmUWJIVGo1Z0ZFQ0x5dzNXdDNa?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T13:49:29+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
     "title": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NbXNfSUllUnpGWHZ5VjVISC1reE1sbDRwMEthXy1Wc3hfbnZPby1CdmlIVFJ2eDdCQU9ib2JZbEZCWWVvWHRqaGppTFFtRURHTUhwTFVNRDVuaFFjMVJhdmRXRElaNkU?oc=5",
     "source": "TBS NEWS DIG",
     "instrument": "ゴールド",
     "published": "2026-08-17T13:49:00+09:00",
     "first_seen": "2026-08-17T15:31:04.431911+09:00"
+  },
+  {
+    "title": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kcVZMaVZyaF9qMXB6OHc4bE1UVU4zZG9TcnB6RDZkRlhaVXBJal9LaVFLTy01dENzdFJ3RGZxZVNxNjdZLTN4ekZNcG5IQXBpdW5DYTZWdWtid1Z2S2V2SnpON3ZfRzdoY2lNUWlSSFpaMFBVQ0kw?oc=5",
+    "source": "Bloomberg.com",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T13:49:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
   },
   {
     "title": "東京為替：ドル・円は小動き、レンジ相場",
@@ -400,6 +608,22 @@
     "first_seen": "2026-08-17T15:31:04.431911+09:00"
   },
   {
+    "title": "【為替】米ドル円、160円の大台が節目となるか当局の姿勢を見極める週に",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrSzktaEF6Wmc4VFk4OFhKYnZmbFhhaUItMlZkSndMUUZsREplNzlQOTlwaENLRU15YXdqU2tSYVlOVVowT2wtVDlIYTdfOWV1WTNxUdIBV0FVX3lxTFBYYktqMEZyUklhZlJmV3pKTndiYTdpcDNoVTN0NGtHdHhvWEdwLWh0S0lQZjl3eHZ1cmsxYVdLaFUzRmFHb0VsSVd0SG9yal9wVEs3NXRLRQ?oc=5",
+    "source": "マネクリ",
+    "instrument": "ドル円",
+    "published": "2026-08-17T13:30:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
+    "title": "『ドラクエ』が「人生ゲーム」と初コラボ！戦士や僧侶などの仲間やゴールドを集めながら伝説の勇者を目指す「ドラゴンクエスト 人生ゲーム」が登場！馬車になった車型コマにも注目！",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHbTVBajN1dElXclVibGliZGNEUHpHdUM3Wnd6ZjVCWURvOXdRRGZSNmpfUWY2d2Jia21YdHpGMU92cGh0VG1fS245ZWdkMmVD?oc=5",
+    "source": "電撃ホビーウェブ",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T13:30:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
     "title": "ゴールドクレ、ＳＭＢＣ日興が「２」に格上げ 速報",
     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE96THE1a09UOWRpQWJGZWJ2OUJ3MmFKd3Rjd0czcTZZM2MwVkJzemJnS2hUQ0JadWdOeHBJMlZLdkJHckNuX3RJ?oc=5",
     "source": "kabushiki.jp",
@@ -438,6 +662,14 @@
     "instrument": "ドル円",
     "published": "2026-08-17T13:16:00+09:00",
     "first_seen": "2026-08-17T15:31:04.431911+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／カナダ物価にらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjZsakJKZnhJNUFtYUZBbTE3UFlyUnJUQmVQSTBaVmZvTXF5bDhXYk1GMG9DQTRjMWZTYzdoZFZvSGJ6dk0ybjc3d2hJalNydGpkd1hGdDNJNHN1TGxFOXF0d1JDS0F0d3liZFJ6NjRxUkhPdGRwbmhOTGdrZkpOVVp4RkhmX2M?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-17T13:10:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
   },
   {
     "title": "欧米為替：デイリー見通し 豪ドル・円／豪政策運営に期待(フィスコ)",
@@ -648,6 +880,14 @@
     "first_seen": "2026-08-17T18:28:57.085311+09:00"
   },
   {
+    "title": "お得な特典付きのデジタル証「TOYAMAみらい市民パスポート（ゴールド）」の販売をスタート！（限定500枚）",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BVXRCVFBuZFk2YXMya1BZeDFEOUl0QzBQRFVJN0I5ZTVLUzhyNnFoNkJLb2lnZnRzZi1WZm1tS1ZoTjhybFg4Q3h3aXo0SDM5bU90dllDUjJud0U?oc=5",
+    "source": "共同通信PRワイヤー",
+    "instrument": "ゴールド",
+    "published": "2026-08-17T12:00:00+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
+  },
+  {
     "title": "ゴールドマン・サックス、米ETF事業者NEOSインベストメンツ買収へ（あたらしい経済）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MU2xuMmFDYmtlQXh6SXRkS0RZWTQzMjhzaTBraHRCR2lnYmpienI1Vi1ZRGF5UHNvS3dXQWVSMW80NDNvUm0yd1BHTGhGQmd2SE92ejVvR1F5VFdGMXVGbTdxMlJVQnZWRFR2QURabGpsWFhlRjJfcGVpX1BWYVE?oc=5",
     "source": "Yahoo!ニュース",
@@ -742,6 +982,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-17T11:07:37+09:00",
     "first_seen": "2026-08-17T12:14:15.615654+09:00"
+  },
+  {
+    "title": "通貨オプション ボラティリティー ドル円 1週間6％台半ば",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yd2ltVjhqQTRkMU4wRE9RUWxveVBUb1FKZ3l0dUUwYWpVbjZ1S25Rb3hlUkl0VDZ4ZEVaLUFpa2V3c3Q3UmJOWg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-17T11:00:44+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
   },
   {
     "title": "ミュシャ財団公式ブランド“純白の百合”フレグランス「リリー」ゴールド線画ラベルにリニューアル",
@@ -902,6 +1150,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-17T09:23:09+09:00",
     "first_seen": "2026-08-17T09:35:30.773874+09:00"
+  },
+  {
+    "title": "米ドル円相場の中長期展望 なぜ弱い円が定着したのか？ 野村CIO・宮嵜浩",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81Ulp5U3llRklJeklMS05udHJOclhxaHhYTFhLMURmTmhUaWNTODdLMG4tdzJVVmNRYk1pVnVvVE9IbS1xR0VCMlBOald5Rm9jaGl3WjF3ZFdlRFhURFhR?oc=5",
+    "source": "nomura.co.jp",
+    "instrument": "ドル円",
+    "published": "2026-08-17T09:18:30+09:00",
+    "first_seen": "2026-08-17T21:20:09.374314+09:00"
   },
   {
     "title": "LBMAは、世界の金価格が2026年末までに1オンスあたり4,500ドル前後で推移すると予測している。",
