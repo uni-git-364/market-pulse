@@ -278,7 +278,7 @@ $css
 <header>
 <h1>ドル円・ゴールド・BTC ニュースまとめ</h1>
 <p class="updated">最終更新：$updated（JST）</p>
-<p class="nav"><a href="archive.html">📁 過去のニュース（アーカイブ）</a></p>
+<p class="nav"><a href="blog.html">📝 相場観ブログ</a> ・ <a href="archive.html">📁 アーカイブ</a></p>
 </header>
 <div class="tabs">
 $radios<nav class="tablist">
@@ -405,13 +405,15 @@ def update_archive(data: dict[str, list[dict]], now: datetime) -> tuple[int, int
     return added, len(archive)
 
 
-def write_sitemap(now: datetime) -> None:
+def write_sitemap(now: datetime, blog_urls: list[str] | None = None) -> None:
     """sitemap.xml を生成（lastmod を毎回更新してクローラに更新を伝える）。"""
     lastmod = now.strftime("%Y-%m-%d")
     pages = [
         (SITE_URL, "hourly", "1.0"),
         (SITE_URL + "archive.html", "daily", "0.7"),
     ]
+    for rel in blog_urls or []:
+        pages.append((SITE_URL + rel, "weekly", "0.8" if rel == "blog.html" else "0.6"))
     body = "\n".join(
         "  <url><loc>%s</loc><lastmod>%s</lastmod>"
         "<changefreq>%s</changefreq><priority>%s</priority></url>"
@@ -462,7 +464,18 @@ def main() -> None:
     OUTPUT_PATH.write_text(html_text, encoding="utf-8")
     print(f"生成しました → {OUTPUT_PATH}")
 
-    write_sitemap(now)
+    # 相場観ブログ（posts/*.md → docs/blog.html ＋ docs/blog/<slug>.html）を再生成。
+    # markdown 未導入や記事の不備でニュース更新を止めないよう、失敗しても続行する。
+    blog_urls: list[str] = []
+    try:
+        import blog
+
+        blog_urls = blog.build_blog(now)
+        print(f"ブログ: {len(blog_urls)} ページ生成")
+    except Exception as exc:  # noqa: BLE001
+        print(f"ブログ生成をスキップしました: {exc}", file=sys.stderr)
+
+    write_sitemap(now, blog_urls)
     print(f"生成しました → {SITEMAP_PATH}")
 
 
