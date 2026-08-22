@@ -1,11 +1,67 @@
 [
   {
+    "title": "🚨 ビットコインの価格はちょうど10年前の今日、586ドルで取引されていました。",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWTBXLUg4OEFCZVdZTjBmQXIwN1RVT3p1cTZNZVN4a1AtTnk3UWM4d1pEc09FZnFhb2ZoTmRUTktaM0dNZWxQTWpqbTlkWGZIYXY0bl9jbWdWSGV3b0FjZ0JJNVRaY1Z0d0dQUEh1dm9BN1dVUnVnQTc3dkVvR2lXeUREcGt3aFdiQVhlWjZSNlFibFdnSzQ2THlkeC1HWEZUZU0wLUZCUTFqN3U3b2d6NVVB?oc=5",
+    "source": "Moomoo",
+    "instrument": "BTC",
+    "published": "2026-08-23T00:38:11+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
+  },
+  {
+    "title": "ビットコイン、RSI過熱でリスク接近 7万ドル再来か",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vcVJ6VnprU0QtM2FIVFBmOFpfVW5XbU84dVVIZ3V6UDE3cWxmV2JmN0lRS19Yem94dXZIeVRUNE15Yk01eWVXR0JpdEFIUW13YXk4WlRydzVNZDhiM3JiTjhvWGRfNEE1cHEzdHIxRk95dw?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-08-23T00:18:39+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
+  },
+  {
+    "title": "Bitget CEO予測：BTC年末は現在価格±2万ドル圏",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02T0U0LUpweXRDclY5TVhZYXV3VEVFOEdfV04wMHNuVndNY2tzekstNXlEVm56RGRkNEdWQTRVaTZmNktuZGFTdS1Sd3MzWHVoYXRYMnlCU3B0c0ZSQ0lBYTljNjVzUjQycXZ3WHpKWXlfNURYWGllUHpud09DYVE?oc=5",
+    "source": "FinanceFeeds",
+    "instrument": "BTC",
+    "published": "2026-08-23T00:15:10+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
+  },
+  {
+    "title": "世界の金価格は週を4,600米ドル/オンス以上で終えました。",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzFaT1RhdURxWHlqdWpJQ1J4OUtBaFRwYzQ3UVlfV3VzQzBwbHlQczEyNUVNQzNNai04T3dBLVd6dHlRTVJELWRRQ01KUzBOMmc0S1JaNGpmdXN5d3FjVkRRdk5fam1xTC13VmxRY1hrWGxOblFLMEVTMlA2WEIzb2haaU1CZmJndDZHX0FyVVpaYldQVFhKS3NIdkxCS3VS?oc=5",
+    "source": "Laodong.vn",
+    "instrument": "ゴールド",
+    "published": "2026-08-22T23:58:21+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
+  },
+  {
+    "title": "ビットコイン価格予測：10万ドルの強気シナリオ vs 5万ドルの弱気シナリオ",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vNGtqZTVickdYSE4wakNZblBVSGwxMlBzQ2hjY0JXRjA2ZXZ2dklqYkI5WTF3TDZtekxEVV9sQ1h5ckNYelU5NExsMmlfR1pxNEhyVE43MDEwbWtCWklkQzk0bXZZTUU4ZFVVYzNtaF9SQQ?oc=5",
+    "source": "FinanceFeeds",
+    "instrument": "BTC",
+    "published": "2026-08-22T22:50:34+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
+  },
+  {
+    "title": "ビットコイン急伸の週、その3つの要因を解説",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wdTJneVVtNnNNXzRFbDNHYk5YMU5NdUZjUVBEMEI2bDNiQzdXWm5oTUZkNzR4OHpsajJlYndUTkFoZXBVdVNON0R5NzUzbUFYSzRpQUFYaFRVSzRYdGItVmVLMV9xMzVlOEQ1aXdn?oc=5",
+    "source": "FinanceFeeds",
+    "instrument": "BTC",
+    "published": "2026-08-22T21:43:07+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
+  },
+  {
     "title": "8月22日の仮想通貨市場：ビットコインに予想外の展開。",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXppSk9NUE13X0VQMlkyV1N2S1MwX1ZZbGNTcDBseW9EYWhRT3JlWnpzUWJmUHBjWmxrNjM2Wk0zTmFSeFVGcTNDODl6UXg2Qk0wVEc5WjBlZWNBWDdiVjZlbXIwY2FROElFMGR3ZjRXV3hmYzVuRE9DRC1CaHMyVDRIdWh6Zw?oc=5",
     "source": "Vietnam.vn",
     "instrument": "BTC",
     "published": "2026-08-22T21:34:02+09:00",
     "first_seen": "2026-08-23T00:10:05.511818+09:00"
+  },
+  {
+    "title": "SPDRゴールド･シェア【1326】：株価・株式情報",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NcmVURjY1X3FMY0F0aGxsMDhlbmxpbVZoN1d5QVpTOTFMbVJvVzlQZllwZDFXclBCTDlFYjRJaHFReFh1dXIwTFpVbURKcTg4cVE?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-08-22T21:31:24+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
   },
   {
     "title": "ビットコイン、3日間で23%急騰——バイナンスへの短期保有者流入が2月以来の最大規模に",
@@ -22,6 +78,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-22T19:41:11+09:00",
     "first_seen": "2026-08-22T21:16:40.513894+09:00"
+  },
+  {
+    "title": "世界の金価格は約1.75%上昇、国内金価格は3ヶ月で9%以上下落",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNXRzRE1zTXBLOU9Fb0NHQXFta3Y2LU05aUxlOWtDLWVCZXZObmJzMTFkaFIxbmhjNVJjQ1BycTY5U1FqQ1UwbUVoc2FTcFpVS1J0a2dFMUZTdGU1UTFTdVJidHhneGotQndDVnNFMVFXX1BlOTRMM0dhbG1KMXpJRi01dWNNX3ppWC1aYk9kWENqYWc5NjRQRjlXdHR0TVJ5b1Y1TkZjUTRiOWZMM29TVGQzVExwSk52Z2c?oc=5",
+    "source": "Laodong.vn",
+    "instrument": "ゴールド",
+    "published": "2026-08-22T19:38:22+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
   },
   {
     "title": "2026年8月22日の金価格：SJC金は1オンスあたり1億4460万～1億4760万ベトナムドンに上昇しました。",
@@ -134,6 +198,14 @@
     "instrument": "ゴールド",
     "published": "2026-08-22T16:10:00+09:00",
     "first_seen": "2026-08-22T18:16:48.037303+09:00"
+  },
+  {
+    "title": "$SPDR ゴールド・シェア (GLD.US)$ 現在値 ✅ 🚀",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzgxMG1uVFFFa1h6Rkw5SHJpZEFVZ1QxRW1POTlpNGhqWHU0Z1VRLUxvRkhwNDRwUmJ0QU9HVlYtRF8xN1dDRnczNjR3SGZWakxOWkZIZW9Ed3p4RU9GeWh6REZmeHpjRW9EOFNzUEdheEpoMFl4RkNCSHowY0M4ZHZqZU43cVFj?oc=5",
+    "source": "Moomoo",
+    "instrument": "ゴールド",
+    "published": "2026-08-22T16:00:00+09:00",
+    "first_seen": "2026-08-23T03:13:26.094702+09:00"
   },
   {
     "title": "驚くべき金価格",
