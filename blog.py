@@ -188,14 +188,16 @@ def parse_post(path: Path) -> dict:
     }
 
 
-def _href(post: dict, latest_slug: str, from_root: bool) -> str:
-    """一覧から各記事へのリンク（ページの階層に応じて相対パスを変える）。"""
-    if post["slug"] == latest_slug:
-        return "blog.html" if from_root else "../blog.html"
+def _href(post: dict, from_root: bool) -> str:
+    """一覧から各記事へのリンク（ページの階層に応じて相対パスを変える）。
+
+    最新記事も永続URL（blog/<slug>.html）を持つため、全記事とも同じ規則。
+    ルート階層（blog.html）からは blog/<slug>.html、blog/ 配下からは <slug>.html。
+    """
     return ("blog/" if from_root else "") + post["slug"] + ".html"
 
 
-def _sidebar(posts: list[dict], current_slug: str, latest_slug: str, from_root: bool) -> str:
+def _sidebar(posts: list[dict], current_slug: str, from_root: bool) -> str:
     items = []
     for p in posts:
         cur = " current" if p["slug"] == current_slug else ""
@@ -203,7 +205,7 @@ def _sidebar(posts: list[dict], current_slug: str, latest_slug: str, from_root: 
             '<li class="sb-item%s"><a href="%s">'
             '<span class="sb-date">%s</span>'
             '<span class="sb-title">%s</span></a></li>'
-            % (cur, _href(p, latest_slug, from_root), html.escape(p["date"]), html.escape(p["title"]))
+            % (cur, _href(p, from_root), html.escape(p["date"]), html.escape(p["title"]))
         )
     return "\n".join(items)
 
@@ -226,7 +228,7 @@ def _article_html(post: dict) -> str:
     ) % (html.escape(post["date"]), badge, html.escape(post["title"]), post["body_html"])
 
 
-def _render(post, posts, latest_slug, from_root, canonical, now) -> str:
+def _render(post, posts, from_root, canonical, now) -> str:
     site = SITE_URL  # favicon/OGP は絶対URL（サブ階層でも壊れない）
     home = "index.html" if from_root else "../index.html"
     archive = "archive.html" if from_root else "../archive.html"
@@ -251,7 +253,7 @@ def _render(post, posts, latest_slug, from_root, canonical, now) -> str:
         archive=archive,
         css=CSS,
         article=article,
-        sidebar=_sidebar(posts, current_slug, latest_slug, from_root),
+        sidebar=_sidebar(posts, current_slug, from_root),
         disclaimer=html.escape(BLOG_DISCLAIMER),
         updated=now.strftime("%Y-%m-%d %H:%M"),
     )
@@ -272,21 +274,27 @@ def build_blog(now: datetime) -> list[str]:
 
     urls: list[str] = []
     if not posts:
-        BLOG_INDEX.write_text(_render(None, [], "", True, SITE_URL + "blog.html", now), encoding="utf-8")
+        BLOG_INDEX.write_text(_render(None, [], True, SITE_URL + "blog.html", now), encoding="utf-8")
         return ["blog.html"]
 
     latest = posts[0]
-    BLOG_INDEX.write_text(
-        _render(latest, posts, latest["slug"], True, SITE_URL + "blog.html", now), encoding="utf-8"
-    )
-    urls.append("blog.html")
 
-    if len(posts) > 1:
-        BLOG_DIR.mkdir(parents=True, exist_ok=True)
-        for post in posts[1:]:
-            rel = "blog/" + post["slug"] + ".html"
-            (DOCS / rel).write_text(
-                _render(post, posts, latest["slug"], False, SITE_URL + rel, now), encoding="utf-8"
-            )
-            urls.append(rel)
+    # 全記事（最新を含む）を blog/<slug>.html に出力する。
+    # → 最新記事も固定URLを持ち、翌日以降も同じリンクで参照できる。
+    BLOG_DIR.mkdir(parents=True, exist_ok=True)
+    for post in posts:
+        rel = "blog/" + post["slug"] + ".html"
+        (DOCS / rel).write_text(
+            _render(post, posts, False, SITE_URL + rel, now), encoding="utf-8"
+        )
+        urls.append(rel)
+
+    # blog.html は最新記事を載せる入口ページ。canonical は最新記事の永続URLを
+    # 指し、blog.html と実体ページの重複コンテンツ判定を避ける。
+    latest_permalink = SITE_URL + "blog/" + latest["slug"] + ".html"
+    BLOG_INDEX.write_text(
+        _render(latest, posts, True, latest_permalink, now), encoding="utf-8"
+    )
+    urls.insert(0, "blog.html")
+
     return urls
