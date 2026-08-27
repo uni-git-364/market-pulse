@@ -29,7 +29,13 @@ BLOG_DIR = DOCS / "blog"
 
 SITE_URL = "https://uni-git-364.github.io/market-pulse/"
 OG_IMAGE = SITE_URL + "ogp.png"
-BADGE_COLOR = {"ドル円": "#6ea8fe", "ゴールド": "#f5c518", "BTC": "#f7931a"}
+BADGE_COLOR = {
+    "ドル円": "#6ea8fe",
+    "ゴールド": "#f5c518",
+    "BTC": "#f7931a",
+    "今日の相場": "#0b5bd3",
+    "今週の3市場": "#7c3aed",
+}
 
 BLOG_DISCLAIMER = (
     "本ページの記事は筆者個人の見解であり、特定の金融商品の売買を推奨・勧誘するものではありません。"
