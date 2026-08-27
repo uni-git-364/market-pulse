@@ -272,6 +272,9 @@ $head_meta
 <style>
 $css
 </style>
+<!-- GoatCounter（Cookieなしの非公開アクセス解析。数字は市場運営者のみが管理画面で閲覧） -->
+<script data-goatcounter="https://market-pulse.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
 <div class="wrap">
