@@ -1,5 +1,13 @@
 [
   {
+    "title": "JPモルガンのビットコイン仕組債、早期償還ならず",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CWS13SmVPUnFiUFNYRjVDUjdCTmtvNUVmYVZNaVgybXhPdXJ6YnNKRmFkdUpwcWR1dzF5UXpqMms0QklHdjc0RUROQnJEUEJpaTg0V1NTeDJnYmx6emlxQXdGRkRwa2VndVc0?oc=5",
+    "source": "crypto-times.jp",
+    "instrument": "BTC",
+    "published": "2026-08-29T12:36:26+09:00",
+    "first_seen": "2026-08-29T13:40:53.934304+09:00"
+  },
+  {
     "title": "本日（8月29日）の金価格：世界の金価格が急落。",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40X0xHVGtGc1N3SUNYZ2lnMENOcG9kYWVQZktWLXJkYnV5ekxDSUZzdVJYNkhnMzc0RUtrU2J0NHZEZXdtNGZDbWF4VlEtRU80bmxMTHBSSGdUV0V6ZlNjcHk3V3gwdDhQYldnOUlXekVLb2JxLUVtXw?oc=5",
     "source": "Vietnam.vn",
@@ -128,12 +136,28 @@
     "first_seen": "2026-08-29T08:45:09.544298+09:00"
   },
   {
+    "title": "28日レンジ ドル円 159.30- 160.20円(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGN3TFBsQWwwTDBsOGpJMDZ4RUM1N2l4Yk91Q0phRWk2V2p1LXNIMDBkb1JuYmZOQWFIT1FkZS01d0NSazFqWW1UMlM4Q0p6T1c4TUhCOTBUd3Rta3M4Qi1oMTBTdkxuTXZvTnpwSmlDSXZrN2J6a25ZVjA2eUxPLUUyM0lub0k?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-08-29T06:25:00+09:00",
+    "first_seen": "2026-08-29T13:40:53.934304+09:00"
+  },
+  {
     "title": "２８日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RTGNHT1hzb2VGd0RxQ0JCaUtoVllaeFNobmlaTHo2dVFwaGJpWVlaZ182RE9tZGZwcF9UTS1jWWpfMDZUQlE?oc=5",
     "source": "みんかぶ",
     "instrument": "ドル円",
     "published": "2026-08-29T06:16:00+09:00",
     "first_seen": "2026-08-29T08:45:09.544298+09:00"
+  },
+  {
+    "title": "２８日の為替市場の四本値（ポンド円・豪ドル円・カナダ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiRnJzUTRVeFhKdkFra0h4aURSdzdWbTZEMDh2Z3owYXg0NklYTGdnLUZHZ0dkUHNQM2RRa3VMUmF0X1Fvb1RoRw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-29T06:07:44+09:00",
+    "first_seen": "2026-08-29T13:40:53.934304+09:00"
   },
   {
     "title": "２８日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
@@ -766,6 +790,14 @@
     "instrument": "ドル円",
     "published": "2026-08-28T17:25:00+09:00",
     "first_seen": "2026-08-28T23:40:49.418738+09:00"
+  },
+  {
+    "title": "ドル円一時１５９．５８レベル、小幅に高値更新 クロス円も堅調＝ロンドン為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XTGhMVktwOEYtYU1ZZEgxYzZFaTJmUnpGdmNJWkhvdzZKVkVycHBubUZCXzh3MjlHMHAyanNxTDJGUDREZThPTw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-08-28T17:22:44+09:00",
+    "first_seen": "2026-08-29T13:40:53.934304+09:00"
   },
   {
     "title": "通貨オプション ボラティリティー ドル円１週間６．４４％と小高い",
