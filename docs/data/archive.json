@@ -1,5 +1,501 @@
 [
   {
+    "title": "東京為替：ドル・円は伸び悩み、材料難でドル買い一服 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tYWlCNnVOSkFXYS02Q1pJeGJPZkY1cWczcGx0d2daZjFURlVCRXZDV0R5eEVvMFFNTFZfQWxkN3FOQll3LTZud1RlaTNxdk80cHlMYlVxUHBndDVuYjZ3M2phVGxydHc?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T16:15:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は伸び悩み、材料難でドル買い一服(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDNXMnU4NVJndHkxX01IRFgxZDFjR2VLWTBzWkdVQ1loZFJPRlNhSEk4Q1hrMUlVU0JjM3YtaHZkYXA5T3c4Q3VRZ2wySkNYVjdfQlg0V0M5ckR3ME5TWVBZdjRvUi02MDNDYVNuRlc5Z2hzbVNCSnFwRkVqT3prOF92X0U3YWs?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-04T16:14:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ビットコイン、ここから大幅反発なるか｜今年最大規模の資金流入が発生",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrSUV0X2VJN2k3TmY3OGY5ZENrdjlqQjVYSWFWWFVCZEl3UmVMcDNNTzBqWDd6aE5WX0g1WHpVNDByeWtvSTdfZXNBMmtJbGx5MWVmeQ?oc=5",
+    "source": "crypto-times.jp",
+    "instrument": "BTC",
+    "published": "2026-09-04T16:00:59+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "BTC週次分析｜BTCは1260万円台へ回復、現物需給改善が下支え",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UdXA1TEE3MGJoT20zRV9oLTQ1U3YweGtmTGU4NXR6SzIzbWVCanQxSTd0Y3ZNb2VDLWNoQkU5ZGNwaEZJTUlpajhLOXJWWENKa0U1YWRQOGtXTmZsZlJvMW8yd285QQ?oc=5",
+    "source": "bitbank",
+    "instrument": "BTC",
+    "published": "2026-09-04T15:53:29+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "本日（9月4日午後）の金価格：反転上昇。",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNby1lYWhLSDAtdjBaX2llQWpaUzdBQldQRFQ0djlSTC1DNDFaMWdkWS0zTmZPTEJsbzJWR2NrM1pqcHNEYmRINFk2LUVuOXpSYzZIaU94UXlvZWxpaV9FdjZhN1M0ZlF0RGZiTzlnQ01YSVB3RXotb3NHV1BYcmtSYg?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T15:48:59+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "４日の東京外国為替市場＝ドル・円、１５６円台前半で推移 速報",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jNzRFUXZWbHdVTTg0WlBCTTBjQXk1OVVBVkw1UDJURlNWbG1RNEM0NHdncDdkMzhmdEF3MDBJN1lWdUx6TGs4?oc=5",
+    "source": "kabushiki.jp",
+    "instrument": "ドル円",
+    "published": "2026-09-04T15:32:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "４日の東京外国為替市場＝ドル・円、１５６円台前半で推移(ウエルスアドバイザー)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1Y3b2ZKaC1rU2FuaUVLRFlYejZya2dINk9tTmJmdzRFRV9zYnZjMTdGdmFyM0xWN1lNRjJGREtWUERxb2ZYaHl4Mkd3RUtCb3VnM3ZVTUxkaEN3dlFsdWROZlpodGVfdU5RR05sRDhDZWZDdmhCZDRpWThVa2k5aDhDZi1Xb2s?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-04T15:32:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "コーラ・ゴールド、マリのプロジェクトに1億2000万ドルのストリーム資金を確保 執筆",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3bUl5TjVQSDVpS2NIeWFwVXM0czdBVFNyaGZWZ1IyWjg0RHYtRlNoYllaMkVoejY1UGxpVWpkd3haX2ZTTTlLMzhTeERRZU9JM3RUUHVCVEI2bVA2eHAtY05QLThyT181WG43dlZMekM?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T15:26:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ドル円は反動高、今晩は米雇用統計＝東京為替概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50bDJBaHNHTDh2ZjlGMkx6anZCdnFnZnp0dU9VY1JvTmowZEtQU2g3dkp0QU1mOVR5VjAzZXZMeDRXVEhzb3Y1eQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-09-04T15:25:33+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・15時 ドル円、強含み｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ybkxKQUNYX01OeHBIOF96YUY4Y2J2SXpLMzItMHpyVVNQWmF0cG1rYmpya1d2RUhvN1lwcVNMbFY1RkFFSVp5ZU5BMjM4aG4zdkE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-04T15:08:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は底堅い、本日高値圏 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RZE5yUlJyMzNTemdGempmLTVjMjNXUER6YVhua1J3NW9yN0hiNV9lUzFQWGhadHpjQUhGbTltQUgzMFpxOW0zZG42Uy16REVKS0dIVEU5Y2xnUEN5MkhWeFM0eEM1WVU?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T15:08:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は底堅い、本日高値圏",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTVwQS15ajVfUlZnN05DNmtzRnJTVW9mRTNSdmhwNFkwQ3JZQ19fZFdZcUx5VVk1YjNjeHlwRmtzZktwN3hFdVhYeTFWU1NVVlowQ2w4TGNCSkJhWkRQV0hrTHpPU05vdEFnNmJPenRTQkdBRDlDSmdRMF9PSjkzaVJFY1YwdmvSAYwBQVVfeXFMTl9sdWxmbkhMWEtHUFNzaFY1THVSelZIdlVBWm05dmpvdlo4YVBaUUROUmJQOHRsT1o3Z0gwY2t5R2pHWk8wWmhNRHN1TzVtSmhXOFNQdXV2LWZIY3FQU0x1TU1IOUJDam1kMWhuTkc3U3JDR1F6RVZDeVlZX3hqbkh5UElrMFVoUXFpOEk?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T15:08:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "「iFreeETF ゴールドプラスインカム（626A）」上場のお知らせ",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TbnVDeS0tZnRqanR1dkxnanZFeUpJNDBRUUhxTE0wVzZBWHJXYjJicDIzdzJKcjBpMXZRZUwtX0lIYXQ4SElpZC1hLVhWRXNFbl96NTBqWjRhM01GVTdYNm1jNDQzOGV0T3c?oc=5",
+    "source": "PR TIMES",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T15:04:15+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は上げ渋り、ドル買い一服",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2xmZkdHQzBqNjQ0a3pSbkNlanphWmlHVTByMWpNNVdVUkswNkxpTGh0c0JYbTZHNmVyT0swT2VuYjE2ZlRXQ2xvYTRxUjdNWnEwVEFGVFlsS1lhRlUyRTEwQ01rMXp5V2U1Tml4WG54bFp0MmdsOXhNdzhPMlFKQkRDWTMzNGJrMV9qUjNUa2NpTEhZQ2E1aXhR0gGMAUFVX3lxTFBFSjJfUmZXVWx4RERfRi1kczVRSkN5c2FUYnU3WmNXOVNpenZwaXBhTEdrNVB3ZVA0R0FCRzVOS2tWUHQ4Qy1mXzQzYUJ2bmV0aXVneHh4Y0dRNGNQUkp6Wll6WVI5aDVPT3pXMmxBNVY5MW9hSWRicDhNY1d1WHF6b3JlRkJnQUZaZzBl?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T14:53:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ビットコインとイーサリアムが数カ月ぶり高値、市場は2026年の上昇余地を限定",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUElta3FIUkNmMk9JSVA4MnlxLWlaOFltUjNnUk5JcGttSklXY3BMaTM0eERLZTVNNllBbUxzclF6STlGNGhSQ1pKa21RMUx1RUZDWElmYmtNOWxtRFF6T0pORDVyeThwanFYVmhMNHo0cC1RQ2FSUGhn?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-09-04T14:46:34+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "現在、1ビットコインで購入できる金はわずか18オンス強となっており、これは1月以来の最高水準です",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmI3ZFNtcnByemNEc2xkNVI4TGYwd3hYYk03d3hXNTdyY2pBZkVybDZNQXBZYmZHYUNpSDNuWjdvdzJvRTRlbXBYY2I3a1NPR0VwUUNHOXY3dnZWcEdRSXFZaXZ3ZXQwdTJMU3dydGNUSmk0SFFTZk5QYmdBVkRKWDMzTTF3RXA0YnlZeUFPSzZRQkg4VXE3NDVOajhCRjhrNkNEQXZjS1VTMWlpTGxDd19VNXdvVEZ6SHlEVzNtYnNVOTNYTGJkYWJGV3E?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-09-04T14:10:34+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は上値が重い、材料難で様子見 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tNnhqeG9NVEJFZTFHaVNBRU9EX3VkRkpGT3FidFJKZS0wTVJ3YXBlbkJjd2VDa1F0VjlEQmZCMVR1VWNNa1Q3c3hmZUd5N0dQNXlWMTllQ19hQko0c2paVkJuTW5qSTg?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T14:02:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は上値が重い、材料難で様子見",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS290Q3JTT2RCaTNHNlcxbWhWYVN0WFU4N0xvVXJZS3ZnZTA0UjJnVFhBazRzb2VqWTZ2SlJxbUZrNFRQNkR5ZzdTYS1WV29VZTBBZk5TaHFtOFI3ZkRYRzVaUW1OdGtqZ1NyQ2hmZDdQTWd6WU5KcklTNGNBeDNRcHdXa3lsbVnSAYwBQVVfeXFMT0dCSmh4Q2laamZyVmdzb3p3cThHeWt6c0lFcmR6bk10bHk5eDl3cEZwdmNxZkJ6U1Voc3JMT3YxSUlfb0hsQTI2ZEcxbjRrT3RRcWliX0M3cEFwTUlnVXYxMmYwYVNnQWRwNlZlaG5qZGZacTQtN0RSLThRMkZGUWRNMWhKTXJ3VXpnNG8?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T14:02:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "木村夢叶＞万バズ連発の“ミニグラ界のホープ\" パチンコのドジっ子店員 ゴールド水着に（MANTANWEB）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04TjVOUE5mNVM1d0pSN0xucHBrUGpTdVpvSWFQLTVQWFRRajE1ZC1WOVlOeU5ZWm9jNnNubndZcHlraWFfVmZucTNWd09DMWpTRTRwZXhPQ1VqeFMweXhVbjFYc1FXSHZaMGwzQjFwTVN4SkpTdzIxMk9OYnVqNHc?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T14:01:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "テクニカルポイント ドル円 いったん戻すも再び下落か",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZOWdiYVZkV2NIVWRXSXN1WWJmTU9Sd1BWakI0bGpiWjA4eGhJX2tHQnA3dEZCaXI2dWp3blZaWEN3WTVfZVVkSA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-09-04T13:55:32+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ビットコイン ハト派発言で8.2万ドルタッチ、雇用統計で上抜けなるか【楽天ウォレットDaily Report】（NADA NEWS）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zOHlnazJ4d2VMMlFCVEE2ODJEVExFMkdmSEI3Z2kwa3NJeS01SUFtT2hrbUcybGVJZWNHalByN0h0S3Q1aU4yb01jcGI3bDFDQ0NxM29leW1hclF6SS1FMHkzN3AxZGxaaDhWNWdwTGZwRHRseWtGYTVOQUpYX2s?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "BTC",
+    "published": "2026-09-04T13:45:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ビットコインは再び高値圏へ、強気継続も上昇一服に注意",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oTTlWcnUwbEtueUpwV1doX2JqT1VTQXJrdzB1bC1vNkdOQUNNNFhocHlibE5KOF9QbTMwSGk3UWZWd2NyZVJWQzg4M1pQaDlyejZYendDRWM5TV9ZWHVvUGkzaFVzR3dMMWNuQ09HamZhRDg?oc=5",
+    "source": "bitbank",
+    "instrument": "BTC",
+    "published": "2026-09-04T13:44:33+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は戻り一服、ドル買いは継続",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYi03NWRiTk9qYVZwTkJOZEtKR2Q1eTFnMWdfNHZabEE1dHBxWVpnNWRaaWRjVXA3LUZjdlJXNnAyU0twc1ZaQTgzSF9ldkx3cE9OajM5ekhvTXZENFllZkNLZ1h2cFNzbE1Zamc2eW9ETmhYOGtweWphd2pxdkVTMmNzZHhUaXfSAYwBQVVfeXFMT0JId0ptR1lhZHhubnM3and5VndaSE9DMzl1M0Vpc3d3Y0lRQ0FCZ1JlVl8xT3phYkRqZUFlVDFIeVdqWC1EOXg4OWViSnV0UXQxekotR1A0amUzUG0xV2lQblpvcHFCTmNrb0dNN3lxSE00V2o4T2RpWlJkai13cUdUQVhJN0M2dmpZSG4?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T13:42:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ビットコイン8万2000ドル到達、フィデリティは弱気相場の終息不明と表明",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CVzF0YnRuaFNRd0t1d1BRUF96TU9zazB3Y2Q0RDNwSXpVSDBlNUg2U2J3NVgzdS1uSTRqNG1uMXJqVjlnOHhnT1pPbnFVY3BPUlZJU2s2U3FlQkFqUGlHSEdVWVBCaV9iTWV6dHZ3amtwZ0Ryb1l3?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-09-04T13:32:47+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "iFreeETF ゴールドプラスインカム【626A】：株価・株式情報",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EcHRSS201Y2Q5a2piOHFHaGNTZE4ydnV2bm5zYU42SFdwWUVPcFRVdWJzN29wWVc3MmJjOXZUSUJWVzFKYkdpN3lFRE5xc00wRkE?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T13:31:46+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は切り返し、ドルに買戻し 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvR05Ua2FVOGY4R0J5akxDMk0xcU1pWHVXMVpNMG5tWjQ1TmkxMjFCV3lyVXFTWTgtdng4cWgyUGZnV3hSZ2Y5cjZyT1JNRHdHdzY1VXpWT19PVFJKcDFtRkdMRFZ3bEk?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T13:24:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は切り返し、ドルに買戻し",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZkpYWnJpN253NVpBNl9fTkkwc1pmZTg5TUJaVkVtZlZwTzAwakh0LUxvamVrdDBpYThQM3NWSnF1QXJwdlpjLV93dTRubUtlMkdlN1BxaXZQRW4zMWRIdVZ3cFQ5SUZLcHRiWTdhN3lmdmNTZnhPT05FVEl1MEZoTVVKc1g4aFXSAYwBQVVfeXFMT1ZEclhPTjkyaGM3TzBkbVpxSlVfVDNKSmNkU0pWZGk3c2ZCUE5PaHpJRktLX2RaalpkNnVQNXpvT2tFVzRsU3htMjFHUEl2elpxbmJGWmtkb0NYbG5zUVBSV1ZRcmlYLTlOSEpJTElUYWRrTTY4V3h6UWNqVUhMSHNGMVRWR2oyZF9WeUE?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T13:24:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "9月4日の金価格：世界の金価格とSJC金地金価格は急騰した。",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaG1DTEdqdkNRSm1UdnVMWUU2Y215UG54V0Y0LWNyMTE1c0djaHMzWDhVTGJRRVNYSGNpR0ZmZU5EX2ZFNWNXaUUySVhHeERlc2hUV1lybmx2ZmxfcUZmOUozakZTcTI0ZUJNTFNkTkFYbjg4cElEUzlaWDJuMXdybzk0MWNFUk0xdjFLaXZJMEZuQkk?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T13:23:31+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "「茨城のゴールドコースト」消滅の衝撃…砂浜が6割消滅する2100年、不動産価値の暴落も (FRIDAY)",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORURQcU8waWF3Y0FqdlFTczFSRWFGbXFyVXlhQ3NWT1otblFCWGpibGN2ZUhYWXRWekdsdE1lRVJ4ZE1SamJJdDNxcVZFZHNHdDVxMTdlOG9CRHF2eXZ4cktEWjlHb3pvTklVYlJTLUpRQ2Z5VG92alREVU9WWm02bWREdmYydzJNa0VRamdB?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T13:22:17+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／対米貿易を材料視(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnpnQjNNZXRseFBwbTZPRk54ZENJT29TTUVTUUNJa2hEa21ERU80a29GbWFjd3M3WUtwRVF1R3hPSnh2MlhkeGhKRmthcTYyU1hfRFhrem5vSU0xb1VybF9KTkF6czNscmo4M29hQ1VzZlFpa1FVMG5Sd3lBOVU3WUd6b053X1U?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-04T13:13:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し NZドル・円／NZ中銀政策にらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjIzWEtaWVZKcDhIM0ktYjEyUWIyOXB5cElINnBNTjB2Qmp4QVB6bVEyZTEwNWpYMWhnN1dBeDhBNzhGYnpFNnF1eHhWc2ZoNGFXM2NQbllGa3ZIWHJwTnBnVUMwWWs2c3oxd3RaMld5d1FpWGswa2x4NEI1WEtyU0ZOMl90c2s?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-04T13:13:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し 豪ドル・円／豪政策運営に期待続く(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVExnNVBLVXpRNGx5am02LWNCMndrYWx6bmwwS3ZhQ3BGMWVudEx4TW9mS1cyaDVWdHJ2R29sMVhuc2N1TVFrZXBaNHRyeEFfMHVuM3FjYXFTTkZSM0NDMjdyWHJyTjJBMnp5VVEybTN2OTAzTE1qVXVjZXlFWnlfNndlXzFpUW8?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-04T13:12:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ゴールドマン・サックスが警告：韓国株の自社株買い支えは10月に枯渇、KOSPIの今後は外国人の動向次第",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fQThGZkZxNVJDR2Q5cGxPaEVpdklpVkNsWDU3bzF5a2p6YjRhRWZ2RlB4dU9tNmtWcG0yUHpueklWNlJzQm1iY0xJZmNtNjdxYWhhRTJoc21CZE12Z1ZER2xoRnVvcmU0dXdKR0ppOGZ4Z1N4?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T13:05:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "新インターネットサービス「auひかりプラス」を「au PAY ゴールドカード」会員さま向け通信料金特典の対象に追加",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92NFljakNTWVhVVmwtX241UmhGRU9FcU9heDJSaWM1X3puRG9nWlVtb1htN0g0d0c4b05fZVJ5ZlZFbWYtQlp5WUVEdUdRcnpBYkhiQmdRdHpBX3B3NzFManBuTnpsOFppUlE?oc=5",
+    "source": "PR TIMES",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T13:00:02+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ファミリアのファミちゃんがゴールドリボンのバッジを⾝につけ⼩児がん啓発に協力。",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5NmhfWm42REZVaWZDSm4tWkpsNHlsXzl3T2VUWlp3Q25XZWtwVTV1aV9GMFo3ODZBVl9UZnJJVU9STkxUQ0xIOGZ1Vm1BUnVVaE1zeVZPaTVBZ19aSEE0aUNjV3BSaEhOQUE?oc=5",
+    "source": "PR TIMES",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T13:00:02+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ファミリアのファミちゃんがゴールドリボンのバッジを身につけ小児がん啓発に協力。",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VbHItQTBmOXRtbWlEdFN0QU9mV1duUGVJUnVucktnd2Y0VVI4RWduel8tN01xN1dwcWlXaVZycVhwdEZhamNDOTd0c2lacFVi?oc=5",
+    "source": "nnn.co.jp",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T13:00:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ファミリアのファミちゃんがゴールドリボンのバッジを身につけ小児がん啓発に協力。",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3emxhVzI3M3RQVmMzZndJMEpWRHZDNW5oVVp2azZoemJ4UXc0WDZWMVJ0VjYtLTllNUtmeTh6QzF0TlBLcGNjS2hjajBMWWh2Qk5adDVkY2xZVEgwRk9sT3BZazRwdDhOQWNvQkozLXdfZw?oc=5",
+    "source": "news.infoseek.co.jp",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T13:00:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ドル・円：ドル・円は下げ渋り、ドルに買戻し｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9veFZrYW9GMnNTam9CeDZqdXo0S0U0WlRiQ1JQaWdxOV92Q1pWZTNaekdqcXhvSV9ZSkl6NE5PbkxOVGI4bVpsRVlTNjZNaUFXOGc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-04T12:52:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ドル円、買い戻し 156.30円まで上昇｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4X3llbjV3OTJRSS1tSVJOOHB2VTNtM0ZNQ1JGY2hzc3ktTThMSjQyb3JqTlNGSURvaHQxanl5cUQ3NDVKVi1DSmpkcE5vYzZiUGc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-04T12:40:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ渋り、ドルに買戻し",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taXR2T185cEwtVzNyYUtNQk9DbjBzVHdwcG5XN1ZmQ2hGdU9CUEpjaTk0aUpMTlpBUW5abVhYMDM0LUZrR1AwUUVIdWJUN3RSX3QyX09sVXdJbnR4OE9vTA?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-09-04T12:16:15+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・12時 ドル円、底堅い｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zZFFvMDk1WVhDMUtQLUpLLVFnRUZocWxsb3Bkcl9tRlVxVHpZUHRaWVpKX0xrZ2UxZF9fNTJUU2dhSHVkSktzdERmUmJqbHJCMlE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-04T12:06:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "改めて、金投資の意味を考える - 金曜日のゴールド～新たな潮流をさぐる",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldUtzUkYySlp0V1FoM1F4aW53a3JHSktPZmhSaXZ3UkZfdWhhYkRCNUtOcU9CMGlxQ3RqeTlBV2hZOXdKQUhuTnB1dUlQT0tkYWY3Xw?oc=5",
+    "source": "日経CNBC online",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T12:05:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "9月4日の朝、金価格は再び上昇した。",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Xb2M1TmZ2MmE5bWVUNXBLV3E0NEpfeDJIWGc2Mkk5LW1pVFNuQTFQVm5XSjNDbWxsbzQzLXVfQjhVNndSRDBGY2lDVDVqM0NWRTNRSXplMjh6QVZqZ1Z3WnQ2eEZHcU0?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T12:01:30+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "【リテールメディアサミット2026】「グローリー株式会社」3年連続ゴールドスポンサー決定のお知らせ",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Wb0ZvY1BrOE1aSmVXOEhkX0ppSEJQVE1vMm13NHFHLVlBQXNxVWZfWGM1amY4VXdnSmhUQjY4b09wbEkxdy1WUlJNNlRKTFZvcDMzUTFuZFZ2NXROMl82NzFVdThiQUZYWGc?oc=5",
+    "source": "PR TIMES",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T12:00:02+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "【札幌２歳Ｓ2026】血統アナリシス クラシックも意識させるステイゴールド系の動向に注目",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zeF9uRENPMTlLWDJ2R0JNTkk4ZzNpT3p1NlAyZUhsNDI2eU1FVW5pN2p6cklDcC1paUZFeXp5VktPUDZZWE5JOWxLcU5GY3RHNzl6WTdQVmNJUEpBdjUtOHA4NUdGRlZB?oc=5",
+    "source": "競馬予想のウマニティ",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T12:00:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "10月6日（火）17時よりオンライン開催！空き家を収益物件へ再生する事業モデル「高齢者向けシェアハウス事業」の全貌",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YTE4Wmd3ckYxSVk1QlNpb1ZSTkF5bzNzYUdBUW9kaTdZRC15b1NKWTE3MmQza1UweThlX2FUXzltS3cxVnNYeklNdGdZbDZBZ181ak53YlhhT2NuWlRrVHFUbWplbnhsbEE?oc=5",
+    "source": "PR TIMES",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:50:50+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "本日（9月4日）の金価格：反転して急上昇。",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80eEJMV0hwYUJtWnRIa3I0SVFpeGotNExnVWhORHVndEE1ZWE1WVJMTDE5T013anowTGhLejZXVVE0YkhqZkV2d3drZGp4aTQ5M1ROZExla2Q1VnRiOVpIaUZSQkhuVjRENDYxZFl2SVJsbVU?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:49:19+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "今日の金価格：100ドル以上上昇、中央銀行は引き続き買い入れを継続。",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmV0N1FINnFjT21NSHdpX3UtNGs1MlVlcE4zQVRyNEQ4WUxqdklFYVVoOS1ycy1kTGRaMUV2ZEJSRkNBYTViZ2N2dU80NWZ1ODVxU1M3SVktTGRzWUphMzVIUUgwU1QwOFdqTjJmYXRDdjE3aF9qcVNlZWNvRlYwQUp3SGlUcTFHR2JmeFcxTzVQV1V5akVRWnRETkF1ejFibktrcw?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:49:19+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ドル円は小幅高、米雇用統計控えて動意は限定的＝東京為替前場概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4d3AwQ2YxblFRcm9mZVVqRlZ1Vlh4bllsaTNpX2lUaWYwcV9VbVgyQkY2eDVNS29MeFBPdzd0Z0dEalU3a21DZQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-09-04T11:46:32+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "本日（9月4日）の金価格：世界的な価格が急騰する一方、SJCは予想外に下落。",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQi10X2hGQ29Lc1pTc0ktaVd5U25IQ1NzN1NoNm5FdHlRUmxvazFReWs0dUp2VGd3b0FxTU5JVDFwdmVma0cyREhsbERmem9ma3BzeFJBVTJ5U0tBbnZqRlFjX2xVMTQ5Zkl3QlNOSlE5bk12T0Exa1B5Ml9BVmhhQWN5Z1hUQXRzc2c?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:41:30+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ＳＰＤＲ金",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VSzJyck1pem1hUk9RNG00emN1NmIzblRGLVhoZlA2aWRQWWMxRmZDbDZsYXBBdm1rS01qTVNheVBoTl9wR0pzX3pDeHRpQ2JnaWVvNl90MTlWR0dNbW1rdW9KS19LeUFkVEE?oc=5",
+    "source": "日本経済新聞",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:40:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "10月3日（土）11時よりオンライン開催！金利上昇・インフレ時代の「融資戦略」とは？融資と物件選びのポイントを解説",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FVmJhTFgxY0pBcVBYeXZzTUVyUG1hNXQza29iOGVkZndpSWd3MVhRWFBJY05FUm9KNzBMelA4Nml5cTg2UE1xRUc2WUc5RUI3WnFZSFFreGlLZl9GRXVRd1UxeDhTTm1KMHc?oc=5",
+    "source": "PR TIMES",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:33:32+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "週間為替展望（ドル／ユーロ）-ドル円、8月米CPIに注目(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS01FYXdQY0N0d1B1Sm53RjMtUTJQbXgzNnN6WW5sMmxsRXRiOWlOZXlUS3hMNEVremstREhFTXU2UDVSWjBUMzBJZHJOZThFTS1DazZlbDBQVWwyZFBBWXV2QXdjOU9vNmNZeUR5VXpxa3NSUjZIQ0ludDBobFV3T0gyWl9JNFk?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-04T11:23:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ドル円156円付近でもみ合い、前日の円買いの流れ一服 NZドル堅調",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sUUFkWUptM1hreWlrSEJlLVlWemVXYWlmQ3UxeURfVHh5WHNwdmd3NVVEWnpGSmJxMS1kQlJGcXZyNGZQTUI4ag?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-09-04T11:20:32+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "速報4-9：金価格が110ドルを突破、ビットコインが8万1000ドルを超え、原油価格は高止まり。",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeE82OXFYVFBNTHNiN3M2UTVDbDVtQmE1VmZFTkhldVc3SEtjckl3MEJENEdRaW15LWtZSmdzazBfNjdaYkNrOXlocTBDUHdjRVo5WTlXN09KLVZuVzhKQmtSZDBjSXgyWk4tbVc5ZXp6cUQ1Q2xzLXhQTFVYbE4wWnNRVy1oZU1Sc2VPdW55cGdDR19NeHF4VkY5VXNMTlFHSXhVd1JRUzI5M2hMTVE?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:07:21+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "世界有数の金融グループ 日本トップは熊本市出身 どんな学生時代？ 金融業界入りの経緯は？ ゴールドマン・サックス・アセット・マネジメントの堤社長に聞く 【独占ロングインタビュー㊤】（熊本日日新聞）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VmtlQms1Unh4OElwZ0NscXBFS3U4d3dybjZvbGE3MGhKbkt3VjNHT1ZBY0lHSkRHblhPbXNhcGdOWWxhZXhnQ2U4aFFkdU5NNmtlZ1F3V0tNc2JNckFxTEJvQmtyODlEMURzSlZBVUdaT1hiQUF4bHhiWHpCVGs?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:05:22+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "FRB理事が金利据え置き示唆 金は2%超急騰、ゴールドマンは4,900ドル目標を提示",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qQV9xeXNQX0lqeFJDQ2laQWtyZExIZ2p3RHpCR1J4YzVWMUVUVTBMQk12dHdBeEZ3WDRYNHVkRUhKZEdoOWdzeGd5RGhSdU5scFhNN0JaUWNuMTljTV9fMElMYnQ5UHNNblhSdlh3Q3c3cl9r?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:05:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "ジバンシィ“膝上まで覆う”レザーブーツ、刻印輝くゴールドメタル付き",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZRHdhMU1keVdDR2NNbjBZTURSNUZiaEl0NGU2MUdpZkJBa1JPUE1vOGpvVEV4UDB2Tmptdk5nX0pBMEt2bEw1V2k5T0lKTmxraFA0?oc=5",
+    "source": "ファッションプレス",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:05:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "金価格は本日2026年9月4日も上昇を続け、SJCゴールドは1テールあたり70万ベトナムドン上昇した。",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3h3aUg5S3lKbTU4eVhESTR0eDM0Nk0wZ0twdE9Xby1RZUVfbmJQLWZvTDVTakU3bUVGTXJkMVlLNkY5X1V4U3ZZeldtVklJZDNhbkxtMFdGcElncG1LWHpFYWJqdHB3V1pQTVJvQjdmYTZ3N1NqVVNYRG5obG40ME4wMU5xUGk0ajg3dzFnTHl3Nk1iS05kZnR3R2pibnc?oc=5",
+    "source": "Vietnam.vn",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T11:03:25+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "通貨オプション ボラティリティー ドル円の一週間ものは急伸",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1bFc3d2RycDlsX1hHYkhDWWtGVW9vUG5YS1Q0YmFrSGVQS1ZBcHlPdkVJakpGOHpPLWJoZWdvOFRMWjVlTzRTQw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-09-04T11:00:33+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "AI推論の単価が初めて1ドルを割り込む ゴールドマン・サックスが算力過剰による設備投資の根幹揺らぎを警告",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1b1RnWTF1MGJiMEJiZ3Q5dXpDQ2p6MzZEenhyOUg4NUhTVE5lNVJLUjBkRENka3BUZlJ4eWlIM2pwbE5ubUdwcWFuRXoxNmp0R0JqTTBHNGoxamJKYmljU2cwdVFJRU81SGpmdGdabzlVdTBr?oc=5",
+    "source": "BigGo ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T10:56:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "【為替本日の注目点】ドル円１５５円台前半まで急落(サーチナ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUE9KS194VzF5X1BMYVBuYTd3d1VCS0dpc3IteEk3S3E0WE12emxPTHR5bi1uRDEza0F1SWdHT1A4SUItZE5HUFFheGkyVU5UNGZiSk90VFJOOE9kNmw5T0NSaVJMX0ExU2hBLXNCTTMwd3Fhc2lxZ0poQXMwZG8zLXZyWTFFZk0?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-04T10:50:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
     "title": "ビットコイン、8万ドル再突破──5年以内に「84万ドル到達」の予測も（NADA NEWS）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tckJNLWpPNFRsNHV3QnB4Vk15VjBJVnZWT2J0ZUREY19EVVU4Vi1nUEZpdkFjMUFjaWZhVVBJLWUtUUlSeWZ6YVF6REMtdFZ6SUozVWNxNTI4U1dpMmw4NzNod1l6TU1fZE1ubEN4UmkwZmFxU21GeWp5WUZiNjA?oc=5",
     "source": "Yahoo!ニュース",
@@ -8,12 +504,36 @@
     "first_seen": "2026-09-04T10:50:58.475655+09:00"
   },
   {
+    "title": "東京為替：ドル・円はもみ合いながら持ち直す",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SdEhZXzAwUi1RSEs3REkzTjZLb2JmWlY4cFIydnZxXzZUUVNPNnd1T2FDdnVQRmJURk5xU01vcHdTajNoYzVGcWJQUkIxMWxXVFE?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-09-04T10:34:59+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円はもみ合いながら持ち直す 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeWtrRUpCWDBPM1RvUTI1RVdIdlA0X05hdTBObnYxc1c1SnotWXpsYklSWmltNDhjcGdGeVF6SGdmYkNVSlFJdHVpa1dpM09uTWtOZGtFdEJDaXBCMDgyVkRWbU4tQ1k?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-04T10:34:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
     "title": "本日（9月4日）の金価格：金価格が再び急騰、専門家は1オンスあたり4,900ドルを超える可能性があると予測。",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTllkTWdjUHA1OEFQLVJna3VkT0hGd1J5N2dweWtDRGV6VS03aFpzV3dzWTVfMVlPaXVPNFJDVlljN0pIbnplSGVXRVlaVnh5Wk9sWXFhTzhuU0dhXzdIMFF5TXFPWXREbVJaYmk5ZDZTczh3TEJHRUdPODZZLUFfbGN3QmVyYTFqdmZLa2hFM2dld0JMRWhkYmJyVEdLeV96X053YjR4UjNqNGxwMl93ZFdzYk0yUQ?oc=5",
     "source": "Vietnam.vn",
     "instrument": "ゴールド",
     "published": "2026-09-04T10:31:25+09:00",
     "first_seen": "2026-09-04T10:50:58.475655+09:00"
+  },
+  {
+    "title": "ドル円予想レンジ154.00～157.00円 注目通貨はユーロ（9/4）",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRmk1NXN4YmZLS2VRaXNjXzhmQTNMOXREQi0yc3NFVU5ETnNZRE1ZX01qNklqTF83c1RnaUhQN0RBczhqR3poSWJyQmhaTndnNlRhbw?oc=5",
+    "source": "日経CNBC online",
+    "instrument": "ドル円",
+    "published": "2026-09-04T10:21:42+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
   },
   {
     "title": "2026年9月4日現在のビットコイン価格：なぜ価格は81,000ドルまで急騰したのか？",
@@ -80,6 +600,14 @@
     "first_seen": "2026-09-04T10:50:58.475655+09:00"
   },
   {
+    "title": "東京為替：ドル・円はもみ合い推移",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUUpsVUp4MXlUTVdGZFBiWGZzZk1mZjJOQmRNbElXVllBQmY3REhZMm9nYXprVXVNQlBKeUpJaXhibGZIRkczdjFvSkppaFhqb2c?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-09-04T10:04:31+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
     "title": "東京為替：ドル・円はもみ合い推移(フィスコ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzl6QVV1Y2NnV3I2WVBMcFc3ZWJCZ1Y3RXd6TFVpMnZ4NUJyWnI1QUNqNmNXbTBsZlotRlY0eE9TelBNWFc4VEpKOUE5Yi12Q2M3MExkTGhpUnBqUWN2M01qT3E3V09scFpRaUFXdlIzR25NZV9EUGJra21jcFNUWDljX2poQWc?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -120,6 +648,14 @@
     "first_seen": "2026-09-04T10:50:58.475655+09:00"
   },
   {
+    "title": "三菱ＵＦＪ銀 ドル円 公表仲値 １５５．６８",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKWHhGd1ZWYmFmSW9vb0huc2V1ZWZIV05HSS1OVDIyUHhJclg4Smt4bXd3VlUwb2h0eHJmYXlPWldiU3ZyTXRWYg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-09-04T09:58:33+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
     "title": "アンソロピックとゴールドマン、ブラックストーンが仕掛ける「Ode」 AIネイティブなコンサルの全貌",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PSFFMN1pPR25rcWNwVzJteUZadWlDcXM3dVpHanBucGpnUW81S0lCV1V5RVBMcENqVkllQ1l3ZXZyNFg3dVRIOXp1eDdiYnJHeG53UGUyU0ptUQ?oc=5",
     "source": "Forbes JAPAN",
@@ -142,6 +678,22 @@
     "instrument": "ゴールド",
     "published": "2026-09-04T09:49:05+09:00",
     "first_seen": "2026-09-04T10:50:58.475655+09:00"
+  },
+  {
+    "title": "Stray Kids、「THIS & THAT」が仏SNEPゴールド認定",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMZWM1UTNGSFV3NWtZUnBWSzk4WFRBQ1hsQ0Z3ZTRuem5OYTBhdVFINEU0eU1NUVpIU083TnlKRVpFUElsSTJ1RXFQUjdVTTg3QVpENdIBVEFVX3lxTFBMZWM1UTNGSFV3NWtZUnBWSzk4WFRBQ1hsQ0Z3ZTRuem5OYTBhdVFINEU0eU1NUVpIU083TnlKRVpFUElsSTJ1RXFQUjdVTTg3QVpENQ?oc=5",
+    "source": "afpbb.com",
+    "instrument": "ゴールド",
+    "published": "2026-09-04T09:37:38+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は持ち直す動き",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpajJoS1Q3S0E5V0c3SW9reTVBNGFDNXRJRFVQLVFWTEEyVjh2amctTU4tRk9sdkFXSVhfM1FjTWg1eEN0NE1RNUsyUm5XMnFFYlE?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-09-04T09:35:39+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
   },
   {
     "title": "東京為替：ドル・円は持ち直す動き",
@@ -208,6 +760,14 @@
     "first_seen": "2026-09-04T10:50:58.475655+09:00"
   },
   {
+    "title": "東京為替：ドル・円は急速に軟化",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1icnFUZTFsVzI5N005emMxXzl4WmlKMDV4T1B1ejFoaUdXRTBGb1YycG11YjdsbWlRcW9MNHJfYUJZOEFxX0FVUWxlSVNNSE40Y2c?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-09-04T09:05:40+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は急速に軟化 執筆： Fisco",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NYVZmVnU2QnYtUEU0T1ZIUkdESXFIY3dWQVp1M0Q4bVY2cXdkUnkzd2U3M0p0cFFfQlFqbVhsNmZuUWJNRTNPR0pfanZTOG1kaWZieUozZ1hMbXdRWXhJLTU0dTdXQW8?oc=5",
     "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -262,6 +822,14 @@
     "instrument": "BTC",
     "published": "2026-09-04T09:00:00+09:00",
     "first_seen": "2026-09-04T10:50:58.475655+09:00"
+  },
+  {
+    "title": "ビットコイン8月25%高も取引数は半年ぶり低水準──強気か弱気か【価格分析】(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjU5eUs0eXhQaFFMbE5Xdl95SGdqRnIxaTZ1eG9pS2dGdVpVbjYxZDUzN3FEMEdiVWZzZlVGR1RqRVpkYWRiWGhwWDRRU1U1U1E1aERzbUE4anBYYXFhOFVBT0RKcmY0TmIyWWg5enh3Mmdjdm9qX0RYNHBPLVB3NnVNZUhmTFNjQXBraXcwUWc0ME0zZHBqWTZ3MA?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-09-04T09:00:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
   },
   {
     "title": "今日の為替市場ポイント：これまでの円安局面とは一転して円高圧力が強まりやすい地合いが続く(フィスコ)",
@@ -384,6 +952,14 @@
     "first_seen": "2026-09-04T07:52:45.609962+09:00"
   },
   {
+    "title": "ビットコイン、史上初の「ハッシュレート弱気相場」に＝Twenty One Capital CEO(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEhiVzJXUEJQUVFHMGN0OHhoWDdKbTNZU3dYbzM0Ykp3LTlMejJLQURtdmhZdTNuZi1Nak9RMlNwRVJ3UGx4T0ZjN21oam03UnpzVENCQm83a0wycTdpNnFBUnJmMXBrLWFpZEt2c0lYeEpYdklRRjN2N0g5R2wyWnZBWnM0bEk?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-09-04T07:30:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
+  },
+  {
     "title": "映画史に残るボンドカーを1/18スケールで。AUTOart「007／ゴールドフィンガー」アストンマーチン DB5をCAMSHOPで販売開始！",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQYnp5YkxUY0FueHREUklYZEZjUjBySE5rcmRMakpZcm1zdURrRWU0ZzdKaDRfSGQ4OWg3aTdjT3BISWZ0WE1OZWpwVVQzZy02Zm5wbEU4WmhzS1hjbDVsU1k2U3BreXF3eGc?oc=5",
     "source": "PR TIMES",
@@ -406,6 +982,14 @@
     "instrument": "ゴールド",
     "published": "2026-09-04T07:15:18+09:00",
     "first_seen": "2026-09-04T07:52:45.609962+09:00"
+  },
+  {
+    "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年9月4日",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FNHJuTWN1TWRlb3pta2ZKeWVnTURpd0c0MFA1clhUUGZWa0VLcUVsNGNkUW1PbDJVMUdYbnRPOHV0MHFWZWRkdjBJSFdfUWdWODFzVDJkWUZ0UTd5Qmlvb0dzVQ?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-09-04T07:07:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
   },
   {
     "title": "新NISA「9割脱落」は本当なのか？…長期投資を辞めてしまう人の「6つの共通点」【FPが解説】",
@@ -894,6 +1478,14 @@
     "instrument": "ドル円",
     "published": "2026-09-03T20:03:00+09:00",
     "first_seen": "2026-09-04T10:50:58.475655+09:00"
+  },
+  {
+    "title": "ウォラー氏のハト派シグナルが市場を刺激、ビットコインは5％超急騰、金は4,500ドル突破",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd0UtMjI5cFNmS0tHX2JXdUlIUmtKVS1xbTZqc19KTXU3X3NpWHB5UUtnYmt5dFd4WmRpcGhtVkYxaDFZRUxrT2JGR0hqdHFGdlFNWUJjZ1ItaHFJQjFVWTdkN0dRTk4zSnpVUGZtblhxUlBuVnVRdU1PR19JWUpZM1Y4TVRfanRUUm9wcm1LazZDX2NfVWlHekMwNTdxMDVtN0U4VmRnWUU5VUtLRnR2RzR1TjFaanZHTG5PSGhDbHlLVkZ5dzZNOVFqNFdFQQ?oc=5",
+    "source": "TradingKey",
+    "instrument": "BTC",
+    "published": "2026-09-03T20:02:00+09:00",
+    "first_seen": "2026-09-04T16:30:01.822632+09:00"
   },
   {
     "title": "欧州為替：ドル・円は下げ一服、戻りは限定的 執筆： Fisco",
