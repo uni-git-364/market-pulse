@@ -170,6 +170,23 @@ CSS = """
     .nav { margin: 8px 0 0; }
     .nav a { color: var(--accent); text-decoration: none; font-size: 0.85rem; font-weight: 600; }
 
+    /* 表紙に置く最新記事の要点（表紙を外部リンク集だけにしないための独自コンテンツ） */
+    .highlight {
+      background: var(--card-bg); border: 1px solid var(--border);
+      border-radius: 12px; padding: 15px 16px 11px; margin: 14px 0 2px;
+    }
+    .hl-head { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; font-size: 0.72rem; }
+    .hl-label { font-weight: 700; color: var(--accent); }
+    .hl-head time { color: var(--muted); }
+    .hl-title { font-size: 1rem; line-height: 1.5; margin: 0 0 8px; }
+    .hl-title a { color: var(--text); text-decoration: none; }
+    .hl-title a:hover { color: var(--accent); }
+    .hl-lead { font-size: 0.85rem; color: var(--muted); line-height: 1.75; margin: 0 0 10px; }
+    .hl-points { margin: 0; padding-left: 1.15em; font-size: 0.85rem; line-height: 1.75; }
+    .hl-points li { margin: 3px 0; }
+    .hl-more { margin: 10px 0 0; text-align: right; }
+    .hl-more a { color: var(--accent); text-decoration: none; font-size: 0.82rem; font-weight: 600; }
+
     /* タブ：CSSのみで切替（ラジオボタン方式・JS不使用） */
     .tab-radio { display: none; }
     .tablist {
@@ -283,6 +300,7 @@ $css
 <p class="updated">最終更新：$updated（JST）</p>
 <p class="nav"><a href="blog.html">📝 相場観ブログ</a> ・ <a href="archive.html">📁 アーカイブ</a></p>
 </header>
+$highlight
 <div class="tabs">
 $radios<nav class="tablist">
 $labels</nav>
@@ -311,8 +329,10 @@ def card_html(it: dict, now: datetime) -> str:
     )
 
 
-def render_html(data: dict[str, list[dict]], updated_at: datetime) -> str:
-    """取得結果から index.html を組み立てる。"""
+def render_html(
+    data: dict[str, list[dict]], updated_at: datetime, highlight: str = ""
+) -> str:
+    """取得結果から index.html を組み立てる。highlight は最新記事の要点ブロック。"""
     names = list(data.keys())
 
     radios = "".join(
@@ -350,6 +370,7 @@ def render_html(data: dict[str, list[dict]], updated_at: datetime) -> str:
         head_meta=HEAD_META,
         css=CSS + "\n" + tab_css,
         updated=updated_at.strftime("%Y-%m-%d %H:%M"),
+        highlight=highlight,
         radios=radios,
         labels=labels,
         panels=panels,
@@ -459,9 +480,19 @@ def main() -> None:
     added, archived = update_archive(data, now)
     print(f"アーカイブ: +{added} 件（累計 {archived} 件）")
 
+    # 表紙の冒頭に載せる最新記事の要点。表紙が外部リンク集だけになるのを避ける。
+    # 記事の不備や markdown 未導入でニュース更新を止めないよう、失敗しても空で続ける。
+    highlight = ""
+    try:
+        import blog
+
+        highlight = blog.latest_highlight_html()
+    except Exception as exc:  # noqa: BLE001
+        print(f"表紙の記事要約をスキップしました: {exc}", file=sys.stderr)
+
     # 表紙は各銘柄の上位 MAX_ITEMS 件のみ
     front = {name: items[:MAX_ITEMS] for name, items in data.items()}
-    html_text = render_html(front, now)
+    html_text = render_html(front, now, highlight)
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(html_text, encoding="utf-8")

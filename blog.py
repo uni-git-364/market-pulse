@@ -192,9 +192,80 @@ def parse_post(path: Path) -> dict:
         "tag": meta.get("tag", meta.get("instrument", "")),
         "date": meta.get("date", ""),
         "slug": path.stem,
+        "body": body,
         "body_html": body_html,
         "excerpt": text[:100],
     }
+
+
+def _inline_md(text: str) -> str:
+    """箇条書き1行分の簡易インライン変換。**太字** だけ対応し、他はエスケープする。"""
+    return re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", html.escape(text))
+
+
+def _extract_highlight(body: str) -> tuple[str, list[str]]:
+    """本文から「リード文」と「まとめ見出しの箇条書き」を取り出す。
+
+    記事は「リード文 → ## 今日の3行まとめ → 箇条書き」の形で書かれている前提。
+    見出し名は記事により揺れるため、「まとめ」を含む最初の見出しを拾う。
+    """
+    lead = ""
+    points: list[str] = []
+    in_summary = False
+    for line in body.strip().splitlines():
+        s = line.strip()
+        if s.startswith("#"):
+            if points:  # まとめを拾い終えて次の見出しに来たら打ち切る
+                break
+            in_summary = "まとめ" in s
+            continue
+        if not s:
+            continue
+        if in_summary:
+            # 箇条書き記号だけを外す（**太字** を削らないよう lstrip は使わない）
+            item = re.sub(r"^[-*+]\s+", "", s)
+            if item != s:
+                points.append(_inline_md(item))
+        elif not lead and not s.startswith(("---", ">", "|", "!")):
+            lead = html.escape(s if len(s) <= 160 else s[:160] + "…")
+    return lead, points[:3]
+
+
+def latest_highlight_html() -> str:
+    """最新記事の要点を、表紙（index.html）に置くHTMLとして返す。
+
+    表紙が外部ニュースへのリンク集だけにならないよう、独自の文章を1ブロック載せる狙い。
+    記事が無ければ空文字を返し、呼び出し側では何も表示しない。
+    """
+    if not POSTS_DIR.exists():
+        return ""
+    posts = [parse_post(p) for p in sorted(POSTS_DIR.glob("*.md"))]
+    if not posts:
+        return ""
+    posts.sort(key=lambda x: (x["date"], x["slug"]), reverse=True)
+    latest = posts[0]
+
+    lead, points = _extract_highlight(latest["body"])
+    if not lead and not points:
+        return ""
+
+    parts = [
+        '<section class="highlight">',
+        '<div class="hl-head"><span class="hl-label">📝 相場観ブログ</span>'
+        "<time>%s</time></div>" % html.escape(latest["date"]),
+        '<h2 class="hl-title"><a href="blog/%s.html">%s</a></h2>'
+        % (html.escape(latest["slug"]), html.escape(latest["title"])),
+    ]
+    if lead:
+        parts.append('<p class="hl-lead">%s</p>' % lead)
+    if points:
+        parts.append(
+            '<ul class="hl-points">%s</ul>'
+            % "".join("<li>%s</li>" % p for p in points)
+        )
+    parts.append('<p class="hl-more"><a href="blog.html">記事の続きを読む →</a></p>')
+    parts.append("</section>")
+    return "\n".join(parts)
 
 
 def _href(post: dict, from_root: bool) -> str:
