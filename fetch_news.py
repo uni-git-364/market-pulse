@@ -350,7 +350,7 @@ $css
 <header>
 <h1>ドル円・ゴールド・BTC ニュースまとめ</h1>
 <p class="updated">最終更新：$updated（JST）</p>
-<p class="nav"><a href="blog.html">📝 相場観ブログ</a> ・ <a href="archive.html">📁 アーカイブ</a></p>
+<p class="nav"><a href="blog.html">📝 相場観ブログ</a> ・ <a href="archive.html">🔍 検索</a> ・ <a href="archive/index.html">🗓 月別アーカイブ</a></p>
 </header>
 $highlight
 <div class="tabs">
@@ -561,7 +561,17 @@ def main() -> None:
     except Exception as exc:  # noqa: BLE001
         print(f"ブログ生成をスキップしました: {exc}", file=sys.stderr)
 
-    write_sitemap(now, blog_urls)
+    # 月別アーカイブ（docs/archive/<YYYY-MM>.html）。ここも失敗しても続行する。
+    monthly_urls: list[str] = []
+    try:
+        import monthly
+
+        monthly_urls = monthly.build_monthly(now)
+        print(f"月別アーカイブ: {len(monthly_urls)} ページ生成")
+    except Exception as exc:  # noqa: BLE001
+        print(f"月別アーカイブの生成をスキップしました: {exc}", file=sys.stderr)
+
+    write_sitemap(now, blog_urls + monthly_urls)
     print(f"生成しました → {SITEMAP_PATH}")
 
 
