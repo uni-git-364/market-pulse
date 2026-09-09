@@ -26,9 +26,42 @@ import feedparser
 # ---- ここを編集すれば銘柄・検索クエリを変えられます ----
 QUERIES: dict[str, str] = {
     "ドル円": "ドル円 OR USDJPY 為替",
-    "ゴールド": "金価格 OR ゴールド OR XAU",
+    # 裸の「ゴールド」は商品名・スポンサー名・競馬などに際限なくマッチするため使わない。
+    # 相場語と結びついた表現だけを拾う。
+    "ゴールド": "金価格 OR 金相場 OR 金先物 OR NY金 OR XAU",
     "BTC": "ビットコイン OR BTC 価格",
 }
+
+# --- ノイズ除去 ---------------------------------------------------------
+# 「ゴールド」などは一般語と重なるため、競馬・クレジットカード・商品名といった
+# 相場と無関係な記事が大量に混ざる。出典とタイトルの両面で落とす。
+
+# 出典で除外（相場記事を出さない媒体なので無条件に落とす）
+NOISE_SOURCES = (
+    ".vn",          # ベトナム現地の金価格（SJC金・ドン建て）。日本の読者向けではない
+    "voi.id",       # インドネシア現地の金価格（ルピア建て）
+    "biggo",        # 価格比較・ショッピング
+    "snkrdunk",     # スニーカー売買
+    "pr times",     # 商品プレスリリース
+)
+
+# タイトルで除外。ただし MARKET_WORDS を含むものは相場記事とみなし救済する
+# （例：「ゴールドマン・サックスは4,900ドル/オンス到達を予測」は残す）
+NOISE_WORDS = (
+    "ゴールドマン",                                    # 企業名。金相場の話なら救済される
+    "ゴールドシップ", "ゴールドカード", "ゴールドジム",
+    "競馬", "凱旋門", "馬券", "ジョッキー", "ウマ娘",
+    "サンリオ", "ポムポムプリン", "セブンプレミアム",
+    "ベトナムドン", "SJC",
+)
+
+# 相場記事だと判断するための語（NOISE_WORDS からの救済条件）
+MARKET_WORDS = (
+    "金価格", "金相場", "金先物", "金市場", "金塊", "純金", "貴金属", "金ETF",
+    "オンス", "XAU",
+    "ドル円", "為替", "円相場", "日銀", "FRB", "FOMC", "利上げ", "利下げ",
+    "ビットコイン", "仮想通貨", "暗号資産",
+)
 
 MAX_ITEMS = 10                       # 表紙（index.html）に銘柄ごとに表示する件数
 ARCHIVE_FETCH = 50                   # アーカイブ用に1銘柄あたり拾う最大件数（取りこぼし対策）
@@ -89,8 +122,25 @@ def clean_title(entry) -> str:
     return title or "(無題)"
 
 
+def is_relevant(item: dict) -> bool:
+    """相場ニュースとして表示してよい記事か判定する。
+
+    キーワード検索の性質上、競馬（ゴールドシップ）やクレジットカード、商品名など
+    銘柄名だけが一致した記事が混ざる。それらを落とすためのフィルタ。
+    """
+    source = (item.get("source") or "").lower()
+    if any(bad in source for bad in NOISE_SOURCES):
+        return False
+
+    title = item.get("title") or ""
+    if any(word in title for word in NOISE_WORDS):
+        # 相場の話をしているなら残す（企業名が出てくるだけの相場記事を守る）
+        return any(word in title for word in MARKET_WORDS)
+    return True
+
+
 def fetch_items(query: str, limit: int) -> list[dict]:
-    """1銘柄分のニュースを取得して、新しい順に limit 件返す。"""
+    """1銘柄分のニュースを取得し、ノイズを除いて新しい順に limit 件返す。"""
     feed = feedparser.parse(build_rss_url(query))
     items: list[dict] = []
     for entry in feed.entries:
@@ -102,6 +152,8 @@ def fetch_items(query: str, limit: int) -> list[dict]:
                 "published": to_jst(entry.get("published_parsed")),
             }
         )
+    # 件数を絞る前にノイズを落とす（後で絞ると良い記事を取りこぼすため）
+    items = [it for it in items if is_relevant(it)]
     # 新しい順に並べる（日時不明は末尾へ）
     oldest = datetime.min.replace(tzinfo=JST)
     items.sort(key=lambda x: x["published"] or oldest, reverse=True)
