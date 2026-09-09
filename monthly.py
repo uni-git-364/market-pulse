@@ -99,6 +99,7 @@ CSS = """
   .disclaimer { color: var(--muted); font-size: 0.76rem; line-height: 1.7;
                 border-top: 1px solid var(--border); margin-top: 24px; padding: 14px 4px 0; }
   footer { color: var(--muted); font-size: 0.75rem; text-align: center; padding: 18px 8px 0; }
+  footer a { color: var(--accent); text-decoration: none; }
 """
 
 PAGE = Template(
@@ -136,7 +137,7 @@ $css
 </header>
 $body
 <p class="disclaimer">$disclaimer</p>
-<footer>最終更新：$updated（JST）</footer>
+<footer>最終更新：$updated（JST）<br><a href="${site}about.html">このサイトについて・免責事項</a></footer>
 </div>
 </body>
 </html>

@@ -283,6 +283,7 @@ CSS = """
       color: var(--muted); font-size: 0.76rem;
       text-align: center; padding: 26px 10px 0; line-height: 1.6;
     }
+    footer a { color: var(--accent); text-decoration: none; }
 """
 
 def _build_head_meta() -> str:
@@ -357,7 +358,7 @@ $highlight
 $radios<nav class="tablist">
 $labels</nav>
 $panels</div>
-<footer>$disclaimer</footer>
+<footer>$disclaimer<br><a href="about.html">このサイトについて・免責事項</a></footer>
 </div>
 </body>
 </html>
@@ -487,6 +488,7 @@ def write_sitemap(now: datetime, blog_urls: list[str] | None = None) -> None:
     pages = [
         (SITE_URL, "hourly", "1.0"),
         (SITE_URL + "archive.html", "daily", "0.7"),
+        (SITE_URL + "about.html", "monthly", "0.5"),
     ]
     for rel in blog_urls or []:
         pages.append((SITE_URL + rel, "weekly", "0.8" if rel == "blog.html" else "0.6"))
