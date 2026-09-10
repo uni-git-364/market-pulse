@@ -1,5 +1,37 @@
 [
   {
+    "title": "ドル円は１５４．３５円付近＝ＮＹ為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wR1NrTHVJelNJWFhJNG5ISEZGTnFibEYteHBrXy1XQ3k5YVU4dEFRZmU0VTM5WEx6U3p2ZXhzdVBiMTh1SzBQeA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-09-11T04:58:57+09:00",
+    "first_seen": "2026-09-11T05:18:01.589903+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況･4時 ドル円、もみ合い｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PTWMzbUNHOVljTjkyYXVWRXk0aXF0cFRZMGxmUDk2blBYaDhyVGpXcHZDaHhJLTB5VExsVF9wLTYxa3ZNdlJkbF9KSE5nYUp4anc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-11T04:08:00+09:00",
+    "first_seen": "2026-09-11T05:18:01.589903+09:00"
+  },
+  {
+    "title": "金は１．２０％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rUmVKNE5wZjJDamNCcmI5cUctbTJ3c3NZTXNHX1V6VDdOSTRiYlFQYkM4bHVEOTRObGRHLU91emdtX0gxTlZfN0d6TkpEaHc0TlE?oc=5",
+    "source": "株探",
+    "instrument": "ゴールド",
+    "published": "2026-09-11T02:58:00+09:00",
+    "first_seen": "2026-09-11T05:18:01.589903+09:00"
+  },
+  {
+    "title": "金は１．２０％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50M3Mzemw4eHExSVMyUUZhbWdxcGJNdTQ1YTZldkt4RV90dmJuZEVwRHRvU1FpTkNYd01DNkhiOGZtVHFhZEx6dg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-09-11T02:48:57+09:00",
+    "first_seen": "2026-09-11T05:18:01.589903+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況･2時 ドル円、底堅い(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjI0NjV6R3RuS1I0ai1EeHkyNlloZ293UkdsRGRWalBxZlJEbldyYm83S0F0ZlViRnBGNGtpWDBYdFIzU2NIZG5KV25hTEdqdldsS0d0WDZNRHd4UGI4eDBqTzU1NkdtdTF4cmN3V3hCQkJrbjluMGQtZkNKU0pINW02VnVnYnc?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -48,12 +80,28 @@
     "first_seen": "2026-09-11T02:56:41.658905+09:00"
   },
   {
+    "title": "欧州外国為替市場概況・22時 ドル円、強含み(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcjZpQTdQNzB1OFZZSXhtem55VHFwSXJLVGlMWHVTNDRweDZDcFdCSzFSZ1ZWRzZWaUxtWm1HSnNCalVyRjR1NlAxMTljcWcySjRlMXo5UlNVSUhkRjA3SUZxUlZXRUU5MlY4ZDRJV0MxV3pkRDZTS195WmdmOFZzZXQ0QkQwS2M?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-10T22:09:18+09:00",
+    "first_seen": "2026-09-11T05:18:01.589903+09:00"
+  },
+  {
     "title": "欧州外国為替市場概況・22時 ドル円、強含み｜FX・為替ニュース",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TTnI1R1VWQi1uOTRVd3VicWZ1NjhVdWtFYlFhZXJ4VElSZHlSX1hwN0FOYzRHeUc0SHlrOXhKZFdINk1GOXFKUGhKbkEzSmtBX0E?oc=5",
     "source": "ザイFX！",
     "instrument": "ドル円",
     "published": "2026-09-10T22:09:00+09:00",
     "first_seen": "2026-09-11T02:56:41.658905+09:00"
+  },
+  {
+    "title": "金は４４００ドルの節目下回って始まる＝ＮＹ金オープン",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56bUJHNkFySDN5MUljNks3YW1pZHZuclpfSFM3YTNsMmJSbHd6UklncUppcl9FZ0lxOVZvWEpENUtXTndSYVE?oc=5",
+    "source": "minkabu.jp",
+    "instrument": "ゴールド",
+    "published": "2026-09-10T21:55:00+09:00",
+    "first_seen": "2026-09-11T05:18:01.589903+09:00"
   },
   {
     "title": "ドル円のピボットは１５４．１３円付近＝ＮＹ為替",
@@ -206,6 +254,14 @@
     "instrument": "ドル円",
     "published": "2026-09-10T19:23:57+09:00",
     "first_seen": "2026-09-10T22:11:35.634235+09:00"
+  },
+  {
+    "title": "XRPはビットコインを時価総額で逆転し得る──シュワルツ氏、「1.49兆ドルの壁」を指摘",
+    "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxOTlpZOS14aVdiaHlJTVlQbkUxTjVFcXUwZkFHaTA1RTNER1VMc1ZESXhBUG9MQWM3TWEtS1B1UjFUcmJnc2ctT0p0cVRmN1hUTjJiX0tsTG9ja2VqVDhDUnZocjRZcUlHRWV3YzFyZzVvb0JESjZrSmFyVDRMUE81UTBZMGRoc0g4LXI0VGpIQ2ZOVGJzQTk4VmdHa0ZLSllLVnNjOGhDSjRnaURoWWFYQkNzaVE2dXpIaHRqSlRzRUwxMGx6WW4zWVFQRjRQNmlrQVBDTmh4czRmOUVsdXZtc3QtMkpHdFd5TjdDbnppT0ZXazVVdWxPS2x3a2toeGRva2E5WWpIcW0tU05IeDJ1OFlRU20zRGNldlBlUjRBVlhxWTZ5NGpsTUNJbnIwWUtCbWNaUWF0VVJtd1E5cWJ3Si1SN01LN3hId256OWhMQjNkLWNBNnE5dDBYeGtBN1BIeUlMaHR4UkhLclRuNjhBeXB6Ym5yRG4tY0tJN1Z4QWFZNmRMcHBhcVBCSEs3MGlzUmN3N1BxejdncHVkTHF4UFM2QUNVY3Zsc19nUTB5ZG5lWU0ySmxBN0VZYjRRVzhIMXRkc3Z5RHBKSG9FVHBLeEwxT3JwU08yU1liaWxObWZBcS1vREJLckhpWVAzUkR1ZktpQ1M5RGVLcVRMemFhaDhZV3c?oc=5",
+    "source": "Yellow.com",
+    "instrument": "BTC",
+    "published": "2026-09-10T19:18:12+09:00",
+    "first_seen": "2026-09-11T05:18:01.589903+09:00"
   },
   {
     "title": "なぜビットコインは売り圧力が減少しても8万ドルを維持できないのか",
