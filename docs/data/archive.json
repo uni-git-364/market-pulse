@@ -1,5 +1,21 @@
 [
   {
+    "title": "NY金終値 上下も、木曜日終値付近で引ける",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45eEl6MVJ0amFmUkVYc0VSZ3pPWi1FQ0pNeEVoQkVTVVdHdERrNTFJWWp2dFpOc0dmWjZrUk5VWS1GSW1yVkE?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ゴールド",
+    "published": "2026-09-12T04:11:00+09:00",
+    "first_seen": "2026-09-12T05:26:11.628895+09:00"
+  },
+  {
+    "title": "〔NY金〕ほぼ横ばい、4408．90ドル（11日）(時事通信)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2diaDhfU09NOXBEQmNVUW1Wdmd1bWlBZ0xTOFZDWFdzMk9sc3BWMzl4aWtzelhURFUzeHN3NU1hYm14TFowM0hReEcyV2IwUDd5eFZCTGJvdU9kSklmT2QyM2tDVXBoU0hQMU1tT2NHdmx5bEtDVGdJcjFhYjRXNXJiOEFpV0U?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-09-12T03:50:27+09:00",
+    "first_seen": "2026-09-12T05:26:11.628895+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況･2時 ドル円、小高い｜FX・為替ニュース",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MaUpzcWtxTzlvbEZZMjVBUU1JT0RBYzNHS2JPekhHV2NVV0dsSmVLdG4tV2xsU2FVazN6UDVoMjhOSnpCdkpiQmlOSzlRUnFLRUE?oc=5",
     "source": "ザイFX！",
@@ -14,6 +30,14 @@
     "instrument": "ドル円",
     "published": "2026-09-12T00:06:03+09:00",
     "first_seen": "2026-09-12T02:58:19.565525+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・24時 ドル円、売り一服｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CTElnWlpkVUpMYUNlOVlCYVF3TjY4c0ZTOW9ONFRGZkJpMjE0TU9FbU1GTHM3dkxRV3ZydVZjaUZIejl3RjRUMVJVVDd5dndQVkE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-12T00:06:00+09:00",
+    "first_seen": "2026-09-12T05:26:11.628895+09:00"
   },
   {
     "title": "ビットコインに調整圧力、機関投資家指標がマイナス転換",
@@ -272,6 +296,14 @@
     "first_seen": "2026-09-12T02:58:19.565525+09:00"
   },
   {
+    "title": "東京外国為替市場概況・17時 ドル円、下げ渋り(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1FsQjN5TmxoWkZqQktpdnFBcjIyRFF6OGFDbnJQQ2k5a3RZVGhhdi1VSjNuMTRTazByc0tRR25ISVc3UUZIM2JGbk1NTlVEX05HenpMSHlWYWtnaEtxUjNuS1pfanlaQ3BxUVZFYkVSbktVdkJrTlA2LXFTSUJYUXViV290WlU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-11T17:05:04+09:00",
+    "first_seen": "2026-09-12T05:26:11.628895+09:00"
+  },
+  {
     "title": "東京外国為替市場概況・17時 ドル円、下げ渋り｜FX・為替ニュース",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdW1FZWJnUmhneWRMbVRnbzV6NE9sQ2ZIWTNsVjhxU2g1S2pZV3hQbTNVaWdiR2QzS0cwTlRmM1haZzBVaXk2TzR3WXNqYTRzYlE?oc=5",
     "source": "zai.diamond.jp",
@@ -350,6 +382,14 @@
     "instrument": "ドル円",
     "published": "2026-09-11T15:32:00+09:00",
     "first_seen": "2026-09-11T16:33:49.021491+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は一時153円台、下値は堅い(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2ZfZEV3QU5BeDE1Z01oVkVPdEowcGp1WUZCUEFfdzg2MlpWRC1tY0pjYU5DVmxUSHBMYVBmN3lBY1RuM2pweDQ0QTJzV25hTTlISjVzMzB3Rl9TcXFpd2h5TEhIR2NsZElhUzBJdE4tS0NLRF9qVW9samtEZ3hMb2t5RVJiRm8?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-11T15:27:37+09:00",
+    "first_seen": "2026-09-12T05:26:11.628895+09:00"
   },
   {
     "title": "東京為替：ドル・円は一時153円台、下値は堅い 執筆： Fisco",
