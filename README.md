@@ -1,13 +1,18 @@
 # ドル円・ゴールド・BTC ニュースまとめサイト
 
+**🌐 公開サイト：https://uni-git-364.github.io/market-pulse/**
+
 通勤中に「今、何があったか」をサッと見られる、**ドル円・ゴールド・BTC に特化したニュースまとめサイト**。
-Google ニュースの無料 RSS から見出しを集め、静的な `docs/index.html` を生成して GitHub Pages で公開します。
+Google ニュースの無料 RSS から見出しを集め、GitHub Actions で3時間ごとに自動更新して GitHub Pages で公開しています。
+
+- [ニュースまとめ（トップ）](https://uni-git-364.github.io/market-pulse/)
+- [相場観ブログ](https://uni-git-364.github.io/market-pulse/blog.html)
+- [月別アーカイブ](https://uni-git-364.github.io/market-pulse/archive/index.html)
+- [このサイトについて](https://uni-git-364.github.io/market-pulse/about.html)
 
 > 本サイトは情報提供を目的としたものであり、投資助言ではありません。投資判断はご自身の責任で行ってください。
 
-詳細な方針・ロードマップは [`ROADMAP.md`](ROADMAP.md) と [`CLAUDE_CODE_BRIEF.md`](CLAUDE_CODE_BRIEF.md) を参照してください。
-
-現在の到達点：**Phase 1（最小版 / MVP）** — ニュース取得 → HTML 生成まで。
+詳細な方針・ロードマップ・進捗は [`ROADMAP.md`](ROADMAP.md) と [`CLAUDE_CODE_BRIEF.md`](CLAUDE_CODE_BRIEF.md) を参照してください。
 
 ---
 
@@ -58,10 +63,13 @@ open docs/index.html
 ```python
 QUERIES = {
     "ドル円": "ドル円 OR USDJPY 為替",
-    "ゴールド": "金価格 OR ゴールド OR XAU",
+    "ゴールド": "金価格 OR 金相場 OR 金先物 OR NY金 OR XAU",
     "BTC": "ビットコイン OR BTC 価格",
 }
 ```
+
+「ゴールド」単体の語は商品名・スポンサー名・競走馬の名前などに広く一致してしまうため、クエリには使っていません。
+それでも混ざる無関係な記事は、同ファイルの `NOISE_SOURCES`（出典）と `NOISE_WORDS`（見出しの語）で除外しています。
 
 `MAX_ITEMS`（銘柄ごとの件数）も同ファイル上部で変更できます。
 
@@ -74,8 +82,8 @@ QUERIES = {
 3. **Branch** を `main`、フォルダを `/docs` に設定して **Save**
 4. 数十秒〜数分後、表示される URL（`https://<ユーザー名>.github.io/<リポジトリ名>/`）でサイトが公開される
 
-> `docs/index.html` を更新してコミット＆プッシュするたびに、公開ページも更新されます。
-> 3時間ごとの自動更新は Phase 2（GitHub Actions）で追加します。
+> `docs/` を更新してコミット＆プッシュするたびに、公開ページも更新されます。
+> 通常は GitHub Actions（`.github/workflows/update.yml`）が3時間ごとに自動で生成・コミットします。
 
 ---
 
