@@ -1,5 +1,157 @@
 [
   {
+    "title": "東京為替：ドル・円は小高い、ドル買い基調で",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yWm13NXBQTFg3T3Q3M1lVb2F0ZkRaNXlwVlhIQ01sNnVhWkxkc1hKc0VybldIUksydWRxVnlINTJBaU5mbk9BTkRVeG9kcDkyanc?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-09-22T11:04:03+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は高値圏、円売り継続(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3h1TW5CTkRXZks5bW1FNGlweFVlYlFkNzVRMHEwYmpjRDk2Y1R2bVFGZFlTdVR3cXB2ZEpoWjhHdjJaTGM0eWw5NXZnN0hmR3hlNkhZZ2xmQllEWVZwU3M5UDF2b2RDUlNkdklKeGxQZnJtQXRzZ2tXdkU4SVRPbk8yaUJvU00?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-22T10:25:40+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は高値圏、円売り継続 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15N1drMW9BZkxRc0p0RlpWYUtIM1pvemFUUFBKTUhhYnhOd2VKVC1KeDVrMk9fYUs3SG9LcFk4X1FTck1tZG13aHRaYXhUdDNoekwxTkZ0WWM1VjJXNG1lNHp3YWtUVE0?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-22T10:25:00+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "金価格上昇、原油安がインフレ懸念を緩和しトランプ氏がイラン協議を示唆 執筆",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12bGlDWHEtVloyYVRRVDRNOV9OZldDV1h6UUU1d0JqWkZyTWFmdWxkMThzRk9JTXplNTVpYjA2N1Zob240TE8wSkxndzkxMTFkLVZxa2FNemZQVFM1OHJiTTZtQUoySW92WTlCUnBNYw?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-09-22T10:24:00+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "ビットコイン反発でもマイニング収益は小幅改善 難易度上昇が重荷",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1FZWk1XbDJya0NzV21aWjdtVGd3dDU0M2ktSDZEbV8xeDZycVpqaktOZzlMR3hVTEw4OFNBQUVhclVLVmkwM2RXaGxRNHZhOEhpZEtTMTBRdmtrNGhoeEpQalNuV05WbktCbWtJa1ZKWEZZajVhQmU2WndERkp3WXdneE9JaXBiM2pXMDkzeUFfYTBsbFlRYllqRm9TZGFkLWEzb1Z5aw?oc=5",
+    "source": "digitaltoday.co.kr",
+    "instrument": "BTC",
+    "published": "2026-09-22T10:11:07+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・10時 ドル円、値動き限定的(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1hhajQtaXQzYmIza0FBYXdfNE1oaU9kbHpTRi1VRVB0elVJbmpINmJyU0djZlJKVUZDcUtQajhQbk9wc0dZSm9oRWtCTVBibUh6TjRFRHp6ODhtTkdSbVJpc2lSMEd0MFFJQm1qNTJGS1M2YkN5WUFDV0R5LWpRR09rZ2dwRVU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-22T10:07:48+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "ビットコイン、今後4年で45.7万ドルも パワーローモデルが強気シナリオ",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGFiN0lXTGxJYk41QmVqMUtrVjViNnVORm9MbjZoMFlVVy1DaGp5ZjFXc29FQThEaVI1S2dYSEN5NUNmZWFLNzNYbnJBNXFTdjcwYndpcVNqVU9yOEVMdHpVQ3JqV2tmUjF6RTV5WHlvNVJtcjFRTWxGc2N6c1dTSjJydTRYSVM5bFBKSmliWHR1c1VxTHRwUl9jb3MyRFBMRlJBNmRTcnk?oc=5",
+    "source": "digitaltoday.co.kr",
+    "instrument": "BTC",
+    "published": "2026-09-22T10:06:40+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は小動き、全般的に動意薄(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUVFb0NlZU5zNUEzQ01yTkMzQjNNT2xLWlg4bUZrYVRUM2FxM1VWaVI5QjJaZGhwdTVTeGJ5NjVlSHFYWkxQZXRfX3ZUcnp6NlVJeHJiU0U1eG8zTWFfdGtwLUVYRzZ5VEI3dnIwa3RyRGZybk4zVkRqVU83TGNndDhuZy01MXc?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-22T09:41:27+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "ビットコインの価格が約8ヵ月ぶりに8万5000ドル台を超えた。 最近5日間で7%以上上昇し反騰を続け、今年中に続いた「仮想通貨冬」から抜け出すことができるか関心が集まっている。21日（現地時間）、米仮..",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Z2xwcTRqcUU1cW5admYxSDg0bUpKN0E3ZFNTTTZCQ1RETHphcnpOWlpuVW8xdzN6dGg2U1FfcGg1dmlBOWEyeFloY053Mnc?oc=5",
+    "source": "매일경제",
+    "instrument": "BTC",
+    "published": "2026-09-22T09:35:15+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は底堅い、原油・米金利にらみ",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PdHZ5ckpsMEhXV0hhY1VBY1VWM2FxS0dPa0t5dTMyWGpSWDZ5aHI2TlFyZFpWdFpQdVNoUnZ4SnpqNkoxV1JV?oc=5",
+    "source": "マネーポストWEB",
+    "instrument": "ドル円",
+    "published": "2026-09-22T09:14:56+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は底堅い、原油・米金利にらみ 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVTVPV3dQSHd0eTNiWVBZQTFOclFUaGl0LTF0dnJnVkVpV252bUV5UVc0TEhya0pRUG1sM0dVRWFLZU0tZk45SUc1b3dUeFU0MzVMeHA0WENoTGYzRmJ1NFVBeUduaXc?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-22T09:14:00+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "Strategy、ビットコイン買い増し再開 950BTC追加で保有残高84万6000BTC",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzJnbndkanhVLUNvaXplV3ZnWFpUcUxlWE1VczRJMWVXNlVxb0JTekxUMDlPSjFsOFBYVVFoU0tScjA0cFFhVjRQWGJlT2JRN2htS3VVWmktaHVUc0h5Z09mOU5DcWlQeTJxNDlMM1JTRU9VYmd4emJEc2pxblptdmhpYnVlMUpFeWFuOFEwZzNKRDc5Sk12TWNfd3FKTVIyWFpaTTBMb3FKUEtDWjBYenp6RXBHY2E3OGc?oc=5",
+    "source": "digitaltoday.co.kr",
+    "instrument": "BTC",
+    "published": "2026-09-22T09:08:50+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "BTCが8万5,000ドルを突破、マイクロストラテジー（MSTR.US）とStrive（ASST.US）が1億8,300万ドルを追加投資",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQThqdnlMYll6b0x3MDF2NG50UUVzeUhuNEluSHhPSU9RUDB1c0tGR01POG9NSjlvNGM4VUdKRFNXN2dMdDBrRFAxaTM1LXVqNUFwdFpLYnRWOGxpdDkxMzZkUHpCSkU2U09La2VnRjFOR2MwQ1FKSGUwMUVTcm15Z2k0V1JQSjBtS2RPUGZrWmRWbWJ6c3lCWWx4aXJMaW53Yk5tdjBETUI0TzkwS2d4TGF3?oc=5",
+    "source": "Moomoo",
+    "instrument": "BTC",
+    "published": "2026-09-22T08:56:50+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "BitfinexのBTC無期限先物、一時15万ドル台に急騰 板の薄さで乖離拡大",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVJaQzJQUWJObUNpZkRpNnFpOEFBZDcwbXktd3JJVkJ5aFZ6X1NGX0VFSTlHbmU3TlA2VTZyQXRodGNFeDBmdVFsX3ZQZl9mTkI3MDZCVjJLWEM5eGp5VzNMSU12LTAxNDFnSjlneXNodGpCbG1WZnZHZFIwcjNub3BsRmVsQ2tLTmw0bDZ3T3pXU3JVQzZfOVItY0ZyUzBtRXFtYUhQS3E5X3M?oc=5",
+    "source": "digitaltoday.co.kr",
+    "instrument": "BTC",
+    "published": "2026-09-22T08:52:36+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "金取引アラート：FRBのタカ派姿勢が金価格を抑制する一方、原油安が反発を誘発。買い増しか、それとも様子見か？",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTF6aHl5WHdsNmNyODZ6M3ptUHdMUjJGVmxRNms1a1pYb1dQYjM1a1VuNkxyQnc5amtMM0hydGVjaEF4YmEzbHFkTEN0RDlQN18zbGREbl95bzZsSHFRTHhORE1CUXVEajZ4M0h5Z0FxbmRaWVcyWllqRXVhMl95Szl5ZVNjZmxBcGZGZVlERG1LWUVXRjVCeEZoNWdRQmRIR05ndXZOYnU3cUU?oc=5",
+    "source": "Moomoo",
+    "instrument": "ゴールド",
+    "published": "2026-09-22T08:45:34+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "豪ドル円、112円を挟んでのもみ合い｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRWNOb01kYXI2aWpralkxRFRIRk92TTYzT1lISEVYLXNtX1FNOUo2Qk5JaG9oWmU0QzFSZmtIOV8wal9OZnk5LUZZUy01Zkh1ZHc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-22T08:45:00+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "Daily Focus：（NY金）4日ぶり反落、地政学リスク後退でリスク回避和らぐ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lUW9WU1FteDRzVDRXZEFWWlYxWXpkbzR3LWpyaU1OaGtjNjAxcmFqNWVFdGlBNk5sVDN1RGNQbU14ajRURHZKMlpRVE4tTDNDZzRfbmJyYw?oc=5",
+    "source": "Moomoo",
+    "instrument": "ゴールド",
+    "published": "2026-09-22T08:34:16+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "ビットコイン、8万6000ドル台回復 現物ETF投資家が含み益圏に",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPemlKWkxIZkdkcXoxOE8teVFTSGpNdWNlVWdWZnFBeW5yelY1TTBjTnFwaWZkbnZFck1seUFWdGZUaTBqNUVIakxDWS16aVB0c0VNTkU3MVhzYnljaWtTZzNpdUNBc09mX1FaNno0NFNReE9mNklfc2VSU0pLM3FWOEJHejl0dHlzN2RpWHhJQTQ4UWFEeXJ3VElLUVRIT0htTFV1eUx2TVlfWUlCbGJISUI3Y3UzY0I0aENydzdfbGU?oc=5",
+    "source": "digitaltoday.co.kr",
+    "instrument": "BTC",
+    "published": "2026-09-22T08:31:24+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・8時 ドル円、小動き(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXl0dkRwZmFIa3B5R1hDZkRLOFVNUzNPczRWY2U4RG9Ua0tDanhVUkVMYWs4SDhWUERmNzh5R3hFRWdvNHI3WV9PZmJnd29XSjc0Ulo2OW5QdEQ1N3RSMUg3WEpDTjZmQ3FtVnA0akE1dmt1UC10czMzT3daeU1obWdGdmtWOTA?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-09-22T08:09:04+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
+  },
+  {
     "title": "反落、ドル堅調推移でリスク回避の動きが優勢＝NY金概況",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2MWs0RENIX3FBUjBSVlQyZnBRWE5qM09XQ2JxaHJCczAtTzM3VjQ3TzgzTHNiMFl4MktLNF82T1NsMnpHTG1Rbw?oc=5",
     "source": "みんかぶ FX/為替",
@@ -46,6 +198,14 @@
     "instrument": "ドル円",
     "published": "2026-09-22T06:03:04+09:00",
     "first_seen": "2026-09-22T06:20:55.996128+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・21日 ドル円、続伸｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrOTZYajktT21hVmc5RV9sWE82UFZvZTZnSDYtYWhOeTQ4SUlQaUcxMi14a3U5TzFrcHpuZHgyTUdDSkg2aVgxMlJlZ1drMXl6QlE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-22T06:03:00+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
   },
   {
     "title": "ビットコイン一時8%急騰、8万7000ドル台 米当局の規制整備に期待",
@@ -110,6 +270,14 @@
     "instrument": "BTC",
     "published": "2026-09-21T23:58:13+09:00",
     "first_seen": "2026-09-22T00:26:40.256636+09:00"
+  },
+  {
+    "title": "ドル円、強含み 一時157.44円まで上昇｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yYXVKWmV2eWpkWFM4dHRMY0VfMmVzejZxQ0VGS0VDQTFweGFmSG9RRFJyQ2FQc05LR1oyNGlnVUxTX2hBUXBuS1JaWWdLTzFZREE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-09-21T22:56:00+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
   },
   {
     "title": "ストラテジー、2週間ぶりに950ビットコイン購入 再加速なるか",
@@ -326,6 +494,14 @@
     "instrument": "ドル円",
     "published": "2026-09-21T17:37:57+09:00",
     "first_seen": "2026-09-22T00:26:40.256636+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は切り返し、夕方は小じっかり 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LNHNRc290ZWg2d3RKOG1kRlVmSUdVOWFyXzZKYmJ3YVlXTjBJT0ZSZ3ZkZTBkMGRSYVhYelpsRkZfSm1sT1N4X2p0VlIxNEFyeDFfUDlaZGJrS2RHTEdCQWRmYjFHUWs?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-09-21T17:30:00+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
   },
   {
     "title": "ビットコイン、2030年に30万〜40万ドルも｜コインベースCEOが強気見通し",
@@ -566,6 +742,14 @@
     "instrument": "BTC",
     "published": "2026-09-21T13:03:43+09:00",
     "first_seen": "2026-09-22T00:26:40.256636+09:00"
+  },
+  {
+    "title": "【ドル円見通し】円売り再開か、介入警戒で上値抑制か 156円台から仕切り直し（予想レンジ155.00〜158.00円） FX分析 2026年9月21日",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zaEtOaUNWOWtGRzlfOHNtTVZYX3l4SUY5THVZVjJKdVZoYVZBNE4yc085OTZVS0tqZS1yNGJHME9wZUdWSnB0aUxWc1M1NU9IZU9DX0J3aDhwWFpSUFNUblFFdw?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-09-21T13:02:47+09:00",
+    "first_seen": "2026-09-22T11:17:04.604449+09:00"
   },
   {
     "title": "ビットコインの価格は、過去に大規模なブルランを先導してきた重要なハードルをクリアしました",
