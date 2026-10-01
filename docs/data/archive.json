@@ -1,5 +1,85 @@
 [
   {
+    "title": "１日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53N3l3ZWxpOEthaEtGQ3RVVkYxZFhDbzJkS0FYeFFsejNSdnRNWU5ydUNwUzE2b3E1TGJPWDFGaXBfVGFoeDRPRg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-02T06:20:29+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "シティ、ビットコイン価格目標を11.3万ドルへ上方修正──今後12カ月の見通し(CoinPost)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYzNDOW9TYkJjbzdwSjVpMEVpdmgxZG9heV9SZTNSZTc3Q3BBNE5zajI2X3hwQzRLdGxsYm1xSVM5QWV3RHd0bHJ3Ui03N0FhbTJxc1N0eWt5Q1dRdVdURjhIdmZwclM0ci1LNmxCUllQWVRNdWplU0VNczZsMWdVTzFFR0UzeGM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-10-02T06:18:31+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "「クラリティ法案否決」「半減期」でビットコインは売りか買いか？（デイリー新潮）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpaDdvMER3d2duYU8wcnZSTF9zTUgxeFhmME9KdThfdHB6bHZRTmJnRW9yQ0NCd25FRGxYQXFFSS1vcFJrMGdjdGFDTnc0WTJkWFg4MlNDT1pvaGs0R1ctb2NBMFI2VEY2NGo4ZTItTEFReWhvc25RZHAwRFZXc0E?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "BTC",
+    "published": "2026-10-02T06:10:12+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・1日 ドル円、続伸｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UR0hMZlFhazZvNGZBSWNvQjRVUk5TN3lTdG8weTl3Wk9CT0hIS295ZWpjSk5zQkc3WHVfOXBMVEpVUnliOU11eGR6V2VSOW5IeWc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-10-02T06:03:00+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "ドル円、１５８円台回復 ２００日線の回復を試す展開も＝ＮＹ為替概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZTGdqYnNiTFd1dnM1LUEzd2o3TmR4Sllpcl9NbUpmeGNDUTVlb2ppNE9uY0U1SjJISDAwYnVtbmpqNHhqRVhNcA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-02T05:40:29+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "続伸、米国債の利回り低下などが支援＝ＮＹ金概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtWG1IMm1ZWTdIX3BlRWdxbU5vczdIQWFQMVRRbEZJbXZJSmpsZDJVYUNaRGRtQ2RFRU16LUhvUXRzYjcySm90UQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-02T05:23:29+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "【金価格】年初来高値から2割超下落、ゴールドは今からでもアリ？「積立・分散投資」を見直すタイミング",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWkluV1g0cFZoU0xoYmhmSkc1dUswWjBGLVBfVGpNakF4S2p3cUMtb0k1X2pKeVBGRXc0UjRsRHE2T3RzTllTRzNaVmE?oc=5",
+    "source": "LIMO | くらしとお金の経済メディア",
+    "instrument": "ゴールド",
+    "published": "2026-10-02T05:22:00+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況･4時 ドル円、堅調｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RTm1WVzNrZFlvUmdvWnVRYWpMY2FfQ3JySE43M0Y4UDFoZDVJdUdCcG9VaXVtWDM3OVEyaUZlaW95R3dCMmJPWjBCcnh2NzJBQkE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-10-02T04:03:00+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "金は０．３７％高＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jUktHOXdPbXdUYThSZ255MURMQ29WYmhqRzJWT3BIUjB5M0g1R3NRcmcwSEU1UG80NWV1aW5nY0Zyd2RwVk1HbndBQXRfQ2ZmbEc2blQ2VTU2WVpObEYwR1JR?oc=5",
+    "source": "株探",
+    "instrument": "ゴールド",
+    "published": "2026-10-02T03:02:00+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
+    "title": "金は０．３７％高＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vb0RHdTd1TGt5aHlLN0p5WHZ6RGpBcFhuaTR6bjZiMWNjQzJTUHBRZ3RYZ1Q3Q3ZEaWlsRVRGZjdSN0lGdUt1Yw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-02T02:53:29+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
     "title": "Bitcoin (BTCUSD) は10月1日に突然上昇 1.29%：何がこの動きを引き起こしているのか。",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTXNlVktCTWl2NTROTUlpb1pqV2VCLUlROTZlN2JHYlU1QUY3elBSN01Majh5S2RMdGFtU2hwWno4bWVqQ2ZGcjg1NXEyZmhqR0RHM1JaT3lUc3J1NlhRdlVfZm1FYWhBTFFVdFZWaDdIbEZDdXNiUUtXTngwX0daTmZKcFcxa1ZBaW1oNWFDUjVaZw?oc=5",
     "source": "TradingKey",
@@ -344,6 +424,14 @@
     "first_seen": "2026-10-02T02:39:50.918570+09:00"
   },
   {
+    "title": "東京為替：ドル・円は堅調、ドル買い・円売り(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEQ3OWR2V1BIWHFDRnZGdzBsU0hidnBZSV90UzZXdkRIejNBb0pUUnp3WGdaS3l3d2NNWG9qV29vZnUxamw3XzkzYXg1Ql9CLS1ybDEydjJrOWZwR1B3S1B6bGFiZzJfVU4zWHRLWTlvSHNJLUt6V3djdmU2d29aM0JmSHY0V2M?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-01T16:05:58+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
+  },
+  {
     "title": "【これからの見通し】きょうはドル高と円安の動き、この後の海外市場での継続性はどうか -",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wTGEyWnF2Q3ExalR6SkdRVHJSbTF6V0RyZk9HSFRHRFRuTlpGTFd4ekYyWXZSb21UNHUzR3RCcVE1aG5DRUdnTg?oc=5",
     "source": "みんかぶ FX/為替",
@@ -390,6 +478,14 @@
     "instrument": "ドル円",
     "published": "2026-10-01T15:00:12+09:00",
     "first_seen": "2026-10-01T18:42:26.572231+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は小高い、クロス円も追随",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yNlpsOTk4LV9vd2JFOXAwOUEtSmI0TEp2UURiWWdFNU1vVWZBSFBick03S3BNMFRHaUdhUWM1cjYzMzhVcVA4MzVGUQ?oc=5",
+    "source": "47NEWS",
+    "instrument": "ドル円",
+    "published": "2026-10-01T15:00:12+09:00",
+    "first_seen": "2026-10-02T07:05:32.976481+09:00"
   },
   {
     "title": "東京為替：ドル・円は小高い、クロス円も追随 執筆： Fisco",
