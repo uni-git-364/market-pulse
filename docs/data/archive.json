@@ -1,5 +1,77 @@
 [
   {
+    "title": "６日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55NmhiSXRYamRvbVlmanhVTlFhcEx4Z2hzQ1NoY0pKRmEwdnVtUkM0Z2ppYUNWVmREMTF3b1Z3T0FmeEhsNDMxbg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-07T06:20:28+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
+    "title": "ドル高が一服 ただ、ドル円は底堅い展開続く＝ＮＹ為替概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53MlFRSjN1STlMT1ZxbEFRNWpoOTN3TVlvTlY2ZnBveDdjZkxhWl8xOF9qTFVzZWlFZ2I1a3JfVllPRGlwMkZ1Qg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-07T05:40:29+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
+    "title": "反発、米国債の利回り低下が支援＝ＮＹ金概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52eS1FR1MtNmxnd2cySHBwdmpmNzIxaW81Snh0QkpCNEFQd0RTcWRPUmtBNXJEc3RteHZMczJCd1NjcWhKcG1MMA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-07T05:26:29+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況･4時 ドル円 小動き｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mX2x1M1ppQWUtbDRCUjRQSGJjbVhpZ1JYTmZrYWxqMGtwWFdSWll1SFNZZERJbTM1aUNKTFVhSUNQMDBxa0g0SkJuMDJLNGpoOHc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-10-07T04:05:00+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
+    "title": "金価格、12カ月以内に1トロイオンス5,013ドルに達すると予測 執筆",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ub3MzZG9SZXU3RVJ4UEJxLWxnanZaSjJlalplYlZSRzFmblE3Mzdsb2xYSXJhMVEtR0lJMVBURWFldUYxOXY3a1JiNldpOUE3aHNNd2YwcncyU3JYNUp4ZUgtVjBOc2MzejF3TXVKUGlPV3JnMlE?oc=5",
+    "source": "Investing.com 日本",
+    "instrument": "ゴールド",
+    "published": "2026-10-07T03:00:00+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
+    "title": "金は０．７３％高＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91QjlDQWdKTjNHNHpld2VmSnkyTlNjVnpXdkFXX3pVLXdLcERkTE5sdzhTZ1pxdE9zLUExcWpneDltMWIwN1k5WEZZNkpUWFhJSnc?oc=5",
+    "source": "株探",
+    "instrument": "ゴールド",
+    "published": "2026-10-07T02:54:00+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
+    "title": "金は０．７３％高＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52SFpLQUtKcDlucy10ZXoxWi01aEVaM18yS1JHdzJvNEtrcGhLQW9IbVM4QjhVTXBNOWQ5Q0Z4eUk0UTZqMFRSOA?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ゴールド",
+    "published": "2026-10-07T02:54:00+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
+    "title": "金は０．７３％高＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBybmdLU0M1Vkw5aUMtWUdGMm14cl9LaHE2b0Fodm1sNDFTbURtSllIcmtvaFpncWhuMUtSb0QwX1RMREV2bXhGTQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-07T02:50:29+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
+    "title": "バイナンス利用者にイーサリアム売却とビットコイン買いの動き",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqMDliclp2dWNpSVo5QXljVW0zc2dUOWR0NEVlZmk1SFJ5MDk5NzVlTFo4ZV9oYU9TUk0yb3AySi1kNmlWaTJ4cFFaM0otaU1QaGdBZjlUdTFLdDRObTRSZ3lPUEJLdkFiYUU3Vg?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-10-07T02:48:40+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況･2時 ドル円 底堅い(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlRFekZOV1FuaTM4VHM1WWl6SlVXOVVsOWNJR0lUZW96MGh1MWlGam1wNk9BWVYxM2s5bjdDeE02bDZkVFFfbG1IcV9QX1J1al9HdjVtUkZla191LUF3dWJWbWEwVTZvMTR5bVJicWJKdWRmX3l5cHFVaDlHQkt6Y1VnYnBPNHc?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -78,6 +150,14 @@
     "instrument": "ドル円",
     "published": "2026-10-06T21:20:29+09:00",
     "first_seen": "2026-10-07T02:33:14.994883+09:00"
+  },
+  {
+    "title": "ドル円１５８円台割り込む、米債利回り低下で＝ロンドン為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0dTA5eWtzZlJkUnRiVTlLWGtqWnk1dmtNN1pzWFRoSmJFd1pWUHhGY1RoVTlZZW1kTlZsYlVZZ3hWWFg5RVkwcA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-06T20:50:29+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
   },
   {
     "title": "ドル・円は高値もみ合い、豪ドルはやや失速｜FX・為替ニュース",
@@ -238,6 +318,14 @@
     "instrument": "ドル円",
     "published": "2026-10-06T16:14:56+09:00",
     "first_seen": "2026-10-07T02:33:14.994883+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円はしっかり、ドル買い継続",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93MHBMaXJadk16ck1qeVlEeXBSLURHSzNSN3RibjROYncyZlRCY0h3RFJXRkFXSnBDR3Q2eFhmQUtZOWtCYmxqT0twdkp4eHJoVmc?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-10-06T16:14:56+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
   },
   {
     "title": "ＮＹ金 時間外取引 ４１５８ドル、前日ＮＹ終値付近で推移",
@@ -560,6 +648,14 @@
     "first_seen": "2026-10-06T18:33:20.326699+09:00"
   },
   {
+    "title": "通貨オプション ボラティリティー ドル円１週間物７%台",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJeTV2LVFBU0tSX09vRmllaWNQc1ZxcURQTnBIQmhYVk5hRlJDS2UyUzVkSmFtaFk4bWxYc2FBX0hLTElMNWVuSg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-06T11:00:29+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は引き続き上値が重い 執筆： Fisco",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yb2VyUkNXT0k1RHlnVzJSMndJaGppYVZadlppVjRsQkIzTEQ4dVlUQl9NQ3VNRzhWaF9meTFQT2p2a09LT0I5eVo4MGlaaTJTSHZMeEM5aHQ1RDFJUEhuSjRXb2x5Z2c?oc=5",
     "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -710,6 +806,14 @@
     "instrument": "ドル円",
     "published": "2026-10-06T08:10:19+09:00",
     "first_seen": "2026-10-06T10:35:16.306319+09:00"
+  },
+  {
+    "title": "NY金先物は小幅反落、原油安でインフレヘッジ需要が後退｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GU1JZb1RYQnQ2RUlKMFh5MWc1Rm93MzJMa2xXYjVhck43WEN2OWw3LWR2cTZ1YkR6TTk0blVYLVhFalRJdjVnN0ozMzl3dDBRRnc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ゴールド",
+    "published": "2026-10-06T08:10:00+09:00",
+    "first_seen": "2026-10-07T06:58:52.623434+09:00"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格はわずかに上昇し4140ドル｜米国の利上げ観測後退が影響している模様(2026年10月6日)",
