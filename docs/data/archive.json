@@ -1,11 +1,107 @@
 [
   {
+    "title": "円安159円超で「為替介入」再燃の可能性も…小動き続く米ドル／円と、高まる仏の財政規律への懸念【今週の米ドル／円予想レンジ〈155～160円〉の根拠】",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyT01yQzREN0lDLU5CMGNBN3hBTzIzSlhQUG9pUmhvSTFxM2czZE1xaHFLZHNaTTBneG9oTXFKWlJ1bXM5MHhxSGtRZXdLZDBoWUE?oc=5",
+    "source": "ゴールドオンライン",
+    "instrument": "ドル円",
+    "published": "2026-10-14T05:00:00+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・4時 ドル円、やや頭重い(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzRvODh4Ymt6b3hVaERKQUxGQS1nVm10SXVDaWFuTDkwcmVQRTg3OXRMOWkzZkticmVYVlBIUFI4QWFZTFV2WnZZRl93YlBwdElNM3FHMlRuQkRLYl9oNEFQQkVsOGk2WWFhMF9ZdWNBTmlZOTVERF85dF95cWZybnFHd0ZEa1U?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-14T04:05:03+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "〔NY金〕続落、4177．30ドル（13日）(時事通信)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWNfazVyb0prODc0RldGSHRvS1NLM1d2UmFmUldHeEl3NmM3U1NVUkxFYkhCRVJyeENkV0Itck05R0sxVmJ2R2lKVnVobmhMZkhaazdpWHJyU3UwLXdNNzFiZVFrRnRmWF9uN1lXX2tRV1RtNUp5R25sajA1WTFFSEpUaW1PRHM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-10-14T03:38:21+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "金は０．３２％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdEozWkIyanMzUmZaTGd5R2FYMDhUT2dZSXp3RnQwZHB5eGwtS1E2R3E3NmJnVm1zR242ckQzR3YzR0QzUVdyNUI2WXluZmRFdlE?oc=5",
+    "source": "株探",
+    "instrument": "ゴールド",
+    "published": "2026-10-14T02:55:00+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "金は０．３２％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5bVdiNUwxSGlidW9ZUEV4ekZLNTE3Zk9OdVNSdGxDOE9WM3NaTUo2aFZqVlNTdXdKZVg4LXl3UVRsZFg0V1QtNw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-14T02:46:29+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・2時 ドル円、小動き(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDc4QVFTOHk1SjBjX0czdXQzRDdkR0ZjR25ySFpFXzR1YTNxRW5QWHRMd1I4X29xWGRMeHVWWk9JS21XYXJoX2YxXzE2ejM3MWNOYkJlSnh3YkRDWjctMWwwaEk5cDhmNGJsQXBKZ0JvVmg2V0tRQWhQYTBxSkFpNmxLTW9saDg?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-14T02:06:04+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況・24時 ドル円、下値堅い(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGM3THA4YjRMMzN2SEo0dHhkd2hyQ0hBOFBWUEZ3Y25iWEM3Vi1KdmJ0Y3M5cTVDd3haOFdGalBkU0pwRWFSaUprNFhQOUVFUE5KVGw5NlVJdmZ2N25tV2lBSTFvUUQ0RWZPNmhfWmFrZnFlcTNTb0NtNGtiRGNVNkU4YlpNRjA?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-14T00:05:05+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "ビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】（NADA NEWS）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JR2Z3MGFXTEhTaURkTGZSR24zV3VyLVphYlhmV0JHTHJKeEhHenloc01CR2l1NHhSaG9RRDdjczdZVVVJTWZvRlFvYXFuRjBoZ3R1QlJIYjBqeXpTUVNwVmFLM0V1OFkxd2hScld5cm52cWVZVnA1U2xMRWVydWM?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "BTC",
+    "published": "2026-10-13T23:09:46+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "ドル円、いまのところ２００日線を維持できず＝ＮＹ為替序盤",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiSWNkTXZzbjZiOFVCbTB2RzVxRmF5b1FzMnF6N2Jta1hpOGdDWnFIOXFWWWpKaXF1WE5ETUw0ZlpfOWVTNDhBcQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-13T22:22:29+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "欧州外国為替市場概況・22時 ドル円 もみ合い(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2t1dktYMlBMUXpNSnZLY0VzTldzWGtRb3J6Y3JTRm5uemtLN2VHZTk4anNWVEFnWVp4LVgyb24xMWVWYVdqZmhUaWUtQ2JUa2hWcHJ4QU1wcHE2czQzN0MtV1dJdi1HMW1wTi1tNElXSERsU2lNTlRVUkppbFVjcE9YRnY4cmc?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-13T22:07:04+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "ドル円のピボットは１５８．２２円付近＝ＮＹ為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YNmFOdFVtWEZkMTdGdEtxWFlLdzB1R2VSOXJXekpmaU9BeG5Lb09iU0lWTVhRdDl3WEkzWDV2aFltcDRlV0lRTw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-13T21:55:28+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
     "title": "金は４２０８ドル付近で始まる＝ＮＹ金オープン",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtWjUxb0VJRDl6RGdmcm55YUJ2SG9DMlJaUll5cHFDQzJ6ZEFzZ1ZJOVB0NEtCWG5tYkJLMGpoa1dYWFRJVXhqSw?oc=5",
     "source": "みんかぶ FX/為替",
     "instrument": "ゴールド",
     "published": "2026-10-13T21:47:29+09:00",
     "first_seen": "2026-10-13T22:07:03.521208+09:00"
+  },
+  {
+    "title": "オーストラリア ドル / 日本 円【AUDJPY=X】：為替レート・相場",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZNnNQU0VuNWo4LTdyaS1Ybng4dm55OTBYcGtfVmhrbHRRSGNUUmV5MUt2dDBDOHR4NnlleUZOWGtubEpMY2xaYnpVTXBlRE53MlRvVQ?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-13T21:24:05+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
   },
   {
     "title": "債券利回り低下と金価格上昇でTSX先物が上昇 執筆",
@@ -144,12 +240,36 @@
     "first_seen": "2026-10-13T22:07:03.521208+09:00"
   },
   {
+    "title": "ドル円激しく振幅、「日銀は今月会合で利上げ見送る公算大､12月の可能性排除せず」報道で＝ロンドン為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ocGl3ckFJb1kwWjFmbFBVQmZfZ1pBUThmMTVhY3RKOWtMYWJKT18zLXJGQXZlbHpmUGpwYkpMQWRNbWRweHNoOA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-13T17:52:29+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "日銀為替市況（ドル円・午後５時）",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDS2RFVjFFMTBkYVhtd1IyUFpyT2x2ZDlUdkM0emIxVTBwb1pzbU5vUGUxT2RMcDIyTXBTajdQd1pxVE9aSUE?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ドル円",
+    "published": "2026-10-13T17:49:40+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
     "title": "金価格膠着の時はお祭り騒ぎ",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bb245c00tY1k3SGY3SHgtVEZxeE5MTmxiTGlIOUJiVjVLN1F4SVkzRHFrODV3aThDU0FEeEhQVThHTVp5Yl9xTXN4WnJvMlhKQzF3VHp5MzBSWmNiT2tJ?oc=5",
     "source": "三菱マテリアル",
     "instrument": "ゴールド",
     "published": "2026-10-13T17:41:11+09:00",
     "first_seen": "2026-10-13T22:07:03.521208+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は軟調、夕方にかけて一段安",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkSVhDRzVUSURTX09ULXhpWE4yT0tEaVJxM0ZWMUR4MXVrdjA5MWdSTWtmYzRRNGVUZWFZYlVXNE5TcmxJSHo5SnVwMjYtZVRfemhRamktXzhJbFZPVGFxYw?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-10-13T17:32:45+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
   },
   {
     "title": "通貨オプション ボラティリティー ドル円１週間は６．３５％",
@@ -272,6 +392,14 @@
     "first_seen": "2026-10-13T22:07:03.521208+09:00"
   },
   {
+    "title": "東京為替：ドル・円は戻りが鈍い、日銀の政策も注視 投稿日時： 2026/10/13 15:11[フィスコ]",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1naS1jbGdadWg4Ri1HelktZVZuZ0ttZ2stcnpIXzlRUFFlSUlsczZmYVJkckx6cTVIa2Qwa3dFMW5lWVZ2QWc?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ドル円",
+    "published": "2026-10-13T15:11:25+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
     "title": "東京外国為替市場概況・15時 ドル円、上値重い(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1hDWW03MF9KLUJtNnNFN2QwbFdyNGt4T0FEN29rQjNqaUROaXJVbWJzQnJxUS0yWVNtWGo5dWlTRHg2OGZpb2xHdkJESGdsWGU0Ym1jVUtqcWx3Szc3VmNIT29sM0R4YjFwLUZvemhqRFdQYnpsLS1HeC1GalplNHdES3N1MkE?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -350,6 +478,14 @@
     "instrument": "ドル円",
     "published": "2026-10-13T13:30:00+09:00",
     "first_seen": "2026-10-13T22:07:03.521208+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／カナダ経済を見極め(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0ZUS2JZRmtLaEt1Sm5jd1hvS09ObmRnM3Z4Q05JNkZVS05qWFUxU0N6QTJoN1dFLTJ5UnZ6VWZ2aXZTeTZ1SjlhNkZ6TEtzOWRRLTJGRThWMzd2LTl2aXVpazBNNnNpY19vbHZSNzhtcXc5XzE2dmVNdWMtNUtRUHowZTBBdmM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-13T13:28:50+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
   },
   {
     "title": "欧米為替：デイリー見通し NZドル・円／NZドル・ドルを注視(フィスコ)",
@@ -742,6 +878,22 @@
     "instrument": "ゴールド",
     "published": "2026-10-13T07:00:00+09:00",
     "first_seen": "2026-10-13T13:23:31.203636+09:00"
+  },
+  {
+    "title": "7〜9月の金鉱株、セクター別で最高のリターンに 目先の「金価格下落」に惑わされるな",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54Y2Vjd0czLTRuUENBSGg1Tm0yQk9fbFB2QnBxWXQxZHJmYTRIUVc2OG43VHNjN3lSY1NUcHExYmdQUEV2aHRZbW10REJTY2ZzQnhtb2k0YmFhdw?oc=5",
+    "source": "Forbes JAPAN",
+    "instrument": "ゴールド",
+    "published": "2026-10-13T07:00:00+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
+  },
+  {
+    "title": "7〜9月の金鉱株、セクター別で最高のリターンに 目先の「金価格下落」に惑わされるな",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSjNTSFpPNGtKUjNReEljVFYyTVNkZXp5RVZyaVlDMlNacTFmV2tTUnZzQ3RyN3ZxVk84M3VaYVJHa3ZoQmluZV9zZjNlZ1B3bFpfeC1ySFlVSnNzVXpyZzM3WVZzZUxCMFBZRkJGV2lRc1ZYZGc3TzZ6QlJHR0NOUHo2Yl9ScGJm?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-10-13T07:00:00+09:00",
+    "first_seen": "2026-10-14T05:24:52.677104+09:00"
   },
   {
     "title": "１２日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
