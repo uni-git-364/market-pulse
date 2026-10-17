@@ -128,6 +128,14 @@
     "first_seen": "2026-10-17T08:06:02.191063+09:00"
   },
   {
+    "title": "１６日の為替市場の四本値（ポンド円・豪ドル円・カナダ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LRnlXSHFNQktVcWZlY0dtVklKUG5BejNxbjhBY21SLWNMMjJxZi0tSGJHZF9mdGs2UTczRjFiMWxqdnJXZFpJVQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-17T06:08:28+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況・16日 ドル円、ほぼ横ばい｜FX・為替ニュース",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yQnpteGpld2JkZ1lFUUd0QWkydUtzaXBhTDZvYWNHRVFuM0ZMR1VkcEFDblZ4UkhyM2Nlb2s1UzBTV2dfMVJ5NU5SLVVWZDBDelE?oc=5",
     "source": "ザイFX！",
@@ -20830,6 +20838,14 @@
     "instrument": "ドル円",
     "published": "2026-09-20T16:00:00+09:00",
     "first_seen": "2026-09-20T22:16:46.653269+09:00"
+  },
+  {
+    "title": "ビットコインが8万ドルを突破した3つの理由【価格分析】(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDNtcjh1b2gtY05fYkFnS2hGLWd4ZVJJdEZFTV9FcVR4bE9neFV5SnlzX2phbUlsWUtBQnllTUpzTE94VThQTVVneWp4enR2MnlNYVNJblRZdjEtMjZyY1NoSGtnR2RHWW5aazEtV0tWaHF2dm1jbDZ6bHgyeFBzd2ZuT1RPdDQ?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-09-20T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
   },
   {
     "title": "ビットコイン今が買い時！？ 過去17年の値動きから考える「半減期4年サイクル投資法」【2026年最新版】",
@@ -42550,6 +42566,14 @@
     "instrument": "BTC",
     "published": "2026-08-24T16:00:00+09:00",
     "first_seen": "2026-10-04T20:28:32.113903+09:00"
+  },
+  {
+    "title": "ビットコイン上昇余地を示す3指標──金先物、BTC.D、Coinbaseプレミアム【価格分析】(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlREdTgxME84Y2RvODJWM09jOVQ1eDdGaDRkTHJmNnJ2aV9fRFBObUhxZnk3VHh1YjFWRXE1b3dLZGhTZzBMVUdCaXdhMjFqcFN1ZGROclBsMnR5YXY4VVRDdFlRU2dQdHZ0V09DREpoTjZ6ekFjMFoxR2ljM2ZtR0kzRlFMamc?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-08-24T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
   },
   {
     "title": "イーサはビットコインを圧倒しており、「ゴールデンクロス」はまだ終わっていない可能性を示唆しています",
@@ -87406,5 +87430,101 @@
     "instrument": "BTC",
     "published": "2026-06-22T20:35:58+09:00",
     "first_seen": "2026-06-24T19:32:34.423093+09:00"
+  },
+  {
+    "title": "BTCのテイカー買い・売り比率が弱気転換──予測市場は2026年のFRB利上げを再織り込み【価格分析】(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHBNdFF2bHB0Y0pnVzlZd29WV1RON1k2QnJVUm4yRFI4RERpVjkzaHF6NHNhVnNwNFhMMEZ2NlFVZkdENk9NdHd6RjhzaHZMVl9Lei1vbERzZjhoemlGRy1sbmlnek5DUTVqTDh3eVFDcHpkQWJEZXkyam5VX2VyUmpEUkRGVnM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-06-19T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "ビットコインの底打ち価格、基本シナリオは？ ギャラクシーデジタル予想",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBFb1NnVlFzQjFHZDVGNVJjbndYU2l5T2hocHZDWVJyRDFFR1R6elBYelZCTVNhaHFWQWxjajlGZkVMcFE?oc=5",
+    "source": "CoinPost",
+    "instrument": "BTC",
+    "published": "2026-06-13T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "リミックスポイント、BTC価格前提めぐり見解──株価は2日連続で一時ストップ高(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmpOdGtueENIelhhR240eV8tLU1HU1Z2c3dwQlp2c21UdHhHUmdqbU9DZ1pPTnFLenZKclBDWHI2b05LRkt3M0lXWVBNZzNDS042d0pMUlNXRGpRYnZFY3B6UW1nQnZfY0NKdUJNbWgyV2RBQmxxT1pya0g2Skt5MWtKcEhNbk0?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-06-12T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "BTC価格、8万ドル割れ──予想上回る米PPIで2026年の利下げ期待が後退【価格分析】(NADA NEWS)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3dRRWtFd05BVjJPX3lZQmppSzg1SWMzeFdLSUg1eDlIalBfU0c3LUdUcVU5UXdBeXpWMUdZTlZzR0xZaERQOVBWczRBaHRWLU5mSndkaWlSWGNaRVRYMUs1VUpDc1JmOWtjMy1OYklpdW40N3RtbmxBeUl3ZTg2dk1pRmp2VDQ?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "BTC",
+    "published": "2026-05-14T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "ビットコイン価格、3カ月ぶりに一時8万ドル台 4月以降2割近く上昇",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkakdWbTl2Y0dndGNCcnMyejV6dGU0QUtVTS11Mlk1T3VrT1h0Z0lZMmVvWHpWWDdWWEltdEZiN1VqN29NeEl3QkwzTFN3YThwSzdxbF9lN3duRFVHdS1PVWJNSGlNd0dtTE40Xw?oc=5",
+    "source": "日本経済新聞",
+    "instrument": "BTC",
+    "published": "2026-05-05T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "ビットコインピザとは？1万BTCで交換された2枚のピザと現在の価値を解説",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oMVkwZkUtRGt0dmtvTGp5SUhnWHoxaEMxblBJSXhEOGJLUUFZbUxqX2NJdW1QZUJnZXNhaWtCYWtDaXVUdGc4TzNjOE0?oc=5",
+    "source": "Coincheck",
+    "instrument": "BTC",
+    "published": "2026-04-28T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "ビットコイン（仮想通貨）はいくらから買える？最低購入額と初めてでもできる取引方法を紹介",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VXzloTUhvcU5tbk4wdHBMZ1dpRzZjVlE4NHlYMWctZTJGRnQ2WXpYM1FHeTJ3cE92Ukd4TVU5cVgzdWlYbW1kWk1PMWg?oc=5",
+    "source": "Coincheck",
+    "instrument": "BTC",
+    "published": "2026-04-06T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "ビットコイン（BTC）にはなぜ価値がある？価格が決まる仕組みと価値を支える要素",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ucXVpR3otMXNVN3RfaFFiWkllN1ZoZlFRR1FoZlJnY3d5Q19OczJmbVJnWkxFR3YyZHRtcGRoWVp6RWcxWmRORTRBMHU?oc=5",
+    "source": "Coincheck",
+    "instrument": "BTC",
+    "published": "2026-03-26T16:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "ビットコイン（BTC）半減期とは？次回2028年の仕組み・影響・見通しを徹底解説",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fbkNfNDhTOWhpb2liMXdnMUhYRzk0SnFub3FWYW1ORzFxSVdzUDVNSGl2UjNrSUtqN2NQZlBMMGc0MVAtYnZnZEtncWc?oc=5",
+    "source": "Coincheck",
+    "instrument": "BTC",
+    "published": "2026-02-21T17:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "ビットコイン（BTC）の暴落理由と価格下落に備える方法",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBodWtLWlFVUWM3Z3lpaDVFZi1wWG9HVUJfTDh5NXhpazQ0eWxfdFFmR3dRU081N2kySDVPTk9rdkZQbzNyVUVxQmhqZVM?oc=5",
+    "source": "Coincheck",
+    "instrument": "BTC",
+    "published": "2026-02-11T17:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "「ビットコイン蓄積戦略に変更なし」メタプラネット表明 BTC価格下落の中",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1UaTFrd0wtMzRvV0lIUGFFX2ZxSDh5NEdYd0puVWt0d1U2SWg0SzZLVjZScVlpZmhvMFRkR0ZjUnI4c0k?oc=5",
+    "source": "CoinPost",
+    "instrument": "BTC",
+    "published": "2026-02-07T17:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
+  },
+  {
+    "title": "2026年ビットコイン相場見通し",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ybnFBYmxwUEtsSTRoZF9vTHdfckpRY1pnWjVjY1NYTlhVRFcxbnN2ZllUWWltUDRTT2ZWc2RfY0RNUEFqV2E1MGpYWllYYkNRWnJDSFNkamM0M2ZHcUtYcEJTaVlVTDJTY1QzeWpSQ2U1QQ?oc=5",
+    "source": "楽天ウォレット",
+    "instrument": "BTC",
+    "published": "2026-01-29T17:00:00+09:00",
+    "first_seen": "2026-10-18T04:48:13.244167+09:00"
   }
 ]
