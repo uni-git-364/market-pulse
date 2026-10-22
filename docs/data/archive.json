@@ -1,11 +1,67 @@
 [
   {
+    "title": "〔NY金〕反落、4060．40ドル＝2カ月半ぶり安値（22日）(時事通信)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmR0bGVjSlIyZ2Q2MVFVbE1hV19ZU1lsSnltLU5fMlNsWHNUZGFlU0ZLeFlIZWluX1dxa0pzbVBXdkhZOTJmSS1yZDQ5MnlnN2Z4NFQ1YWZ2ZHFnRW8xMjNlUlJfazd2U3VmYTZTOFFiNURFWlFMeHFmQ3lZOWN0Q3BrTE5hNXM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-10-23T03:33:51+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
+  },
+  {
+    "title": "金は２．１６％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HbkJrek5MZ0tFbW5Dak04VHJhSUxrWmQ5dTVqTWxKM2JaMzZTU19LRDhtbFJZY1Z5OTdyeUliSVdUbWo5aG1BSQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-23T02:56:29+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
+  },
+  {
+    "title": "金は２．１６％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81WGRia3o5MExUZ0lrSE15dlVfZVNFd1hQelNjVElqUHAtb1JPMkNMOXZrdDIteUFZTm5zY1dGZndIc2lpdlE?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ゴールド",
+    "published": "2026-10-23T02:55:00+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況･2時 ドル円、下押し(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWY0ZzhyWExZajZjcEx4Q1g0dnFKVEFaQm01c2l5Y1dKd2IzMHZzd1NraHB0cE1BZlJPUzFzX0doS21qOVctMW9uZXdmY2pMdzBUS0hIdEdiYTlPcWg2SzB6T2hGTnpSQXNySk5tSTc5V25DcFdKVWVtdlBLaThsU3NsNEt2X1E?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-23T02:05:33+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
+  },
+  {
+    "title": "アイルランド中央銀行、Coinbase Irelandに対し資金保護義務違反で360万ドルの罰金を課す",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONVFZVl9yd3g3blVYbEFOd1NQQllWWDFXaEdOUW1fZUI2Yl9HcVlhc2ZnSWM4c2dPcVcwYm5VelUtWW5oYmJzdUFxQkxYd0xib1pOakpQM2VUcHRlc01QMlphWnNYUVdpMVlpZDAzUHBRZ3JGS3dORndndDNuZXJOVnJPSzJxRWtGQVZGc3BQdWxRbk4zeUhYa2w2b3JrdlVoenJnUlA0aWxkNjh0YkJrUm5Cd1lZVlh4UnNaRVlhNl9wZlhHeDFMVDBvZzVhY2c?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-23T00:40:25+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
+  },
+  {
+    "title": "アドバイザー向け暗号資産：ステーブルコインが本格的な活用期を迎える",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPekQ4MExVMndsZ3I4bkwzdFJzekJIVkFmaF9uSEZJdF83NzFwci1CQkpLSFVKd1lmZFhZSEZCOVQ4QnpQUG1WdGJuQi00X05JRERGbTRBQzZ3dld2Q05oSUZraER6emY1YnRUTmZ3X2NaSHFWVFlTbF9VRVVJaGtsRmZMVWh5eUJIY0RHZGJuM0w2LUJhSnhsS0ctdHdtc1ZBZHFRdUpJVEpZNTE0VmRVLS13?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-23T00:12:30+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
+  },
+  {
     "title": "ドル円、一時１５６円台に下落 ＡＩ関連への懸念再燃で逃避買いの円高との指摘も＝ＮＹ為替序盤",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rXzYtZTZzLURnYUxNcXh6aEZBSjhGYVM5WTc0aUUydDJUUjA0Q1cwVDBpVWpLMHU3bDNmdmVrVVZFd3RUNHVoeA?oc=5",
     "source": "みんかぶ",
     "instrument": "ドル円",
     "published": "2026-10-22T22:35:00+09:00",
     "first_seen": "2026-10-22T23:11:55.176587+09:00"
+  },
+  {
+    "title": "ドル円、一時１５６円台に下落 ＡＩ関連への懸念再燃で逃避買いの円高との指摘も＝ＮＹ為替序盤 -",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52NGhYRUxRYW1wd2JvQkc0aGsydGpjUnFhZWVCUzlMNFhfN0JmTFFPcW1zMk9Pd2RETHRjdmVCd1FzaTRlM3RJSQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-22T22:27:29+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
   },
   {
     "title": "金は下落して始まる＝ＮＹ金オープン",
@@ -78,6 +134,14 @@
     "instrument": "BTC",
     "published": "2026-10-22T19:50:04+09:00",
     "first_seen": "2026-10-22T23:11:55.176587+09:00"
+  },
+  {
+    "title": "欧州為替：ドル・円は一段安、円買い優勢 執筆： Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnTFgwTXJfZGpuNnVZdmxFZGswZmoxWE9YekdCcjlDVmYtOS1LenYzNGN2ako1M05zSDZzcFROSllpZ0F5TzVkVWpxVTRfYVF6WUwxWlN0TFdsUjZFMzAtenhZaVVlUlU?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-10-22T19:45:00+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
   },
   {
     "title": "ドル・円は一段安、円買い優勢｜FX・為替ニュース",
@@ -406,6 +470,14 @@
     "instrument": "ドル円",
     "published": "2026-10-22T12:31:00+09:00",
     "first_seen": "2026-10-22T17:04:31.058219+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は軟調、米金利の低下で(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVBxcHZJVm9ZWFRxT1VZMVB5WjE5b0Z4Y1RHU0lnbXVOX2FYRFJqcTd1TjNGUzJyTjJiR2MwZzJqMDRWRXhQcWtrQW4wa0dMRjZnQ0VWcDZGRXh3aW5UWDNKbDVXTkZHSkRtR0RrTGxKSzZpNjdWZ1VvcXBnOGRtOEwwYUFJd28?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-22T12:21:18+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
   },
   {
     "title": "東京為替：ドル・円は軟調、米金利の低下で 執筆： Fisco",
@@ -862,6 +934,14 @@
     "instrument": "ゴールド",
     "published": "2026-10-22T02:53:00+09:00",
     "first_seen": "2026-10-22T17:04:31.058219+09:00"
+  },
+  {
+    "title": "金は０．１８％高＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83SGJZaWJuM1hKY3BEUTVrcy04QW5faU5xNFQzeVl5UF9tVl9vNTRaaWo5Q21CdUpTejZ0bWdOc3E1UUdUN3owYQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-22T02:44:28+09:00",
+    "first_seen": "2026-10-23T03:56:30.098878+09:00"
   },
   {
     "title": "ニューヨーク外国為替市場概況･2時 ドル円、小動き(トレーダーズ・ウェブ)",
