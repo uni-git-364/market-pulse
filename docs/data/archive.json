@@ -1,11 +1,107 @@
 [
   {
+    "title": "２９日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GdjQ3NVZQTXdIMTdpX251ZzMzWWd2MC1odmE5SlFlbGV1OGlUbUJEM1hNSzQ3THNYRWNNMEE2bnZoU2JfQ21zQg?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ドル円",
+    "published": "2026-10-30T06:30:00+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "２９日の為替市場の四本値（ポンド円・豪ドル円・カナダ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Jak1sbmNsQlFUeUhpZDRIT3JQZkh5Zm5BTDROaXFCM2RfYmFzb0p0S0RZZkhVeUxiNi0yc1hvVEYwS3NlZ253eA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-30T06:21:29+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "ビットコイン8万ドル台前半で軟調、米ハイテク株安が重荷（NADA NEWS）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NNW5pWkZkajBwaEZCNzFkUlVxOW5JeGFqVnBiTnZVR21ySXU3MzNILUVmckpVTWZ4TnpjX01QLS0xRzc3dUxKcXM4Q3RnV3NBaUpudGdlNEVpWk1qR1BJQjRUSlBIZlItTW9XQ3EyWnZTREFrTm1aY1Qxam4xa2s?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "BTC",
+    "published": "2026-10-30T05:54:40+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "ドル円、ＡＩ関連株に売り強まり上値圧迫 ただリスク回避の円高ではない＝ＮＹ為替概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tWXNabkZZTTI1QlhuNFVfN2Ezb1pHR3BtQUd3eG1DMmpwYU05LUR5UWllOENaWWk3UnJOanRiem1mWUdOdDdwOA?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ドル円",
+    "published": "2026-10-30T05:50:00+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "続落、原油高に対する懸念や株安で＝ＮＹ金概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SV1Y5Vm9iTW9VVG1hdlJzSUhxbWNLckFvVnZ4eEV4cGlDdzZsZFg3M0c2bmltU29UVVhLNFNnMDBkaXJINFF4MQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-30T05:23:28+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "ニューヨーク外国為替市場概況･4時 ドル円、動意薄(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjI3ZFlhVXA0VmZzVUpGT3c3czJvRWU5ZlJ5TGkzM2pJZm5DRzY4c1dRclRjZ2xId2h6WHh4dm9RTVhIUTJmdGxpSTZOVG1PNmlFd2EyblRBYWxTQ19BOXRQalNjOHVCREZfTWN0YWJSTmZ0TmEtVU53Y0M0aU8zYkQzc2ltMFk?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-10-30T04:06:04+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "〔NY金〕続落、4031．40ドル（29日）(時事通信)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjQ0N1dUMlEyNnR0YXNOVlNjMHFCQUtlWHNSUlllbHpIUmllVHVQSXljZGsyLUFZZHd1ZGphVDdEc2hTOG9meWVLTkZHZW81bWxNTzlBRGxSWFRkWmRZQVZnTEdCVXY3LTVwMElJbk5CQy01eFdpd3pTYTF6Ym1qejJaXzJfdVU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-10-30T03:08:52+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "金は０．５０％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LNzJ3eUd3cTVRQ2s2NnFmemx2dW1sUXlzQlB6dUduYkdNRmRCblYyMmE3cVdmalY4NXN0OHUwTXA4NHdnXzd2cTFYSmhSWmtISXc?oc=5",
+    "source": "株探",
+    "instrument": "ゴールド",
+    "published": "2026-10-30T03:01:00+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "金は０．５０％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBblg0SjI0cm5Id1E3b3F4SmRVWkpqZEMxVXRxdkk5QnBXRmlaUmFYeWdjQ3ZpaUpxcFpGeld1MDZzWDJwVXpybA?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ゴールド",
+    "published": "2026-10-30T03:01:00+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "金は０．５０％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IR0dkc19LQlFGSUJYNXlZSy1aaVhxdUtNNGRpSjR4OVNvUWRiRkNxYWhDNlBZMGNieEVuVTNmT1pMZ3dUSm91eA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-10-30T02:51:28+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
     "title": "ニューヨーク外国為替市場概況･2時 ドル円、様子見(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkVDNUxYc3RpQk5WR21OaHcwV0FwMERRZEY5S0FHRC1MWGxrWFJjNVh0MVJFNU9yNEpLaVFXY2huNmNBekVxX3RMMVl6RmpoR1A4a1JWejlnU1hpYkJpc0FaRmRUdGJCb3ExZWVFWGppUGxISTF2UktpS1JuUWU0SXJXTTlCLTQ?oc=5",
     "source": "Yahoo!ファイナンス",
     "instrument": "ドル円",
     "published": "2026-10-30T02:06:04+09:00",
     "first_seen": "2026-10-30T02:46:18.083072+09:00"
+  },
+  {
+    "title": "KuCoinはロシアおよびベラルーシ市場から撤退、制裁下で世界的な暗号資産取引所が続々と撤退",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQenl1YUhTRk1DenpZd2NXR3MyLV81c3JDbWd6cTRzVjlrOHBrTTR1QV9VMHlPZk95UG4wclpjZS01bWtHYzhBaUo5cWhybWdUM29KaGdQNFAxWTNSdmhuOG1UQlBxNXVPR1lrRm1jVF9qOWI0Ql9YUWRaZFFlTm9NaTBHUVdzWGtNWU5yODE1RHhmRU9yalpuVFhDZzZRdHJuODZnLUswSE0yMjhwRS1VQVpWcUxZbWk3TjVOdlJOSmJraWc5TXlaZjN5QktOT0c5RnhGUw?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-30T01:51:18+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "ライバルからパートナーへ：Polygon と Solana が提携し、銀行へのステーブルコイン決済導入を推進",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmdNMDZGOFN4Q2REekxsV0dwUHRzMHBpa05fQkNJTDFIbUZJZ3YzUjJmR2V1SHg1QmE5UVJGQzZTVkRMcEVPVkV5YkZRZVU4bFJmMlNJNkQ0UXh3bzJtUlZVYXlmNGdqTlU4NFNmZ2xWTFhHZ3ZmTWM3YzZBX2E5NnowZ09UcnV6UmptT3VxcUNOZ3ZtNGZpb2hYOTF5bVQyVWxNeUZndVhTRFEtM2FWNVg4a2Rxc1VkOWoxOVR6ejBXVTJEZ3gtbUZ6RnZTUQ?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-30T01:35:43+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
   },
   {
     "title": "暗号通貨取引所HTX、違法なプロモーションに関するFCAとの和解を受けて英国市場から撤退",
@@ -30,6 +126,38 @@
     "instrument": "BTC",
     "published": "2026-10-29T23:55:47+09:00",
     "first_seen": "2026-10-30T02:46:18.083072+09:00"
+  },
+  {
+    "title": "スイス、SIXで初の現物ビットコインETFを設定し、欧州のファンド規制から決別",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYVBSNUhCV0psRi1QVWpVd2pJX1U0XzN3aWZ6Zk9paVZyNnE5cG9oZHAxWTRsMlFJb1JBSV92RDBSMmJ5U3dxdjc5SEdsSlhUMmxYeGo3bkdfSGNoWXAyc0s5Wm4ydHVzS3BnZDZrYTVqRXNaMk41RVJJdkxSR1Fxd3ZMTVEzNkZrXzh5WDR0bk1adXpld0pqMS1YbnlrZlJ6QldTbWt6MkZUdU9CS2Z0bE5RQVZjcERBMElaM1dyQkZxcTVtUy1PNA?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T23:15:46+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "Chainlinkはトークン化資産の週末価格提供を開始、ローンチパートナーにAaveを迎える",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak04a0pBSlRGQnl5alZRekhBazdhV1p6Q1ZuOUl1R2JEMTdXRFV1UUNHV3RMVjFpNFEyTzEtNFprSFFJMnNlUmZieV9QSHo1ZWRWWXBLdHpvUW5EemRwREJVM2FvQWl5VEIyaGhrN1B4QmZWLVFOdlJmdjQ2NGNNSVVndnR4UnBYZE1WbDBsY0pEVEJrb1hkRTJlZTV6X28teFdQWGtWSmcyeXdwd3oyaFFLcnFHUnZwcTV2VnY5bGk?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T23:15:00+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "理論上の30,000キュービット量子マシンが600万ビットコインの危険性をもたらすと研究者が警告",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYU9ZQmM0YWNkeHpDZmp2RS1Yam80TGxpZGpkdDdYVW5Cb0RlSGM5c1hHdUpuWnRUbjVzUW5FS2NPeU5yazFtd3VfOGZQZU5CR3NDYVBCMXhQM1g4Y0FnSGlyY2UzRldxbjlyMzFJRWs5QzBlSjdvaFpYYncwQWMwYjFPMXBfVll6ZHdTdmhESHA3OVRiSm80MVQyUTZfVlliSVNiUENwSEJCYktkQTFHWXpQbWp0N045b0NF?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T22:55:42+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "ウォルマート（WMT）、イーライリリー（LLY）がOKX–ICEのトークン化株式に対する異議申し立てに参加、多数派はオプトアウト",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1ZKdm5udDN6WGZLRTh6ckxELUxTNVRIcmVSMEhGZFlHbHZCcS1uc0Q2ck84Q2JLVWJaTHluWk9JZHEzdG55Sll0RlJaWFBLQWZxV1J0LUEteHhwMTJVZzlLeU1SNzJlNHk1RWhWbUxVSGlnSmFlQ1RKME1uR3pzbTQ0aGxxaDdqTHFyTTN4WkplbnlabUFVcG9rZXFDSkFRSVVfYzViNFI1YV9Ea183R1NHX2JFVkRpc295LTdkUmJ5R00?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T22:39:18+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
   },
   {
     "title": "ドル円、１５８円付近 明日は日銀決定会合＝ＮＹ為替序盤",
@@ -72,6 +200,30 @@
     "first_seen": "2026-10-30T02:46:18.083072+09:00"
   },
   {
+    "title": "トークン化資産追跡のための新たな枠組み",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWZzUnJKcEl4Q3ZfMEQzTkdtNmVuLW9BRm43VmgzQm5YTUJEM1lFSzVxaGE3aFVTVTdiUGYwdjBJcU5DN1ZQMWM4ckFHWUFOX2syRUN3SWxCbDBLYTdKMU1xZGtSdmU1Tm1XZUVyUmgyRnJicVFDQXAxRmFDcTdJY0tPdzNCS0xPUlNWUURyc1JKbjJ5S0E?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T21:57:51+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "ビットコインオプションの10億ドルが期限切れに近づく中、指標は価格に現れる：Crypto Daily",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDI5TmdSRkdSQXllamdpa2w4SXBMLVFuWUxOeUpXTW1nSzhlV01VUzN3YWFFdW9Nc29scGMzejNkRUR4b3ptRi1PSDBRN3FYdXNJZ2h4a3VodHNPMS1oYjYxVjRJUWFDSkoxNURTUTZJd0pSUTVmZ29nYk05WjhmQl9qcUZmbjB3YTJaLVNJYWZUbUl5OTFuMV9vdEdNWW10dWpkX0VPdjBpYVZiMDBxMG5JT1lxNXBQX3RuZVBhMkFvdw?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T21:11:10+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "NYSEの親会社、Trade[XYZ]と提携し、Hyperliquidを基盤としたパーペチュアル・フューチャーズを米国市場へ提供",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEdFRTNiMC1vM1dfekJmclp0cGpTQVdLNWVmMC0yd2FqX1dLV3pONlhCNW1VY2NZQXlMOU9QcE92RnlOSTNEMzVUSkR6M21QX2RVMk8xLXROcmNKZ1NFa1RLc0RIbWhDUElsbFVJd3ZBYlpNOWNfLXZxc0VVNE5wQm4tZ240TEY3MVlyVkkyT3hYbmFKelpCOXRkdEZRbXpQa2RJNVFUZU1Ib2pfajAwbzJIbjFkdw?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T21:01:10+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
     "title": "ビットコイン、FRBの対立やサムスン、アルファベットの決算を受けて80,000ドルに下落；AIトークンも軟調",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXzRMQldCdF9reFNiaTJzbm1oaFFmbFVqQ1hRSzRvRmxQZEg3Z2JWVmVWT0tHSmhBam1VdW1qb29BZVhqY1dYNWVPaU9tVEFsR00tVGZhZUNHV2hTdm4ybUZXWmU5dE02eFhXRDlIUGlCUFN1R2NWbTBNdDdrTnpfNTdEeVN3elBZZHBEczRHeGctZzlpUHJ4clNZRF96OVNGa1pESGlVa2ZCYVE1T0E5Y0RSb0VOblF6VE5kdXJkVG5SenZPVGw4X3Jn?oc=5",
     "source": "CoinDesk",
@@ -112,6 +264,22 @@
     "first_seen": "2026-10-29T20:55:29.196797+09:00"
   },
   {
+    "title": "キャシー・ウッドのARKがロビンフッドの23％下落後、6ヶ月ぶりの最大買い越しで押し目を買う",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDljUFdMcWJGVEtta1kxVjctUng0eGF2NjlCNEYxVmdST1RWMldoRTZQZXZSclpEamE1SDFPY3VLWjc0QmtwdnpzOTdSX1dLWFlxUExRZzJCZ0h3YVlYaXc2dUlDZU9fOEd6cnhNNVZMc3VZS3B3azBGaEM3a3NaNjA2NEhTSkJ5cUFjOFh2MDNiSDZzY3RfdzV6Z3Y0MnE1N2UxUkpzODNybkhPdU1jOW1seFpINGlPYzlkVG9GNTBoOVVuWjB3akFQeUxUcEJPUDNiSUFLMmU?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T19:51:10+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "SOLニュース：ソラナウォレット、バリデーターキーのインシデント後にステーキングトークンの未取得報酬を支払う",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY3FPMHgtalhJajV2dU8tcGszVGJ1S3hxSko0Uk80QmZzRHpxSWRvVFVBdHlmYUZvdi1PV3F0NWVUTVdpOXZ3b0luZVFCNzJ5ZkhFcDdNVlliME1RcGFzRHFMSzdqZmIwSmxJYUFmc1V4NnBKd0d3NXB3R2thcjBkSzVKNTFjVzNYNGllU2VWRXEzRFpxLURMU0hEVVV0ZGtvVnRZUlJWdkx2RWpxNDhaMW80a0FhR3U3QnQ5MEgzeWx1VC1kZHpqU2tXNXpUTnlScHRxQVpJYW9mQ2puM04yQVB0d2V0NEVX?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T19:48:25+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
     "title": "NY為替見通し＝ドル円、米PCEとGDPに注目 12月利上げを後押しするか(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFI3RlBmNnpJS1ZHZXBJMzdjMXFLcjRaVlBPSXJzWG1ORFlGMmU4TG5Qb2E0cVA5cFVqUGJfRjZvcFV6ZEpFQ0JkMHJEa3JRNjF5WVhKOVlnSFJXRWFURU9lZW1MM3lfdERFVW4wWHF4eHR1TElNSEJmVXNhTmhTQ1dEUEdkRk0?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -142,6 +310,14 @@
     "instrument": "ドル円",
     "published": "2026-10-29T19:23:00+09:00",
     "first_seen": "2026-10-29T20:55:29.196797+09:00"
+  },
+  {
+    "title": "タイ最高裁、盗難犯の有罪判決に対する異議申し立てを受けてビットコインを財産と認定",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXdLN1JETmVTUExKcE9GZF8zOXMxMDNWWkE5M3Y3VkkzX0lHRkh3SGp6T0ZlV0xoV2Y2emdoWXJYU1hLaExWcGJZdGtiOUQ3OS1yQ1ZkNTRnUS1LbDNOd182LUtVZUJTbTg0UmhMRk1ESEU1cE5JMnYtQkFCVURJNGNFZDlHNEgtbzdzNFBDYUcxVTkzWDZaMV9vaHhJX2EzaFJILTJ1OHZkT3RPWnZHLTQyVzVhdTZCM0tFN3JFOHVTQQ?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T19:04:36+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
   },
   {
     "title": "ビットコイン「2036年に2.5億円」ビットワイズが長期予測を上方修正",
@@ -360,6 +536,14 @@
     "first_seen": "2026-10-29T20:55:29.196797+09:00"
   },
   {
+    "title": "AIがWindowsおよびMacのビットコインノードをクラッシュさせる手法を発見、現在公表中",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzc0dXBvNXR3U3d0SFhZZU9FVU85YUdFTmlPNVZDeFA2cWkwNnNGUzB1cVRVOXcwMFhPemR4OUhnSUZnVUh2QUJ5SkVqS3otb1VKM1dGbnYwUWprWU84ZFAzNDZ3NFJ5ZDN6b0owczh5S2EyNnItTHhXeGU0UGJqdFBaSG1jamJDdlJQZzdrcHNudVhnN0pZczhOOFl1cGJQYjJ0RzdaTFhnYzdlSWRWNm5jM1pTdUU3?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T14:54:39+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は変わらず、ユーロは失速 執筆： Fisco",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbUIybmJqSEk4cV9KeURpRVZjdzVJNmVXeHJRckZ0TVFYb1pTYTY0RFNxUGREcXduTjhxYTZjV1pKTy1WWGVDeTBPRU8tZHRDM2t1OWREazJyTFlaN2k3c0NKZ09kRm8?oc=5",
     "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -462,6 +646,14 @@
     "instrument": "ドル円",
     "published": "2026-10-29T13:10:01+09:00",
     "first_seen": "2026-10-29T20:55:29.196797+09:00"
+  },
+  {
+    "title": "ビットコインが80,000ドルを下回り、3億5,600万ドル相当のクリプトロングポジションが清算される",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa1U1d0xGX0RqRm12WVVmS1FsRlBEVWd4RlVaLUM4LUdEZXZNTi1WME8tbFlDYTNwUFI4VVVWR0VmTllsU2xPYUsySmJ2cFVRX3dvb01YRnFLdDlaMV9iUmMxRnJQbUNSb1ExS0RxZmFGOG5sOV9HUHNrT1Q4N1Z2aFRqVFl6RHo0dmZtZlUwNGlKTGJNdkVTd1FHRUltX29YdUwyS0pCMXF1blRMTm9hd2IyU0lWUlp3THZqbWFmcHBGLXQtYWN0MURleGdKVzdyVVBFRjhsOExjaVNPbllv?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-29T12:34:00+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
   },
   {
     "title": "ドル・円は軟調、米FOMC受けドル売り｜FX・為替ニュース",
@@ -646,6 +838,14 @@
     "instrument": "BTC",
     "published": "2026-10-29T09:25:58+09:00",
     "first_seen": "2026-10-29T20:55:29.196797+09:00"
+  },
+  {
+    "title": "ドル円理論価格 1ドル＝157.30円（前日比-0.26円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tcV9LbGFZSDVGTzk0WXdlcktCMWQ4VEtFY1JjbUJVd0F2RTROcDBfaTE2cmpmeExyRmJPZm9iLWNoanFGZnpQUA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-10-29T09:15:29+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
   },
   {
     "title": "ドル円、下値堅い 158.00円まで持ち直し｜FX・為替ニュース",
@@ -888,6 +1088,14 @@
     "first_seen": "2026-10-29T07:54:58.192224+09:00"
   },
   {
+    "title": "ニューヨーク金先物市場概況･28日 3日ぶり反落",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44NWtTTFRkRmo3MVl1NnhQcDhQS3pRd3ZpR01IbWR0LU5kbjRUby01amtEcjNmTTYzR0lwOVpLTm5jSUp0QTRnc1gtRUZUSndUT3NwSnBhTzJONkRiTThLZ2NIYXo4UTJoc0kzemR5WQ?oc=5",
+    "source": "TradingView",
+    "instrument": "ゴールド",
+    "published": "2026-10-29T05:35:06+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
     "title": "反落、原油高などが圧迫＝ＮＹ金概況",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNRmdiRURtclI1Ql9EalAzZ25xekZ3cG5XRmVPUGZEck5GY2Y0VTE1QnNkdUJJOERYdEp2b0FLNGszYVZpNWpJZw?oc=5",
     "source": "みんかぶ FX/為替",
@@ -1088,6 +1296,14 @@
     "first_seen": "2026-10-29T06:58:21.824557+09:00"
   },
   {
+    "title": "反対意見など：本日の連邦準備制度理事会（Fed）会合で注目すべき3つのポイント：Crypto Daily",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemdGVmxXdFJPbzYwdXExeDR1VWk1REtZQlp1TUdKaXNoSmx5T3hXRTlEZDRoOXRlVUR1LUpvdTY2NFkxMTFfcE9Xak5kWUhmVkFjYW9jZDBVRU5NcTRvcjlHMHJDbGNyak5pQ2ZfSndXV0tWRnNzUkt4ZTdXSzRjWm1PaEdHZldMUnF4dFJqTElfS1VjbTdINXdSVE1XelJOck1aV2RiQXBtZlU?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-28T21:04:36+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
     "title": "為替介入「余力あり」 中間選挙後 ドル円は？",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyMllWZDlXdmFtWHlvQm1WVWZnTHBvUlZtWS1HV215aUd5UHRlOWtCWWhwMmFGNHhOcm5ScDVvYndtNW0xd0xoNkZPdE1MRnZOMVZNYjIzQ3I4b0NqQzBFVHJZYjBCMnEyNWc?oc=5",
     "source": "テレ東BIZ",
@@ -1102,6 +1318,14 @@
     "instrument": "ドル円",
     "published": "2026-10-28T20:47:29+09:00",
     "first_seen": "2026-10-29T02:34:51.538655+09:00"
+  },
+  {
+    "title": "ビットコインの自社保有株が50％急落、企業がBTCにアクセスできないと発表",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkJkTjV6dXJiUWtaaTgxU0NfZ3RtUnJWaDY3ZU5vV2xkNl92d1pXY0VlbW5HWGppeTd5NVJMaXgzNVBYZm4ta05VVmtDeFJYTkFzeEw0WGVpVzJ2MFhpWWhaVTRUaDM1YUFjX3YzRG52V2RzWGJJSmNVZzhaVlVkUzhkclNfUGZqZmpwdXNtZ0hmWHlVaTRJVDlscGFCWFdzTXJNUGNZUTlqamlfZG5SMEwweEZTRWdBU3F6UlA3d1Vra1VBeGc?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-28T20:34:45+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
   },
   {
     "title": "メムコインがアルトコインの上昇を牽引する中、米連邦準備制度理事会（FRB）の決定を前にビットコインは81,000ドルを超える",
@@ -1198,6 +1422,14 @@
     "instrument": "ドル円",
     "published": "2026-10-28T17:43:00+09:00",
     "first_seen": "2026-10-28T18:06:15.261790+09:00"
+  },
+  {
+    "title": "ビットコインマイナーがAIへ移行、ハッシュレートは過去最高水準",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iVU9HR0t5UnI2cnJqSmdtTTkzWTVfNll6LW1GZmxIUnl3WFFXb3paTGhGNUhZbVdSYUFIQXRnbV84NUs0TG5WRURobG5WbngyN2lUcUxIenV3TGlkVHNWUVZsTEtFUGxXU2VF?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-10-28T17:32:30+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
   },
   {
     "title": "米中間選挙まで1週間、ドル円に今年最大のイベント週が到来！選挙結果がもたらす「波乱材料」とは",
@@ -1462,6 +1694,14 @@
     "instrument": "ドル円",
     "published": "2026-10-28T13:28:00+09:00",
     "first_seen": "2026-10-28T18:06:15.261790+09:00"
+  },
+  {
+    "title": "BTC、ETH価格ニュース：ビットコイン、FOMC（連邦公開市場委員会）決定を前に81,000ドルに接近、ZECは8％急騰",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQck5FS3JSelZydGNzSGFKckxrWmN6UFZiZUNkQnpiRVRnTXhsbDRnUF9CbFNERk1xM0tfd3RUbzFJeXNHOEw1TldNeVdKTEdLbi1nSnZSamIwOW1KUVZfcjdnMk01elRsNTkyeWdOaXVGZkZZRnpERG4xd0ozdVFOVmc0eHpkQnlNR01CWlBEdGhpVGZ0dS13a1l2NFpBdzZScGtBOEZqOWExM1U?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-10-28T13:15:20+09:00",
+    "first_seen": "2026-10-30T07:10:38.215348+09:00"
   },
   {
     "title": "欧米為替：デイリー見通し カナダドル・円／カナダに利上げ観測(フィスコ)",
