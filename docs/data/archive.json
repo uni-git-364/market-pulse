@@ -1,5 +1,37 @@
 [
   {
+    "title": "ビットコイン、急落し1200万円台に AI関連決算と雇用統計が焦点｜bitbankアナリスト寄稿",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NekVNcGYwZm1TX3BkSUc2WWNxaU11ekhDZGp6LUE4aHRQRzA5c054aGd3LWo0V09pZWMxS1pXMDU3enM?oc=5",
+    "source": "CoinPost",
+    "instrument": "BTC",
+    "published": "2026-11-01T11:30:13+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
+  },
+  {
+    "title": "金相場価格デイリーコメント週間まとめ（10/26〜10/30）｜水野崇",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtT1kyUkd1OElsN0ZoeE9hdlpxOUVUUVBBUC1JWTRtS2NKeDI1UzhpRGNpQnVGMGdheWl0VU9JM19rVndyVE5takJBV0xQSkt1UWxtTS13QnRSd2hySzlV?oc=5",
+    "source": "JIJICO",
+    "instrument": "ゴールド",
+    "published": "2026-11-01T11:09:11+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
+  },
+  {
+    "title": "FBIは、北朝鮮が60億ドル相当のバイナンスハッキングに関与していることを確認し、DeFiコミュニティに対してBTC、ETH、SOLのアドレスをブロックするよう要請しました",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX01LY2tuM3BNUDJzTWY2VFVjbFZHZklIMUhER1hLMVdiSVg2d2xrcTg2NzAtbENIN2IyRkRoalRBbkJPZTktcjR1WEpFZkVMUm0wLWhSajJRS2lheEdNQkxxNy1KS1NiUnR1eDhPcUthZjdCelJiQXpQYzAxd2pxYUVwaTZXNzNxZWFxMGZ3Z3NFSm5vb3BVVzJ4VnhPXzF1d0Nxdk1HQmd6dy1XLVcwVFUxSXdhOE5rcE1aZTY2Q19zNkNuc2cwa0dXejhwNERsNWIyUTk4YjRLX3BaY0xyRkNEbENZamV6NTk1NkhB?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-11-01T10:12:00+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
+  },
+  {
+    "title": "週刊仮想通貨ニュース（10/30）｜バイナンス流出・BTC価格予測・リップルの発表のまとめ",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB6Yy1rUWZmY1RQcjN4UmtGXzVxeTltS1NKbkhSUHptNEcyNWpUcmRFODRJNjk0blZlZ1BiVE5KdVNNYWM?oc=5",
+    "source": "CoinPost",
+    "instrument": "BTC",
+    "published": "2026-11-01T09:25:25+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
+  },
+  {
     "title": "ロンドンで盗まれたiPhoneが暗号通貨ウォレットの資金流出と14,000ドルの損失につながった経緯",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFY3U1EzS0o1bDhXVnUyMXVubGk1Tk9kUGt6NlgwR2swZkRTS0Z0TXBhWlN2cGFOZDlzYXJjanhGaGJoUFFZSUFSOWdjRm9zM0g5VzY4SG5hRl9Ca0NrM3o4amZOcHFvMUM0b3lnakFjQ1AxallVMHdfVmppUkhleW5EU3N4ZVlkeU50VTVLYV9ZNXNWbVlQdDY0cXY0X1A0QzkwYzR5VWVpWnU2d2FyOFRfSndKNS1p?oc=5",
     "source": "CoinDesk",
@@ -30,6 +62,14 @@
     "instrument": "BTC",
     "published": "2026-11-01T01:00:00+09:00",
     "first_seen": "2026-11-01T01:28:12.681165+09:00"
+  },
+  {
+    "title": "仮想通貨ニュース週間まとめ「クラリティ・価格予想・バイナンス流出」などの注目記事",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yWFBrMS1pTUxJeko4Q2xsSHNhbXQtUGdsM3JvLXZnbjB5ZURVSEVRUDdUa2dDdGpZQUU5VW5SRTNHVlVwZ1dMMzUxb0pOUQ?oc=5",
+    "source": "BitTimes",
+    "instrument": "BTC",
+    "published": "2026-10-31T23:55:05+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
   },
   {
     "title": "Uber、HSBCおよびFranklin Templetonとともに、アイドル状態の資金を活用するためのトークン化の実証実験を実施",
@@ -86,6 +126,14 @@
     "instrument": "BTC",
     "published": "2026-10-31T17:35:00+09:00",
     "first_seen": "2026-10-31T20:22:49.875849+09:00"
+  },
+  {
+    "title": "米中間選挙カウントダウン：ビットコイン価格は10万ドルを突破できるか",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdEVLaWhjTnVGb1hheU1nZElRNDRnSzJqbU1mbXcyWjFBVVJRZnhydkRBOVo1ZGZlaXA1MnRvLXFNWTcxVWgzM24teGJ3TmRYMXBJeUZwTEh3dEdQOURHQjRrMDVhVlh6ZTJncXI1MTJ4SkpPcTRHOXY3Z24zUFdFUkFkcGdzX0N6cXFhdkJSSnNBSDJzak1PN3o4LUpOdUVWckxIT0FWTldzNU1nYnotWUx5M01BeVlrSUdNekh0bDRSazd4SjRQTlRvOEo4WEtnWFZybXZsS3g3SV8ycU0zTTVMd19wdXZSN1kyVQ?oc=5",
+    "source": "TradingKey",
+    "instrument": "BTC",
+    "published": "2026-10-31T17:00:00+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
   },
   {
     "title": "バイナンスから盗まれたビットコインはテスラの保有量を上回り、エルサルバドルの準備金の2倍以上に達する",
@@ -936,6 +984,14 @@
     "first_seen": "2026-10-30T20:49:11.233838+09:00"
   },
   {
+    "title": "ビットコイン急落、バイナンス1兆円規模の流出で市場に動揺｜仮想NISHI",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fVTZ0MDVTZHlxUGVUQnNfTFd4X0l6M094dFRqWW1admt0bGtHeVFGTmxodTZIcHJDemRYb2h6ZkF5Vjg?oc=5",
+    "source": "CoinPost",
+    "instrument": "BTC",
+    "published": "2026-10-30T12:35:57+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は軟調、円買い圧力で",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KVDRUZzRXcFozQ1ZhT28ybW1LTUlTSThjNldpbnNnbWRnMldjUTQ1TkhCdk16MTJMQ0pkNFdyT3d6WHZzb192aTdBSWZKNmUyTVZQOXY0a3ptSkQzb1U3bQ?oc=5",
     "source": "株探",
@@ -1328,6 +1384,14 @@
     "first_seen": "2026-10-30T12:22:49.421264+09:00"
   },
   {
+    "title": "NY金：続落で4032.22ドル、12月の米利上げ観測が重し",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDdUV1IxZnJlVk1HSkR1T25CbWFiMW9sY293LVk3a2t0M25UU2pNcmtlLUotdkJsSXNhRWxoeWlPSjloWE1OU25aQWhoSkJzMUsybTBLWkxDR0dBOWRWbVRwVERkTFpnQXdDeDJGUWswbWlWX3RKaUprSEMwT2VnUHdRMnh0ME3SAYwBQVVfeXFMT2pHTTVfQk02ZlZCTGtsd1h3eDMyMkpfRjNLcXRDcndOanB2ajdIVjVlM01WYlZEcy1vcjdhMHlacDMzU3NWaEZDYkU4bmxWc3lENHNvdnRsTW5XTGMyYk5FN2JZT05OR3E3N0RCYms1VG5mNl9QYnBxMUUtMHlvWWE0YWhDRHNiYnkzM2k?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ゴールド",
+    "published": "2026-10-30T07:27:00+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
+  },
+  {
     "title": "ストラテジー、ビットコイン上昇で営業利益21億ドル過去最高も1株当たりBTC減",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXVjSFhPWV9OQ1BwNEJJNEpKSmVVdmhPS285RHI2TGMtbTZyRmlvRk0tZkJiekp6c1UxbWtURldzMzZUaDVkTkRaOW1rNXVqWWhJS1JaNHFtSlMyZ3lQaWZnSDhvc2laMlZYTTY5SlI4WGNxNk50YVo3OW5vY0hGOThCd0Q?oc=5",
     "source": "BeInCrypto",
@@ -1478,6 +1542,14 @@
     "instrument": "ゴールド",
     "published": "2026-10-30T03:01:00+09:00",
     "first_seen": "2026-10-30T07:10:38.215348+09:00"
+  },
+  {
+    "title": "金は０．５０％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FVmpyZXdubkE2TGdpb3l0S0RPa3pfOUU3Z3o1UnVNcFN6allZVi1zd2VBNE9EcEdwOVlJWWVVSnFuLWU5WEMzTFVEVGlFTG1uUzlKT1lhRi1zZ19HN3A3bw?oc=5",
+    "source": "株探",
+    "instrument": "ゴールド",
+    "published": "2026-10-30T03:01:00+09:00",
+    "first_seen": "2026-11-01T12:01:52.760112+09:00"
   },
   {
     "title": "金は０．５０％安＝ＮＹ金終値",
