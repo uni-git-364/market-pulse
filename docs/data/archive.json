@@ -1,5 +1,405 @@
 [
   {
+    "title": "欧州為替：ドル・円は小高い、ドル買い地合いで",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWUElVQndUYmJwZGdfRUE1NWpGQzVicWJ5U3ZiV2xyTVlGVGhGR2tNbmJKZy1NSW9UWm9rUWRUTjhydVBkbjRUbkNxdG9Fb0dTWFE?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-11-06T18:29:55+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ドル買い再開、ドル円一時１５８．２０レベル＝ロンドン為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oTnN5V2s1d1JZcFYyWGN0Mkp0bGhVZVNOUmNITktFM1p1WGR2cjR3aTRCNUhERk1wcUhzOTVKMDEzaEMtcVhuNg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-06T18:09:29+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替概況：ドル・円は底堅い、午後は小高い｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2ZUk4aUEyUVdOdk9RdVZxT0NmWHpvMlJLTF9pMDFmcjhyNlNBUVU3MmF6bGhhMXNndTYwSHB0b1NVZWcxSndtTHJmb050ak9nUEE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-11-06T17:49:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ＮＹ金 時間外取引 引き続きマイナス圏も、やや下げ渋り",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aOHdWbHM1LWNycFEtNk5KRS1wOWI1NnJudDNlc0xCelJjYzc4bWtjRUJXUWxVUE5YZ0kybXJVYjhCQnZkdUdlTA?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ゴールド",
+    "published": "2026-11-06T17:38:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ＮＹ金 時間外取引 引き続きマイナス圏も、やや下げ渋り",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96NXRLN0lVSGhybE50TmFqODNUaXVBYmJnWVlxbWZVaFh5a25wc1dlU3hsWVc1ZlBfczBhaFMwYVpPYmpxQWtTVg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-11-06T17:29:28+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "欧米為替見通し:ドル・円は底堅い値動きか、米雇用統計改善ならドル買い",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajg3Z1ZDTUlRbkNkcFZhYlN4Y0JKVXpDV2JVRjRPQW9BRXRYUFJZeUFEU3pQVUVDVk82d3VETVYyRzR0SEJ0dU5QNHA1Z3hWaVRHLTlsSEpiTm5WVjV2elFTX05xS2FST1RBVlFnbEpNZnFscHc3RXlRakg2Q1ZfZTI5dEdkZjFlclVNQXRWSjJKcjJTMTkwdWl6NnAxcmliZk9HdTJ6Q1htbWZWUkI1TEFNSUlsbWFvS19WczBIcXl0WkZfNXZLU01Yd3E0R1F6dVBJdVJaaTBJNngw0gGMAUFVX3lxTFBVcHBlbjQ4Y0poNFdCcm1TdWowX2lyRVFRSlA2eE9rbEtnRl95UDhXN3NNaE1Oa1FSSHFKR3dqQWdlcjBvLVdPOGVXd3c5OFBrY2lUSjV6VUdjUFp0ZnJld29ZWWlGMHdoSHhRUENwQ2gtZDl2d2ExS2lXWkdKRjE2UjNnYXd4Nl9DeXdu?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T17:25:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "通貨オプション ボラティリティー ドル円１週間は７．７８％",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOU1Nra3huOFVDbGY0M2RjR05UWlpJcm5KeVAzY3o2elJwR0MzVUsxbHN1aXpINzdjUFBDeUFTVnlicldNb2JfQw?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-06T17:17:29+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は底堅い、午後は小高い",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWdMOS1Vc0piVVoxODhXa1lCNlJ5dFRUVEdjbVcza2t6SVFjUS04N0tiU3JLYzJnajQ1NUFTQl9qcGctU3o4RXdtVXVEekNUOGFtRHU2SDJFR0F1QnJLVnh0MUpmZWhJeDFkT3VldXVlelNYcE5wN1cyemJUTmUtek1GY2ExZmvSAYwBQVVfeXFMUGpfR1psQy1fYkVTbnhUTjJILTFRcUI5VVNWRlVhSTl5MkhjbHNvdUV3Skc5VEZvODlXZ2w2OXF0MURTU2szdkxWOXhaalhjbTB1N01tTFRsSzV1Nkw0akY5U2RRcklfNTdCQnQ0ZUdkWl9QNGpiRHdvdHVqdmJMSGQxX2VUWUF2c0pobmw?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T17:06:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "BTC週次分析：米選挙後に急騰も失速、1200万円のサポートを試す",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iVEE2cXFXMy1fS1FDY1k3LUtMakFuRUpQVWREZ1VFUHAzejczMFdHaGV1UTJRTkpISzVkMHAzRDZXSmEyTWgxZ3oyMnZZR1F4VjB6ZGlQdWlHbE9GQTBOU1dOeWlHSktyRVN1cXJ3RHFuaEQwNEhlV1J4ODJqdw?oc=5",
+    "source": "bitbank",
+    "instrument": "BTC",
+    "published": "2026-11-06T16:55:20+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "テクニカルEYE（ドル円）＝やや買い優勢、３日の高値１５８．７７が最初の関門",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BdzAxa3VCUWdHdzdRQ2ozWlRPNURHNUE4eTVRQlduWkJTY1hfNmlxRFcyOTdzZzVUYVdJMDlZU2QyZkFYUWJ2cQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-06T16:34:29+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ＮＹ金 時間外取引 ４０５５ドル付近、ドル買い圧力で上値抑えられる",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KYk1MUmttLURJZGN0amRpU1R2WGh1YlZ5OWx1OTdqM3RCOWlaWGpHdlJkS0puVWt5elpRVUJWa1ExWTZaVThSVQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-11-06T16:17:28+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ロンドン朝方、ドル買い優勢 ドル円一時１５８．１６レベル＝ロンドン為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4RzVwMFU4ZktVQUZpRHMyMk5kR1VVdnB4YUg3XzJ5SnJhX0lvdmtZRXV1eEEyTjZLNFdGZjRodmQ3R3p1VGRaZQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-06T16:15:29+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は切り返し、午後は小じっかり 執筆 Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hMXFTOHN2UTBpUkRQQTlMLUM0Mmt5bXFNcFVST2JCMG9BZlhxbmduakV0dnE0LUMzSzd3Y2c2MS1PTXEyeFVpdmR2MTFDNHppMkFpZVpwcnE4OW9haTNKcWZITDQ5ajQ?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T16:08:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は切り返し、午後は小じっかり",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEFvUzF0Q0F2SGVpTVdzNEtnNlFoa2VvTFdpd1dISFNrR3ZzTzI4cXRWaW9DeHRrQTRybXJCLXE4U2wwRlFtYVgxMXN0WGQ1VUxjcXAtV2NRVzNGUXo1bmRSby1QYllraUZjYmZ6eWNFU2V1cnRTVmhHczZxbG5ENHZSN1o3dFB4VUt6a2h1aG5BR0dHc05oLTR30gGMAUFVX3lxTE45aGczWTAxbUhwaXpybzZxX19lTzFPMGU1QzEyQzQtT2h6UHcwQUdjTVo4Z1JscmVJOVB6cElFc0o5aXNacjBkSnZpM0RlaGJ2N2I3ZWZtMGQwbGhBWVQ5VmUtTWtra2p0NjRYaUY2aHFkblMtRHdzNkZmSTk4R3E3SjlFM0tMVS1obVlJ?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T16:08:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "中国、金輸入1000トン超 個人需要と「脱ドル」買いが金相場を下支え | 謝駒蕥 | ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByX3B4S0k5T2RZR3N0cXNJck5XVFRsRFFQcElnOGtvUUlvU2hzLWpGU3dNejUzVElEUU03c251SVRsMWp4aWt2aXlFMzRpYWpK?oc=5",
+    "source": "風傳媒",
+    "instrument": "ゴールド",
+    "published": "2026-11-06T15:52:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ドル円は朝の下げから反発し、もみ合い、その他通貨はドル高円高、リスク警戒優勢＝東京為替概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1md2F0a0lrMlRrN2FGTmVJaFQ0Tm1CaUNJOUVaT2trcDNpLWVrMk52b0ZYRTkxWmhrSUVEU3NiNmFRS3M4cHRsMQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-06T15:46:29+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円はやや失速、日本株を注視(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDRac2I5S1JnejB1Q2ZvWGFUZG9pTS1HbFpwRkdRYjhKQkFiVTFDNE9ZY21FUVlmNGlZY1BCUFU4QmNSbjV2S3Y4YTctMU1ncHc1MHRTc2pRa2hVeF9IcExXdHllRERCWTNLbV9uZm9fdWJNdkZNa3FuVWtwdXUwbmE5MG1wbGM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T15:17:30+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "６日の東京外国為替市場＝ドル・円、朝方の円買い一巡後は１５７円台後半で小動き(ウエルスアドバイザー)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVfR2xWSDByS2dwdHM4SEtnQnhBWm1Tamx5RHEzNVh1SDFlaTBrZ25RRmRVLTQxRWh4c3RVdUlfc281M29VTS12ZUpZQXQ5SXNPdmU0SXRId2MzVTVOM2VNWHY5bmR5UWR2Ti01dENxQnpTeUNFeHRlYkdWWlk3TnM3eENTUkU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T15:07:22+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・15時 ドル円、もみ合い(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOV9ZcVhLLUpmQ1E0ZW1SdmJXZXctSkhIakE5VjdWZzMyZGNxUzlRUnVraHFoY01IeWNzbFJ1MXp0bGl6MElsWWdKbGJLdDg1TTBEYnZoSEJ2MnVtMEZmRU9Qc09CYjBwcVRJVzNxZFNhZW9OVklqOFVyOWtzVVpZbzFHZXNPN2M?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T15:06:04+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ドル・円は動意が薄い、様子見ムードで｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sdnJuaEJ3RDJiNHZlVHR4dk5GUmpYYjB0RFhmWHBtVmVUTVJTWHJXM2h6MXNGTDhuMnd1Z3U2RzNjT0pRdHg2N29BNUFLYnhxLWc?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-11-06T15:02:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は戻りは限定的、ドル買い一服",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalliQVpvelRXSkJBVE9fdUVua2c2UDhaMzlFMVZicFBZd3NKMzlGUi1OdmZBSVJGcHdWRzgyaDNyaUJsakpscGV4MFNoUkZUQmNTaVdZS0xwZUtsREZVc0VNWGUzZW9OZi12UWd5dk5KbktxNWxjSGd0T3JCWV9yeFo1X1VIMG_SAYwBQVVfeXFMT0tvUGhwSWV0LXpLQ1pZYXVueGVqd0xMMmwtN29ZRzlvSldYeko0UGVCTENoVzU4NlRjUWhSXzNZU1pTWUh5dkhJYk5QSzJDOTg5eUNMcWoxQXJTeUR0Y0UwaWRWTE1EbzFiOFVWZ29XZElESDlHeUJ3Snl3WkFmNWNvT2poSU5EVE83dks?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T14:53:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は動意が薄い、様子見ムードで 執筆 Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rLVNBaFJyX0p3aG9hc3J6T3lyTWJTazA0c2FucFJrdFRlaURDbmR4TDlZcUQwa3ZUVjdFMVM3WmpCb0hpQm5tUWY4N21CbkFUWFZ2YVRibFBWM3QtaTB2Qm9aMXVVRDQ?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T14:07:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は動意が薄い、様子見ムードで",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0tjRlhJV1laWU5EMFZNTEdSY1d0WlJfdDRETTdUX1JiS09yMldoOFlxdnUwUUo0TmQybmhFSWxHck42bzc0bkNaTzNPaHhLcUR4dFpvaGtOa3lxM1dycTFfWnNsVUUwR25wT3hWbHY3Z0ZWU01HLTI5Z2pUUUtuYjBRSFRmNVnSAYwBQVVfeXFMTVk0UVdFOHI0LXRMLXFUVnJSXzh1bkZNOG9lX1Y1S0pFaFVKejlNWFc2UzV1WHlxU1pob2VIR1pZY3paVldLcDJnYmY1RVAyRmhsSkxLcEtMRW9lMUNWOXZIY2RLYlRGQ0lXMkNWSk1ybmNfb0VCTkQ0TG5sUWx6VnNueENhSUdKb2xCc1k?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T14:07:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は小動き、株安警戒続く",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DVnRrc0Q5RGhPRGQ0dXlHQVgwWk9QZTRwZWtaSktlOTdEdjF6c1NSOWNmRlA3S3FDME5qdklQN18zOERxaDZkUXNVRHhsR24yUEE?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-11-06T13:41:01+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "テクニカルポイント ドル円 10日線と21日線前後での推移。",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sdENpSTRFNXR0T1piRGN1Qk1WemdrUnFYV1d0em9aVWhnc1FwOWZTcVpvVlIyblhubW95VkN0ck9Uc1ZVUTU4OQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-06T13:40:29+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／雇用情勢にらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHpCVGt1SFhzLVkwTVliSlB0TUlqWHp0X0J2OE51bnhHTzVkZm1aNUFNbTU5MmEwMkZGeU0yZVhuMi1abnhUVksxUmNNT3R6cFdmT0h1RWFWM1RJSUFVZjVkdTlkbzVKdlBWVHROTGl3OFlob0xtUVVMMmJaSW84blVZdVVkS1U?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T13:35:33+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し NZドル・円／リスク回避ムードを意識(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWs0Um1hSUoxRngtdzREemU4NGZIY19Cc1RRZXN3S0luYUlXUGZpWVlGRW54UWhVWGpMX2NlUnh6UWtqNEdKWEN5MGpsQ1hDYnRMM04wQXp3VVFjbGxDQVlaWWIwaDFpdnBCN291UlIyTXlzTGoxc3RvdkxXZGx4SEtBd1hqakU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T13:35:08+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し 豪ドル・円／豪政策にらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODZQVnI4dFNfLXVZdVkzYzlGcXFVUzdzVTBycVdBRmxHdm1JcXFBb2Mxd3d6djItRU9scTVzZmZiNTJzU1ZzU0JTTG5vanlVWXgxT0pUWHpoTG1FTHA0VVZYVWF0MWpJTGRhU0NLWE1tSXQ1T2NjVzA1OHptdmZURWYySmpmZkk?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T13:34:43+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "欧米為替：デイリー見通し ドル・円／米雇用統計にらみ(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkdGVmFhdzlwRWlpWlRHR2cxTEthNVRfWE95dnRJY0Y5ekJkYTNRRm5GQ2hhd3RKYkU5YkpYaVRxMVRPWFdYVE1ZZ0VYQnlzeUlfNWItWWxjN3ZPRi1Jd1dmRjRaRlF2MGpaa0xTN2RCUzkzZnhEVklYZWlBRjk4LW1tRVl2a00?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T13:31:56+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は底堅い、ドル買い地合いで 執筆 Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JVUZjZUlrTDZtR2VrWjE5NHB6VjhSQmI2Vl9Pdkx3TzlhVkdSY0t1N3BJa09JdndiZkRZYWZNSndSeEg5ZTduZ3hVM1ZELUM5SUdwSXZDWXdQUXNUcVl2cDkxOEZWbFE?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T13:23:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は底堅い、ドル買い地合いで",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSFpNQ0JhS0hMSm5Yd3dyUEJXeWcxQTI2TW9fNUh2T0c3ZXVfdC1UUzJWdW9GYWtnTF9WYjRGd1VLVU40aTFCRFhhQVExSVdnNi1BZHVxX1dXaXBXRTI1Zkd3Mko0Qkl3d3FJSlJWOURaVk5tSEpRd3NFQ25JbWpZN1JDcjh3ckd1UWVncUhveEkzSHBlTHY1MmdLYVpmVXBydWFhZ3JPMjVjSE9LT0VPdm5lY3hDcm03X2JpNDk5dzk3Z2hSOFZlcTVONjJ1YmVxS2hTM2g2bFI3NjZW0gGMAUFVX3lxTE5aa2RsT1FVbXR4WTRQcFg2M2dpR2V4UHJUNy0zTFJ4RDFFRW8ta21FUjUzRkoxLVJTbWhfWlFRX3cxU3hjejkwMVFoOWI3bHpVdGFnU1RmNTIxMUtSaVZOVmJCNUVpUGlQVTBscUUyNHdDS0JPaFROZjlINFZ2Nk1tUXNzaWxjXzBrVW80?oc=5",
+    "source": "ｄメニューニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T13:23:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "BTC市場に追い風か、米財務省「28兆円のTGA残高縮小」見通しを公表",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EbTQzRVZzSnk4ekZyajA5YTFHVHZsM1hQTkYwNUR3bXJCREZLaEFodmE0S3JXVmF2LTNLU0F3QktjQjhLRFBST2xpSmpPQQ?oc=5",
+    "source": "BitTimes",
+    "instrument": "BTC",
+    "published": "2026-11-06T13:00:06+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ一服、株安で円買い優勢 執筆 Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mZFBROGhHNC1ZUjI4T2UteG1NdmY5V0dpXzhDaTAzbC11aGVwM0RESEc2REp4NWVZYl9ocU81Yl8ydVQxUFdvd0l1ODlVMWltUEJ0S3NpVHpZV0R1MzhLRzZITTZYLXM?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T12:30:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "５日の商品動向、ＷＴＩ反発、ＮＹ金は続伸(ウエルスアドバイザー)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOG9rZVhIOWo3Tkw1V0RsalpBNDlveG1XVlNGM1NUVy0wLTlQWW44S0dBVzZLWlZHNEhLR2lkY1VFMmJKNHVsQ29CempITnoxVXpsLVBob21pN1FfdmNDRXBLcDBybUV3U0dYNHJTZm0wbFZFUVBDaEFhNHlSRGR4M1pDQVJqZWM?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-11-06T12:22:56+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ一服、株安で円買い優勢(フィスコ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUJGc0lidE5GeUZoTHNkTFVQaEs2OEpKVjVmNTZTNElpWU9BbWNBYkljTGdDZ05QNU81dlNCX0RxUzUwajhNMXRNNHV3SnlRM0tMZHJRLTJ4ZnZOM3MtdGhKMnlyVkw4ZUdNaE9qeXdaTW0wWGxYTDN0YTZTQ3diZ3g2RkNwS1E?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T12:18:47+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京外国為替市場概況・12時 ドル円、底堅い(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmR0NWd1TWZGdEtFbWdNaWVONjhkRnZ4Q0FJV0ljaWdCa2lCbU0yQXBOaFhRdmN5SUFUWmJibDNIVmdiYWxRbHJETjFjU3VfektsOV91dnpaQURQbHA2ZDFqSzZEd003M3o5ZUhpcFMzNERNbmhnWkdwNjZkUHQwNmp1Mkxsc1U?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T12:06:17+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "『金持ち父さん』ロバート・キヨサキ、金・銀・ビットコインの暴落を予測",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zN0c3MFZmeXFvTkdJclNmU29UT0ZCQXoxdWZkRExJcWd0NzA4TlBoMnpzUnZNdlBENjZ0UERFSDhCa3B3QXFjaWZYVEEyMDl2ZmN1ampCcWVUdw?oc=5",
+    "source": "Forbes JAPAN",
+    "instrument": "BTC",
+    "published": "2026-11-06T11:45:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ドル円は下げ一服後に切り返す、米雇用統計の発表を控えて＝東京為替前場概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPeERhSTZjNHd3bnJyLUtzbFNjZWdTQVI2ekJEdll5LW9tNW9ib3k2QnIybHZIMlRJWlV2cGxEc3RlV1hfaHpJZA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-06T11:40:29+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "通貨オプション ボラティリティー ドル円は７％台後半",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qWE1BQ0FKakNreU82YnFsZ0FQTzFhbkxVdHRfNFU4dm5zUDJwdUowdEVwQ0trNWpRYWpBbGNlaUpIWC0zWFBTdA?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-06T11:30:29+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "【FX】11/6 ドル/円、米10月雇用統計でどうなる！？｜為替市場ニュースの振り返り、今日の見通し",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfNTVYRTh3R1RTT0ZVNExMM0p0bkJkV3Q0cXFHVHdhUXpHQklSWDViM0txeU8zOGx4ZFdBc3hnOXhaT0c3V3F1ZkRJX1FkbXJjNU5yOVl1Zi1lOG9Bdnp5Tk1LUQ?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-11-06T11:30:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "バイナンス流出後のビットコイン最大下落は5.7％、過去例では中程度＝クリプトクアント",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByY3JZdXJBYXhuTmxYUkFXMk5mbjdEaVB5alJSSlEyY0hJaG5OalJsSmRFUjFZWGZXc2JvMW5OVGhucWMxcVdZNnY2UWNTSUxk?oc=5",
+    "source": "Iolite（アイオライト）",
+    "instrument": "BTC",
+    "published": "2026-11-06T11:29:25+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "グーグル、ビットコイン採掘企業のAI拠点を支援 アンソロピックの不払いに備え",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TeVJpYWpLZDF2Z0tjdEdTQk9MSVRWWkZVMFFXQmJuOWtWaG9OQ2VfbXROS0FhT2N6SjY5czVqV05jaWhzTVMwMWVhRExaTGUz?oc=5",
+    "source": "Iolite（アイオライト）",
+    "instrument": "BTC",
+    "published": "2026-11-06T11:29:22+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "Hyperliquidのトレジャリー企業、国内先物プラットフォームとして米国規制当局の承認を求める",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjRUT0ZDSUhyZW8wM2VldldYU1ljOHl0cmNiRTdrOTFodVJTQVRFampMY0hHb1pBb0tuX2l6eUZXVXBHY1k4anNmQnFxcVJ0dnhGWllyUkVUakdKbW0yekFaWHI4R1pTUGVDcmJyZlhmb3pYbjNKNzViNTU3aU8zNFRySWZkYUFWYjhrbDM0TlpaWVZCa2tDcEtxcmE0QVp4SnU5bUZLZjZmOUlzWk9ZMkZKRmpRZ09jZ0lmZ2czLW9DUEpDYzNXZQ?oc=5",
+    "source": "CoinDesk",
+    "instrument": "BTC",
+    "published": "2026-11-06T11:24:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "週間為替展望（ドル／ユーロ）-ドル円、米ハイテク株とCPIに注目(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUJ0ME1OOUJaRmFvWXdGUmg1WEZ6OEs4dU9YWGFNcWlYdEIxVUJvWGxrX0NFOTYxUDZsclpiUVFvSDNlMUg5eUlidDBpbGNQanZJeU5GeVRpOF9oNkpzWHNhbEJvdzhnb1gzZU1ZQm16LWQ3WFhZQ042Sk5iODVRMm5VVllhVkU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ドル円",
+    "published": "2026-11-06T11:23:03+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ウォール街暴落でビットコイン取引者が約15億円損失",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUU9BT3FmNHVuM2xBUUlyaEVTb093NjdScFpLMk5iek5KemdEbnhpTFpERXMwd3k3WTVwdUQyNEZ0MVFMZ3gzVDRhZmxzX0prY3VaNUp6UE1pMUJzcFh6c25BOUpKeDdITzN2Z2xSa2JZVmplcjE1eXNYRUc0eHFBYy1BelhHNmZuZDcwRmVR?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-11-06T11:21:55+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "米国債利回りが低下し、金価格は8月以来最大の週間上昇幅を記録する見込み",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkpMQ2NTVUI3NzQyOUFPeEtNSVdaQnRGSHg0azZBaWRLazBNMkVCTGxlUnduTTJEUlhFRVhDWDBfMS1mODR4UXhBM08wM1hnOE1Pa0RPWFMwalhVOWhubTl3Tm4wS0g2MGFTNHpGNHQtMmwwaFMwYkQ3d2hhWUZjc19jNDI5ZnI3U0lpMzFadjZQTmVURVB3TlEtQ0RrZUZ6X3F4bFcwSXE?oc=5",
+    "source": "Moomoo",
+    "instrument": "ゴールド",
+    "published": "2026-11-06T10:57:48+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "米中間選挙、民主党圧勝の影響証券市場を越えて仮想資産業界に広がる",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ha2x4NjN0WEJyc25UaTVCS0htRloweUdyeTVkZGFQWFNnRFBPNzVSQXBJRVQwVHdfQ0JDbE5FOGRCSjdvWEcxOXI0LWZ4eFU?oc=5",
+    "source": "매일경제",
+    "instrument": "BTC",
+    "published": "2026-11-06T10:42:45+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "ドル円、買い戻し続く 一時157.96円まで上昇｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aVl9scmltYUtLTmVYc0ZqQmNYMWJzSVRxX2NkOGdoTjBmclpKWkkzYWZwQVlOMXNkRnlieXZTNU5CT2JNdzVqbGc0YUxtbXZDSUE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-11-06T10:41:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は上値が重い、157円70銭台に下落",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GNTFtLWtENmNjU0xzZGkxM2R4QldZV09lTU10bE5JOXJ6ZU5hVHFZOVA3QkUzdDhnd3RJMnBQTFkyXzViY0FhQ1FFdGh6YlZvSlE?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-11-06T10:32:17+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は上値が重い、157円70銭台に下落 執筆 Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03c3lZdkhaOVY0SkhmSHVuM0E4TXNmeXVzV2xmU0tLdXVhTFNhY2JZcWszcTV1SUpubjdYSzlVUFF6a3JUekVzSGJJOGwxR3VjMG95VmpNdUVzQTROYmoteW82NGVWQjg?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T10:32:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
     "title": "東京外国為替市場概況・10時 ドル円、下値堅い(トレーダーズ・ウェブ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkl1TkpOWk50b2o5emtlZVNyTzdHT1VuOW5Xa2E0OXkxaGkwVTJvdlJHXzZ3bEFheEowNjAybVhMRE9xeUdsc1VmYnZtSGVtZHZzX1JOdHZaMHNmV3paekhHejl0OTRJZG9FRW9HZGl0WXFpSVNEaHR2OWRVeTNZT2dwdEJsS2s?oc=5",
     "source": "Yahoo!ファイナンス",
@@ -8,12 +408,36 @@
     "first_seen": "2026-11-06T10:16:04.185989+09:00"
   },
   {
+    "title": "東京外国為替市場概況・10時 ドル円、下値堅い｜FX・為替ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OZm1wSVlZSTNISE9Od1pGemVFYmpKYmhGbFE5cDhtekw2enpWV0oyTEt1QmlfMlVxY204SHVhbzZqaXlwcDdIcmlTSnp5WWR4eUE?oc=5",
+    "source": "ザイFX！",
+    "instrument": "ドル円",
+    "published": "2026-11-06T10:06:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は戻り一服、157円70銭台で推移(フィスコ)",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3V2VVotSlRJTC01ZVJxQ1p5all5aUNSX0RqUUtmVnYxNGtaandDSTNVbUVnUUxxc1lQVHRCcUdVZU9HTThiREhjZG9uOUZKTVR3V0Y0Q3pZejNEQWc4NDcxUzE2SWNJNzg0Wk5RblZrVW0wU3A1UWNXaEhiZDN3TGRkMjVEOVk?oc=5",
     "source": "Yahoo!ファイナンス",
     "instrument": "ドル円",
     "published": "2026-11-06T10:02:13+09:00",
     "first_seen": "2026-11-06T10:16:04.185989+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は戻り一服、157円70銭台で推移",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zYjNSbThKemtMRFBBTEZpc1Q5V1p6SjcxUmFrR254ZzIxTWpqVVlpc2lSdUxZWERmaUI4TGVYVTRCbkx2YVBvYThJWVZ2UUVrTFE?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-11-06T10:02:13+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は戻り一服、157円70銭台で推移 執筆 Fisco",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hb25lNklSQVV3eVB1MWJqWHVXN0MxcnFVVy0tR19NNDdFVFhRVjh1cFFUc0tNMy1XVUlPM3g5dm55MGJETnFwdU9ORF9ZWFdsb0swelJ5TVNvX21lSjZjSGRJOWJhUlU?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ドル円",
+    "published": "2026-11-06T10:02:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
   },
   {
     "title": "三菱ＵＦＪ銀 ドル円 公表仲値 １５７．７７",
@@ -30,6 +454,14 @@
     "instrument": "ドル円",
     "published": "2026-11-06T09:31:52+09:00",
     "first_seen": "2026-11-06T10:16:04.185989+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ幅縮小、157円70銭台を回復",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ob1FQSzlPUFRkNGhFMHpuTXU0bTdJdW9WeTlaa205cTUxNGlyTU03QWN6NWF1ZVNXOHBFanZlU0VwQ2V2MkZQVk45d3VwTjdVTkE?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-11-06T09:31:52+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
   },
   {
     "title": "東京為替：ドル・円は下げ幅縮小、157円70銭台を回復 執筆 Fisco",
@@ -56,6 +488,14 @@
     "first_seen": "2026-11-06T10:16:04.185989+09:00"
   },
   {
+    "title": "ビットコイン「6%急落」AI株暴落の波が仮想通貨市場を直撃",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ObVRJWmNCUlFRZV9rWFdqN1VTZnVYZFdqSVlMT2RHWnM0S19YcGZXXzloTGhkdDRmVl93aUpNeWdHNGpvSDZyLTRQMXNoUQ?oc=5",
+    "source": "BitTimes",
+    "instrument": "BTC",
+    "published": "2026-11-06T09:07:55+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
+  },
+  {
     "title": "東京為替：ドル・円は下げ渋り、157円25銭から持ち直す 執筆 Fisco",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MdUxEcDBOLVEtWXNPM3lESnZMZTMwMUJ2aUtoNDVDcEFPcUhjamdwbm9sN2xCeWtETTF1Slpra3lUN1JLbmplQmdfMjRTUWhuWWd4WWwwQV9PTVdVX3hrN21rMkg1ZGc?oc=5",
     "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -70,6 +510,14 @@
     "instrument": "ドル円",
     "published": "2026-11-06T09:02:00+09:00",
     "first_seen": "2026-11-06T10:16:04.185989+09:00"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ渋り、157円25銭から持ち直す",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xRVRuTjdjN3Q0UU0tc3NNSUVnRUd2WjlxeGRCVmZkRks1M1l5TEVkc1Nmd05PYXRmUkR1R0x5cHZ2UE9wbHFXaE1QVE1mcnFWOXc?oc=5",
+    "source": "株探",
+    "instrument": "ドル円",
+    "published": "2026-11-06T09:02:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
   },
   {
     "title": "FX/為替「ドル/円今日の見通し｜米政局不安でリスク回避 米雇用統計の反応は限定的か」 外為どっとコム トゥデイ 2026年11月6日号",
@@ -462,6 +910,14 @@
     "instrument": "ドル円",
     "published": "2026-11-05T18:53:29+09:00",
     "first_seen": "2026-11-06T04:11:48.453575+09:00"
+  },
+  {
+    "title": "ビットコインは5％超下落、暗号資産市場で24万人が清算されるも依然として8万7000ドル到達を視野",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXNlRjQ4dWJBY3F3Q0FpSDJwb2MzNlkxeFJhaU56OEFmWkFJRHoxTzV4VXl4c0JjTDdxVHVVSGdEaV9MX1FUNVk0MmZHVGRmbExYaW8tbFJfMGJMODJ1T0Z4VzJnTk9QczZVdmhVMWxOSmlOMTVaWUJvR1RWNEFObUwyeVl2anRUWVdPWWM3SmtRRzBsZEcwajE4RFBuRmNILTJhRXdRQlp3T1BuQlJQVHlKZC1xdDlnZmQ0?oc=5",
+    "source": "TradingKey",
+    "instrument": "BTC",
+    "published": "2026-11-05T18:43:00+09:00",
+    "first_seen": "2026-11-06T19:03:43.301293+09:00"
   },
   {
     "title": "ビットコインマイナーのRiotは、280億ドルのAI契約の下でAnthropicに12％の利息を支払う可能性",
