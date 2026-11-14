@@ -1,5 +1,45 @@
 [
   {
+    "title": "ゴールドマン・サックス、2027年末の金価格予測を4,650ドルに引き下げ",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoU043VmpyeXFDOGgwRG9WTlJoUGhmb3djdWZHOFFGRGpaekwwS3hLc1ltWDlJcXp5SFozVzBvS09oWFBNaWUxb0NDMHdwLTE4dDZlZzZLQldIeHkyWTFNMlN4ZWhWM0J4YXlCZjJGcw?oc=5",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-11-14T21:08:00+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
+  },
+  {
+    "title": "東証上場ASIAN STAR、BNB株主優待を決議｜CZ氏「世界初」と反応",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiN1M3U1hpNERuN2t2MDBLVmVIM0d1dmFXdW9DVnBtRWpZdG9Idzhiei1mQV9jWExBakFuS3VrQ3VtNk12MWhuNUFWYTlFdw?oc=5",
+    "source": "BitTimes",
+    "instrument": "BTC",
+    "published": "2026-11-14T17:55:54+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
+  },
+  {
+    "title": "【今日の仮想通貨】ビットコインが最高値から46%暴落、アンソロピックIPOトークンに落とし穴？",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aZ29mc3VDZ2dIUDB4Y1hlaDBodVRfSnNZMENhTzVIbGRaWkk2Y19NREVpSHFIRHBOczJoeHEybjZURFd3Sm9ra0VCZ2VPaElGb2hRZFlnLWJvaDF5NHJhNzBB?oc=5",
+    "source": "CRYPTO TIMES",
+    "instrument": "BTC",
+    "published": "2026-11-14T15:06:56+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
+  },
+  {
+    "title": "米上場ナカモト、ビットコイン評価益で黒字も調整後営業損益は赤字",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DQm1LQTZDNmdfZmxRcjB6SFJMUS1MWUxMYlJzckRiVFhvUVJFOWhPTndFSXNObXJCcU9hNDJGZW4wWmc?oc=5",
+    "source": "CoinPost",
+    "instrument": "BTC",
+    "published": "2026-11-14T13:45:37+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
+  },
+  {
+    "title": "ビットコイン過去最高値更新は再びあるかXで議論",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWSE9NTDhkRGhmZnlPQUtVMjFPWmM5bWVqWS1kNjZhUTFqR0lBNkJJMi1kMmhfMkdDR3BkSFc3SmhOMDVqbGpQMG4wZndIeW5PdWI3d1dCOVV4RW9vd21XNGV1N1hrNGhsbTFHMzBwaEM1em95S1hFeU1VMXVpdw?oc=5",
+    "source": "BeInCrypto",
+    "instrument": "BTC",
+    "published": "2026-11-14T13:24:37+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
+  },
+  {
     "title": "次期米議会、仮想通貨支持派が「300人超」民主党勝利も勢力3倍増に",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KS0QxcXNTT3k0ZkRyaGxNbWUxNGtycC1VbDFhMHhGYlFYVVgzaS11bDBYLUQySzlFZXdzUlZ1eGhFVm0xaTR6OUZYOXhzUQ?oc=5",
     "source": "BitTimes",
@@ -38,6 +78,14 @@
     "instrument": "ドル円",
     "published": "2026-11-14T08:30:03+09:00",
     "first_seen": "2026-11-14T12:56:24.634115+09:00"
+  },
+  {
+    "title": "NY原油・金相場（13日）－原油が3日ぶりに反落 金は4日ぶりに小反発(トレーダーズ・ウェブ)",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2t5Zm9nYzkzSGVxNV82Sl9aY3lsVWNaY0dmbHJkVWwzVHI5ZFlXY2hZZEc3eHk0MS1LTGN4MG0zSXdYYTBxQ1l0ejZSUDA4UVdYcVNCblBkN3ZBdjRDZ2E0bGlXN2ZSam9xdnpTOFZiQzJsYWlwUXl2WDQtcjdidzhxRW1hWVU?oc=5",
+    "source": "Yahoo!ファイナンス",
+    "instrument": "ゴールド",
+    "published": "2026-11-14T08:30:02+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
   },
   {
     "title": "NY金先物：小幅続落、FRB高官のタカ派発言で追加利上げ観測が重し",
@@ -86,6 +134,14 @@
     "instrument": "ゴールド",
     "published": "2026-11-14T06:21:06+09:00",
     "first_seen": "2026-11-14T12:56:24.634115+09:00"
+  },
+  {
+    "title": "【金価格が大きく動いた一年】1グラムの金額は3月の高値から約24％下落。「現物・純金積立・金ETF」の違い（LIMO）",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnVsV0wtSHZlX1ZJd2tiNjgza01YbWg4LUYzUXFxNmhaM3pXODhHWUhRanJ5N250azNvOEg3Smk3cThpZGVxRnVVemVWMDRablNUYkpKM2ZCTkowcnZDWHViWGN1LVlTazVTMU1rZC1ldzRIb2VhdldlakQyLUJGdGJubUp6OEhR?oc=5",
+    "source": "Yahoo!ニュース",
+    "instrument": "ゴールド",
+    "published": "2026-11-14T06:21:06+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
   },
   {
     "title": "【来週の為替予想】「注目のFX週間イベント 来週のドル/円はどう動く？」11/16～11/22",
@@ -470,6 +526,14 @@
     "instrument": "ドル円",
     "published": "2026-11-13T17:15:18+09:00",
     "first_seen": "2026-11-13T22:34:59.500684+09:00"
+  },
+  {
+    "title": "【ドル/円、今夜から来週の見通し】ドル/円、160円突破！介入警戒で神経質も次のターゲットは164円？＿2026/11/13",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80NVRJanRZXzI0SVZRMlVGWGo3NTBBb1EycHZ4RC1sRm9SMjNvQlZzWGVNNkRDY2R5MVlTaGZid0Q4aDBEMmdJMW1ucVExTk04WUpWMjRWbzM1dUo2N01KYzREbw?oc=5",
+    "source": "外為どっとコム",
+    "instrument": "ドル円",
+    "published": "2026-11-13T17:13:00+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
   },
   {
     "title": "BTC週次分析：買い手不在で下値模索、恐怖指数も悪化",
@@ -1112,6 +1176,14 @@
     "first_seen": "2026-11-13T06:38:18.621865+09:00"
   },
   {
+    "title": "金は２．８８％安＝ＮＹ金終値",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Jc0owaUdRY25DVG1pR0pGcVEyT3RzSTFzRlFJWUxRQXRtQThKbVBJZWpvb19vMU1LRXlBa01wd0pFbWd0TnRGTg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ゴールド",
+    "published": "2026-11-13T03:45:29+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
+  },
+  {
     "title": "ドル円は１５９．７５円付近での推移＝ＮＹ為替",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GbEFhdVdsVVN0Tmo5QUROSEliR09ENmdzVndHOHRMRExIa3BMbno4V0draDlJMnF2ZTZTbEUzT3NpRDdwcjB3OA?oc=5",
     "source": "みんかぶ FX/為替",
@@ -1206,6 +1278,14 @@
     "instrument": "ゴールド",
     "published": "2026-11-12T23:34:29+09:00",
     "first_seen": "2026-11-13T06:38:18.621865+09:00"
+  },
+  {
+    "title": "ドル円のピボットは１５９．７０円付近＝ＮＹ為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNaXhoR3dackQ1WVA0UUpMWVN6OTFkWk1lckhkeUw0Uy1yR1ZwREowdEl6MVhqc3BMNGFxMjBMSW94ZFhYMnpGQg?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-12T23:31:29+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
   },
   {
     "title": "ドル円、２００日線を突破 １６０円にはタッチせず＝ＮＹ為替序盤",
@@ -4238,6 +4318,14 @@
     "instrument": "ドル円",
     "published": "2026-11-10T06:35:29+09:00",
     "first_seen": "2026-11-10T14:05:08.396263+09:00"
+  },
+  {
+    "title": "反発、原油安・ドル安に加え米株高でリスクオンの動きが強まる＝NY金概況",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzdjNrY25WY1NUcE5NUTdubV91SG5HdDVSM3NJOU5fc2hvVHpQVHh4cWlEZmp0ZGxvSlVUb0ZpRWlPVEJXNUUyTw?oc=5",
+    "source": "みんかぶ",
+    "instrument": "ゴールド",
+    "published": "2026-11-10T06:11:00+09:00",
+    "first_seen": "2026-11-14T21:40:15.075596+09:00"
   },
   {
     "title": "反発、原油安・ドル安に加え米株高でリスクオンの動きが強まる＝NY金概況",
