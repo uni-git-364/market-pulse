@@ -1,5 +1,13 @@
 [
   {
+    "title": "２６日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSRWpUZlNRZnZxUGpzS2V1YnoyMUN1ZVBmU1ZhYkpQYVR3ck93bExIZWhfdWxYMWJXYU9CYlNXenBEXzlISW5faQ?oc=5",
+    "source": "みんかぶ FX/為替",
+    "instrument": "ドル円",
+    "published": "2026-11-27T07:05:12+09:00",
+    "first_seen": "2026-11-27T07:21:19.164435+09:00"
+  },
+  {
     "title": "WGC、「金価格」調整継続警戒 1月の高値より3割下落",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LbjVFY1pqVmxqSzREVU1xSTZXOVQ2Um9fdHN0aGh5a3hSbVdtdF8zWjZWXzlWckJKYWpNSnVrZ2dEclhzc3BMUzRGQ0FZRTgxRE9QOHBB?oc=5",
     "source": "ニッキンONLINE",
@@ -1166,6 +1174,14 @@
     "instrument": "ゴールド",
     "published": "2026-11-25T22:05:22+09:00",
     "first_seen": "2026-11-26T01:23:33.792151+09:00"
+  },
+  {
+    "title": "金価格が1オンス=3500ドル割れ、2025年9月以来－ドル上昇が相場圧迫",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMNER6WWx5cDRFaW1CQkFlTU1vRWFORWNBTHJFMnc4aTFIaWtIX2dudUJsd3IxTXdsNlJyS092YlEyTE10NWpLcWVrcUg2cDNmZVk3Mkw3OEN4QVg5ZXVnSHFlekhqc2hFX1ZHckJScHRjQW15VmFz?oc=5",
+    "source": "Bloomberg.com",
+    "instrument": "ゴールド",
+    "published": "2026-11-25T22:05:22+09:00",
+    "first_seen": "2026-11-27T07:21:19.164435+09:00"
   },
   {
     "title": "金価格が1オンス=3500ドル割れ、2025年9月以来－ドル上昇が相場圧迫",
@@ -3046,6 +3062,14 @@
     "instrument": "BTC",
     "published": "2026-11-24T10:32:01+09:00",
     "first_seen": "2026-11-24T16:28:49.871850+09:00"
+  },
+  {
+    "title": "アメリカンビットコイン、ビットコインを売らず担保で238億円の融資枠を確保",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFSGVieU1nUWhndm9NSUxRVkJweDlWUnl1VVI4d2JPVlpKRjV0VEZLdE5UYlVMTGJyNHZzdWduZXFudE10LU1sVmw5MVBxV0NF?oc=5",
+    "source": "Iolite（アイオライト）",
+    "instrument": "BTC",
+    "published": "2026-11-24T10:17:52+09:00",
+    "first_seen": "2026-11-27T07:21:19.164435+09:00"
   },
   {
     "title": "東京外国為替市場概況・10時 ドル円、神経質な値動き(トレーダーズ・ウェブ)",
